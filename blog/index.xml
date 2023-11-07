@@ -1,0 +1,193 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ Auto – 博客</title><link>https://hoa.moe/blog/</link><description>Recent content in 博客 on HITSZ Auto</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hoa.moe/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Markdown 语法指南</title><link>https://hoa.moe/blog/markdown/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://hoa.moe/blog/markdown/</guid><description>
+&lt;p>这篇文章提供了一些基础的 Markdown 语法样例。&lt;/p>
+&lt;h2>基础语法&lt;span class="absolute -mt-20" id="基础语法">&lt;/span>
+&lt;a href="#%e5%9f%ba%e7%a1%80%e8%af%ad%e6%b3%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>标题&lt;span class="absolute -mt-20" id="标题">&lt;/span>
+&lt;a href="#%e6%a0%87%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;pre>&lt;code id="code-block-0"># 一级标题
+## 二级标题
+### 三级标题
+#### 四级标题
+##### 五级标题
+###### 六级标题&lt;/code>&lt;/pre>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+data-clipboard-target="#code-block-0"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h2>二级标题&lt;span class="absolute -mt-20" id="二级标题">&lt;/span>
+&lt;a href="#%e4%ba%8c%e7%ba%a7%e6%a0%87%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>三级标题&lt;span class="absolute -mt-20" id="三级标题">&lt;/span>
+&lt;a href="#%e4%b8%89%e7%ba%a7%e6%a0%87%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>四级标题&lt;span class="absolute -mt-20" id="四级标题">&lt;/span>
+&lt;a href="#%e5%9b%9b%e7%ba%a7%e6%a0%87%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;h5>五级标题&lt;span class="absolute -mt-20" id="五级标题">&lt;/span>
+&lt;a href="#%e4%ba%94%e7%ba%a7%e6%a0%87%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h5>&lt;h6>六级标题&lt;span class="absolute -mt-20" id="六级标题">&lt;/span>
+&lt;a href="#%e5%85%ad%e7%ba%a7%e6%a0%87%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h6>&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div id="code-block-1">&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">*这段文字将是斜体*
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">_这也将是斜体_
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">**这段文字将是粗体**
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">__这也将是粗体__
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">_你 **可以** 组合它们_&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+data-clipboard-target="#code-block-1"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;p>&lt;em>这段文字将是斜体&lt;/em>
+&lt;em>这也将是斜体&lt;/em>&lt;/p>
+&lt;p>&lt;strong>这段文字将是粗体&lt;/strong>
+&lt;strong>这也将是粗体&lt;/strong>&lt;/p>
+&lt;p>&lt;em>你 &lt;strong>可以&lt;/strong> 组合它们&lt;/em>&lt;/p>
+&lt;h3>列表&lt;span class="absolute -mt-20" id="列表">&lt;/span>
+&lt;a href="#%e5%88%97%e8%a1%a8" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>无序列表&lt;span class="absolute -mt-20" id="无序列表">&lt;/span>
+&lt;a href="#%e6%97%a0%e5%ba%8f%e5%88%97%e8%a1%a8" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
+&lt;li>项目 1&lt;/li>
+&lt;li>项目 2
+&lt;ul>
+&lt;li>项目 2a&lt;/li>
+&lt;li>项目 2b&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4>有序列表&lt;span class="absolute -mt-20" id="有序列表">&lt;/span>
+&lt;a href="#%e6%9c%89%e5%ba%8f%e5%88%97%e8%a1%a8" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ol>
+&lt;li>项目 1&lt;/li>
+&lt;li>项目 2&lt;/li>
+&lt;li>项目 3
+&lt;ol>
+&lt;li>项目 3a&lt;/li>
+&lt;li>项目 3b&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ol>
+&lt;h3>图片&lt;span class="absolute -mt-20" id="图片">&lt;/span>
+&lt;a href="#%e5%9b%be%e7%89%87" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div id="code-block-2">&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">![&lt;span class="nt">GitHub Logo&lt;/span>](&lt;span class="na">https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+data-clipboard-target="#code-block-2"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;p>&lt;img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" loading="lazy" />&lt;/p>
+&lt;h3>链接&lt;span class="absolute -mt-20" id="链接">&lt;/span>
+&lt;a href="#%e9%93%be%e6%8e%a5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div id="code-block-3">&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">[&lt;span class="nt">Hugo&lt;/span>](&lt;span class="na">https://gohugo.io&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+data-clipboard-target="#code-block-3"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;p>&lt;a href="https://gohugo.io" target="_blank" rel="noopener">Hugo&lt;/a>&lt;/p>
+&lt;h3>块引用&lt;span class="absolute -mt-20" id="块引用">&lt;/span>
+&lt;a href="#%e5%9d%97%e5%bc%95%e7%94%a8" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div id="code-block-4">&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">牛顿曾说：
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;gt; 如果我看得更远，那是因为我站在巨人的肩膀上。&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+data-clipboard-target="#code-block-4"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;blockquote>
+&lt;p>如果我看得更远，那是因为我站在巨人的肩膀上。&lt;/p>
+&lt;/blockquote>
+&lt;h3>行内代码&lt;span class="absolute -mt-20" id="行内代码">&lt;/span>
+&lt;a href="#%e8%a1%8c%e5%86%85%e4%bb%a3%e7%a0%81" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div id="code-block-5">&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">行内 &lt;span class="sb">`代码`&lt;/span> 有 &lt;span class="sb">`反引号`&lt;/span> 包围。&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+data-clipboard-target="#code-block-5"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;p>行内 &lt;code>代码&lt;/code> 有 &lt;code>反引号&lt;/code> 包围。&lt;/p>
+&lt;h3>代码块&lt;span class="absolute -mt-20" id="代码块">&lt;/span>
+&lt;a href="#%e4%bb%a3%e7%a0%81%e5%9d%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>语法高亮&lt;span class="absolute -mt-20" id="语法高亮">&lt;/span>
+&lt;a href="#%e8%af%ad%e6%b3%95%e9%ab%98%e4%ba%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div id="code-block-6">&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">&lt;span class="s">```go
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s">&lt;/span>&lt;span class="kd">func&lt;/span> &lt;span class="nf">main&lt;/span>&lt;span class="p">()&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">fmt&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nf">Println&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s">&amp;#34;Hello World&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s">```&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+data-clipboard-target="#code-block-6"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div id="code-block-7">&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-go" data-lang="go">&lt;span class="line">&lt;span class="cl">&lt;span class="kd">func&lt;/span> &lt;span class="nf">main&lt;/span>&lt;span class="p">()&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">fmt&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nf">Println&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s">&amp;#34;Hello World&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+data-clipboard-target="#code-block-7"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h3>表格&lt;span class="absolute -mt-20" id="表格">&lt;/span>
+&lt;a href="#%e8%a1%a8%e6%a0%bc" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div id="code-block-8">&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">| Syntax | Description |
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">| --------- | ----------- |
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">| Header | Title |
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">| Paragraph | Text |&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+data-clipboard-target="#code-block-8"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Syntax&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Header&lt;/td>
+&lt;td>Title&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Paragraph&lt;/td>
+&lt;td>Text&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2>参考&lt;span class="absolute -mt-20" id="参考">&lt;/span>
+&lt;a href="#%e5%8f%82%e8%80%83" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noopener">Markdown Syntax&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gohugo.io/content-management/formats/#markdown" target="_blank" rel="noopener">Hugo Markdown&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
