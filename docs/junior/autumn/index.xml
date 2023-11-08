@@ -1,9 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ OpenAuto – 第三学年秋季</title><link>https://hoa.moe/docs/junior/autumn/</link><description>Recent content in 第三学年秋季 on HITSZ OpenAuto</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://hoa.moe/docs/junior/autumn/index.xml" rel="self" type="application/rss+xml"/><item><title>Distributional-Selective</title><link>https://hoa.moe/docs/junior/autumn/distributional-selective/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior/autumn/distributional-selective/</guid><description>
-&lt;p>探索以下各节以查找相关资料&lt;/p>
-&lt;div class="hextra-cards mt-4 gap-4 grid not-prose" style="--rows: 3;">
-&lt;a
-class="hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900"href="AUTO3003" >&lt;span class="flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50">数字图像处理&lt;/span>&lt;/a>
-&lt;/div></description></item><item><title>Mandatory</title><link>https://hoa.moe/docs/junior/autumn/mandatory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior/autumn/mandatory/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ OpenAuto – 第三学年秋季</title><link>https://hoa.moe/docs/junior/autumn/</link><description>Recent content in 第三学年秋季 on HITSZ OpenAuto</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://hoa.moe/docs/junior/autumn/index.xml" rel="self" type="application/rss+xml"/><item><title>必修</title><link>https://hoa.moe/docs/junior/autumn/mandatory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior/autumn/mandatory/</guid><description>
 &lt;p>探索以下各节以查找相关资料&lt;/p>
 &lt;p>
 &lt;div class="hextra-cards mt-4 gap-4 grid not-prose" style="--rows: 3;">
@@ -22,4 +17,9 @@ class="hextra-card group flex flex-col justify-start overflow-hidden rounded-lg 
 &lt;a
 class="hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900"href="AUTO3004" >&lt;span class="flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50">系统建模与仿真&lt;/span>&lt;/a>
 &lt;/div>
-&lt;/p></description></item></channel></rss>
+&lt;/p></description></item><item><title>限选</title><link>https://hoa.moe/docs/junior/autumn/distributional-selective/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior/autumn/distributional-selective/</guid><description>
+&lt;p>探索以下各节以查找相关资料&lt;/p>
+&lt;div class="hextra-cards mt-4 gap-4 grid not-prose" style="--rows: 3;">
+&lt;a
+class="hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900"href="AUTO3003" >&lt;span class="flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50">数字图像处理&lt;/span>&lt;/a>
+&lt;/div></description></item></channel></rss>
