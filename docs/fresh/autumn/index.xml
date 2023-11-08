@@ -1,12 +1,68 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ OpenAuto – 第一学年秋季</title><link>https://hoa.moe/docs/fresh/autumn/</link><description>Recent content in 第一学年秋季 on HITSZ OpenAuto</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://hoa.moe/docs/fresh/autumn/index.xml" rel="self" type="application/rss+xml"/><item><title>必修</title><link>https://hoa.moe/docs/fresh/autumn/mandatory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/fresh/autumn/mandatory/</guid><description>
-&lt;p>探索以下各节以查找相关资料&lt;/p>
-&lt;p>
-&lt;div class="hextra-cards mt-4 gap-4 grid not-prose" style="--rows: 3;">
-&lt;a
-class="hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900"href="math1015a" >&lt;span class="flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50">微积分A&lt;/span>&lt;/a>
-&lt;/div>
-&lt;div class="hextra-cards mt-4 gap-4 grid not-prose" style="--rows: 3;">
-&lt;a
-class="hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900"href="comp2021" >&lt;span class="flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50">高级语言程序设计&lt;/span>&lt;/a>
-&lt;/div>
-&lt;/p></description></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ OpenAuto – 第一学年秋季</title><link>https://hoa.moe/docs/fresh/autumn/</link><description>Recent content in 第一学年秋季 on HITSZ OpenAuto</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://hoa.moe/docs/fresh/autumn/index.xml" rel="self" type="application/rss+xml"/><item><title>高级语言程序设计</title><link>https://hoa.moe/docs/fresh/autumn/comp2021/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/fresh/autumn/comp2021/</guid><description>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-3-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90%ef%bc%8822%e7%ba%a7%ef%bc%89-gold" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c-30%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e6%9c%9f%e6%9c%ab%e8%80%83%e8%af%95-50%25-wheat" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90%ef%bc%8821%e7%ba%a7%ef%bc%89-gold" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-10%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c-30%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e6%9c%9f%e6%9c%ab%e8%80%83%e8%af%95-60%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;h3>关于教师&lt;span class="absolute -mt-20" id="关于教师">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>教师上课风格没有很活泼，照着 ppt 念，而且速度偏快。&lt;/p>
+&lt;p>听课并不必须，因为 C语言 的语法，主要不是听讲学来的，而是自己敲代码所体悟到，上课建议可以自己敲敲代码。&lt;/p>
+&lt;h3>关于本课&lt;span class="absolute -mt-20" id="关于本课">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e6%9c%ac%e8%af%be" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>3202 年了，大学中居然还存在这种考试要手写代码，语言标准还停留在上个世纪的编程语言课，简直不可思议。&lt;/p>
+&lt;p>作为大多数人接触的第一门编程语言，c语言劝退了很多萌新。如果你觉得这门语言晦涩难懂，大概率不是你的问题，而是教材或是授课老师的问题（也有可能是语言本身的问题）。你不能指望通过学校的课程学习这门课（当然如果你只是针对考试以后并不想做与编程有关的事情当我没说），你也不能指望通过国内教材学习编程语言，更不能指望b站上国内诸如某马、某士兵之类的培训机构。&lt;/p>
+&lt;p>个人认为比较好的学习流程是（当然这并不能给你带来高分）：&lt;/p>
+&lt;ul>
+&lt;li>放弃 codeblocks 这种古董IDE，拥抱 CLion、VSC 等一众现代 IDE 。你有什么理由要拒绝一个 调试简单、UI美观、自带自动补全功能的编程工具呢？（Vim 和 Emacs 用户请自行离开）&lt;/li>
+&lt;li>放弃出勤。你可以在课前课后找老师要 PPT，然后根据 PPT 上的内容自主学习（我反正觉得待在教室听课就是坐牢）。自主学习的方式很多，一般可以分为：
+&lt;ul>
+&lt;li>通过相关课程视频学习：推荐 Coursera 和 youtube 上的课程（英文授课），可以在 b 站上找找有没有搬运（不过机翻字幕看着还是挺难受的，英文比较好的可以尝试直接啃生肉）&lt;/li>
+&lt;li>通过官方文档学习：推荐 &lt;a href="https://learn.microsoft.com/zh-cn/cpp/c-language/organization-of-the-c-language-reference?view=msvc-170" target="_blank" rel="noopener">微软官方提供的c教程&lt;/a>。一般这种网页开源书或教程都能与时俱进，这也是电子化学习的好处之一。&lt;/li>
+&lt;li>通过权威书籍学习：如果以上的方式都不适合你，你也可以选择一本业界公认的权威书籍进行学习（避雷国内教材！）。可以试试 C Primer Plus，但我个人觉得里面的内容比较拖沓。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>放弃 C 语言（逃）。直接上手 cpp 其实也没啥太大问题，不过 cpp 水太深，并且也很容易陷入与 c 语言一样的困境——接触的东西全是十几二十年前的内容，新特性一点不会。&lt;/li>
+&lt;/ul>
+&lt;p align="right">&lt;strong>本小节更新于 2023.9.1&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;h3>关于实验&lt;span class="absolute -mt-20" id="关于实验">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e5%ae%9e%e9%aa%8c" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>实验一共九次。前四次实验较简单，而且是独立实验。后五次实验难度较大，代码量较大，综合考察指针、数组、函数、结构体，任务大体相似，只是具体要求不同。&lt;/p>
+&lt;p>每年实验几乎不变。&lt;/p>
+&lt;p>助教答疑很随便，大多是让自己去调试。&lt;/p>
+&lt;p>前三、四个课上基本可以完成，课后大概只需花一点时间完善一下，并测试好。后五个实验需要在课后花大量时间，才能写完，一个实验课后大约多花 2-4 小时。（ps:要想拿高分，除了基本要求外，还有增强代码健壮性，还有多写注释，课后还需更多时间）&lt;/p>
+&lt;h3>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>考试整体难度不大。最高分应该是 100 分或接近 100 分，平均分 80 左右，挂科率大约百分之二。（补：22级全年级仅有一人挂科）&lt;/p>
+&lt;p>主要考查对各语法的理解，基本上实验课都有所设及，个别比较生僻的语法知识和函数，则需特别复习。&lt;/p>
+&lt;h3>Tips&lt;span class="absolute -mt-20" id="tips">&lt;/span>
+&lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>作业主要是完成课后练习题的部分题，难度不大，所需时间也不多。&lt;/p>
+&lt;p>上课不点名，不考勤。学习时，边看书本语法知识，边敲代码，可以结合 B站 或者 中国大学MOOC 上的网课资源。&lt;/p>
+&lt;p>如果有时间，可以把书本上除作业之外的课后练习题也完成一下，并且完成的同时思考，一道题能否用多种语句来实现，可逐一尝试。前期尽量少复制黏贴代码，尽量手打，对于关键字、语法的记忆有较大帮助。&lt;/p>
+&lt;p>实验课作业最好独立完——对于 C语言 核心知识掌握很有帮助。一些不常用的语句，函数，生僻的关键字，则需特别记忆。&lt;/p>
+&lt;p>比较好的 MOOC资源 ，北大的 C语言 和浙江大学翁恺的 C语言 ，B站、或者 中国大学MOOC 上都有（但 中国大学MOOC 有开课时间限制）。&lt;/p>
+&lt;p align="right">&lt;strong>update time&lt;/strong>&lt;/p>
+&lt;p align="right">&lt;strong>2023.9.1&lt;/strong>&lt;/p></description></item><item><title>微积分A</title><link>https://hoa.moe/docs/fresh/autumn/math1015a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/fresh/autumn/math1015a/</guid><description>
+&lt;blockquote>
+&lt;h3>说明&lt;span class="absolute -mt-20" id="说明">&lt;/span>
+&lt;a href="#%e8%af%b4%e6%98%8e" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>通过 &lt;a href="https://shields.io/" target="_blank" rel="noopener">Shields.io&lt;/a> 生成如下的徽章，标注课程的基本信息。尽情发挥你的颜色审美！&lt;/li>
+&lt;li>请根据课程的具体内容增删仓库的子文件夹。子文件夹建议使用小写英文，并且添加 README.md。&lt;/li>
+&lt;li>关于课程的描述可以不止以下几个方面，酌情增删。&lt;/li>
+&lt;li>完成一个课程仓库的搭建后，请移除各子文件夹下所有的&lt;strong>引用&lt;/strong>，包括本段落。&lt;/li>
+&lt;/ol>
+&lt;/blockquote>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-5-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e6%9c%9f%e4%b8%ad%e8%80%83%e8%af%95-30%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-50%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>
+&lt;p>教师1：zb&lt;/p>
+&lt;p>一些老师会用ppt，但是大部分老师都是板书的。比如我的老师是zb，几乎全校好评第一。 &lt;br>
+上课用全板书无ppt，注重对概念的深入讲解，对定理的必要证明及历史背景会详细介绍，整体而言讲的比较慢，但很清晰。如果已经会了知识点可不听，直接往后看书或者刷题。（但挺有意思的，还是可听听）。&lt;/p>
+&lt;p>答疑特别友好，直接找任课老师，老师甚至觉得助教太忙，有事可以直接找他，也不需要去办公室，直接微信问就好了，非常良心的老师！(仅是我的老师 ZB，有些老师授课方式风格不同，可能感受不一样，有位别的班的同学，老师是 YGQ，他觉得边上课边看工科数学分析是个 good idea）&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>期中考试占三十分，期末考试五十分。考试难度，整体中等（有简单题、也有很难的题）。&lt;/p>
+&lt;p>具体题型的话，仓库和自救群有往年真题，从 17 到 20 年题型无变化。大家可自己去看。很多考试的真题来源于高数作业集后面的期中模拟题，和期末模拟题，已及教辅材料工科数学分析（建议购买）。备考时，注重概念的理解，一些必要公式背熟，多做真题和模拟题找感觉。&lt;/p>
+&lt;p>期中考试平均分大约在 23 左右，最高分 30；期末考试平均分大约在 40左右，最高分 50。挂科率大约在 2% 左右。&lt;/p>
+&lt;h2>Tips&lt;span class="absolute -mt-20" id="tips">&lt;/span>
+&lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>上课不点名，考勤直接平时分给满（可能疫情阶段，扫描考勤，特殊处理）。&lt;/p>
+&lt;p>作业的话，一般都在 18 分以上，除非个别很难忍，给 17。一定要及时交，不交 0 分，交了至少 17。但作业批改随便，比如积分的时候，答案有很多形式，但助教不会帮你看，可能和助教不一样就会判错，书写也会影响分数。&lt;/p>
+&lt;p>学习的时候，上课专心听，老师的节奏慢，可以不用预习（个人感觉）。对于一些公式，最好记下来，然后平时多做题。在作业之余，有时间可以刷一下教辅——工科数学分析，记一下上面的拓展公式（对考试帮助很大）。个人感觉不需要 MOOC。&lt;/p></description></item></channel></rss>
