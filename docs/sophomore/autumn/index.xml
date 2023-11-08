@@ -1,30 +1,206 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ OpenAuto – 第二学年秋季</title><link>https://hoa.moe/docs/sophomore/autumn/</link><description>Recent content in 第二学年秋季 on HITSZ OpenAuto</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://hoa.moe/docs/sophomore/autumn/index.xml" rel="self" type="application/rss+xml"/><item><title>必修</title><link>https://hoa.moe/docs/sophomore/autumn/mandatory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore/autumn/mandatory/</guid><description>
-&lt;p>探索以下各节以查找相关资料&lt;/p>
-&lt;p>
-&lt;div class="hextra-cards mt-4 gap-4 grid not-prose" style="--rows: 3;">
-&lt;a
-class="hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900"href="PHYS1002A" >&lt;span class="flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50">大学物理实验IA&lt;/span>&lt;/a>
-&lt;/div>
-&lt;div class="hextra-cards mt-4 gap-4 grid not-prose" style="--rows: 3;">
-&lt;a
-class="hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900"href="MATH1005" >&lt;span class="flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50">复变函数与积分变换&lt;/span>&lt;/a>
-&lt;/div>
-&lt;div class="hextra-cards mt-4 gap-4 grid not-prose" style="--rows: 3;">
-&lt;a
-class="hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900"href="MATH1004" >&lt;span class="flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50">概率论与数理统计&lt;/span>&lt;/a>
-&lt;/div>
-&lt;div class="hextra-cards mt-4 gap-4 grid not-prose" style="--rows: 3;">
-&lt;a
-class="hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900"href="EE1011B" >&lt;span class="flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50">电路IB&lt;/span>&lt;/a>
-&lt;/div>
-&lt;/p></description></item><item><title>跨专业选修</title><link>https://hoa.moe/docs/sophomore/autumn/cross-major-selective/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore/autumn/cross-major-selective/</guid><description>
-&lt;p>探索以下各节以查找相关资料&lt;/p>
-&lt;div class="hextra-cards mt-4 gap-4 grid not-prose" style="--rows: 3;">
-&lt;a
-class="hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900"href="CHEM1012" >&lt;span class="flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50">大学化学III&lt;/span>&lt;/a>
-&lt;/div></description></item><item><title>限选</title><link>https://hoa.moe/docs/sophomore/autumn/distributional-selective/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore/autumn/distributional-selective/</guid><description>
-&lt;p>探索以下各节以查找相关资料&lt;/p>
-&lt;div class="hextra-cards mt-4 gap-4 grid not-prose" style="--rows: 3;">
-&lt;a
-class="hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900"href="COMP2014" >&lt;span class="flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50">C&amp;#43;&amp;#43;语言程序设计&lt;/span>&lt;/a>
-&lt;/div></description></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ OpenAuto – 第二学年秋季</title><link>https://hoa.moe/docs/sophomore/autumn/</link><description>Recent content in 第二学年秋季 on HITSZ OpenAuto</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://hoa.moe/docs/sophomore/autumn/index.xml" rel="self" type="application/rss+xml"/><item><title>C++语言程序设计</title><link>https://hoa.moe/docs/sophomore/autumn/comp2014/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore/autumn/comp2014/</guid><description>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>教师 王焦乐
+&lt;ul>
+&lt;li>授课风格：&lt;/li>
+&lt;li>听课建议：&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2></description></item><item><title>大学化学III</title><link>https://hoa.moe/docs/sophomore/autumn/chem1012/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore/autumn/chem1012/</guid><description>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E8%B7%A8%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%E8%AF%BE-lightskyblue" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%B9%B3%E6%97%B6%E4%BD%9C%E4%B8%9A-60%25-wheat" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-40%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>教师 1：Guo Bin
+&lt;ul>
+&lt;li>授课风格：使用 PPT。比较无聊，时常陷入“你们有没有问题？”的尴尬的沉默。会点名让同学回答问题。&lt;/li>
+&lt;li>听课建议：待补充。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>大学化学III 没有期末考试🤣，这是这门课对学生最友好的一点。相比经济学原理之类的选修课，学习压力会小很多。&lt;/p>
+&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2></description></item><item><title>大学物理实验IA</title><link>https://hoa.moe/docs/sophomore/autumn/phys1002a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore/autumn/phys1002a/</guid><description>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1-moccasin" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E6%AF%8F%E6%AC%A1%E5%AE%9E%E9%AA%8C%E5%BE%97%E5%88%86%E7%9A%84%E5%8A%A0%E6%9D%83%E5%92%8C-wheat" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/2023%20%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%95%A6-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;h2>For Beginners&lt;span class="absolute -mt-20" id="for-beginners">&lt;/span>
+&lt;a href="#for-beginners" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>物理实验需要开学后在单独的选课平台上，从大约十多个实验（2023 年为 12 个）中，选足 20 学时的实验完成。这些实验中大多是 2 学时（1 节大课），少数为 4 学时（2 节大课）。&lt;/p>
+&lt;p>每一个实验在该学期内会开设很多次，需要学生自己选择上哪一天的，并且不与其他课冲突（由于不是在本研教学平台上选课，选好的实验并不会显示在你的教务平台课程表中）。你可以将实验选在学期初避免占用期末周，也可以将实验选在学期后期，&lt;del>趁国庆节假期把所有实验的预习给做完&lt;/del>，这样时间更充足。&lt;/p>
+&lt;p>每次实验前要完成实验预习（要求手写）并在课上交由老师检查，实验做完后需要在规定日期前提交实验报告（2023 年是实验后两周内），报告使用 pdf 格式（过去只能交纸质，甚至&lt;strong>手写&lt;/strong>）。&lt;/p>
+&lt;h2>Repository Description&lt;span class="absolute -mt-20" id="repository-description">&lt;/span>
+&lt;a href="#repository-description" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>这门课只有 1 学分，然而总共有 24 学时，相当费时费力，所以我们的应对办法就是将省事的工具集中起来，让选做各种物理实验的同学们能更快地完成实验外的工作。&lt;/p>
+&lt;h3>Contents&lt;span class="absolute -mt-20" id="contents">&lt;/span>
+&lt;a href="#contents" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>请根据这个目录查找对应的实验，实验顺序参考自 2023 年秋季实验指导书。&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">编号&lt;/th>
+&lt;th style="text-align:center">实验名称&lt;/th>
+&lt;th style="text-align:center">文件夹链接&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">01&lt;/td>
+&lt;td style="text-align:center">用示波器观测磁滞回线&lt;/td>
+&lt;td style="text-align:center">&lt;a href="./Exp01" >Exp01&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">02&lt;/td>
+&lt;td style="text-align:center">拉伸法测杨氏弹性模量&lt;/td>
+&lt;td style="text-align:center">&lt;a href="./Exp02" >Exp02&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">03&lt;/td>
+&lt;td style="text-align:center">液体黏度的测定&lt;/td>
+&lt;td style="text-align:center">&lt;a href="./Exp03" >Exp03&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">04&lt;/td>
+&lt;td style="text-align:center">薄透镜焦距的测定&lt;/td>
+&lt;td style="text-align:center">&lt;a href="./Exp04" >Exp04&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">05&lt;/td>
+&lt;td style="text-align:center">用惠斯通电桥测电阻&lt;/td>
+&lt;td style="text-align:center">&lt;a href="./Exp05" >Exp05&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">06&lt;/td>
+&lt;td style="text-align:center">DIY 实验——磁耦合谐振式无线电力传输实验研究&lt;/td>
+&lt;td style="text-align:center">&lt;a href="./Exp06" >Exp06&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">07&lt;/td>
+&lt;td style="text-align:center">声速的测量&lt;/td>
+&lt;td style="text-align:center">&lt;a href="./Exp07" >Exp07&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">08&lt;/td>
+&lt;td style="text-align:center">迈克尔逊干涉仪&lt;/td>
+&lt;td style="text-align:center">&lt;a href="./Exp08" >Exp08&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">09&lt;/td>
+&lt;td style="text-align:center">电子电荷的测定——密立根油滴法&lt;/td>
+&lt;td style="text-align:center">&lt;a href="./Exp09" >Exp09&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">霍尔效应传感器和各向异性磁电阻传感器&lt;/td>
+&lt;td style="text-align:center">&lt;a href="./Exp10" >Exp10&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">太阳能电池的基本特性研究&lt;/td>
+&lt;td style="text-align:center">&lt;a href="./Exp11" >Exp11&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">液体表面张力系数测量&lt;/td>
+&lt;td style="text-align:center">&lt;a href="./Exp12" >Exp12&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2>Contributing&lt;span class="absolute -mt-20" id="contributing">&lt;/span>
+&lt;a href="#contributing" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>每个人选择的物理实验可能不同，一个人即使上传了自己全部的实验资料也不能覆盖到所有人的需求，
+所以需要热心的朋友们 Pull Request，共同完善这个仓库。&lt;/p>
+&lt;p>关于如何 Pull Request，可以参考 HITSZ-Auto 的主仓库的说明：https://github.com/HITSZ-Auto/HITSZ-OpenAuto#%E8%B4%A1%E7%8C%AE&amp;ndash;contribution&lt;/p>
+&lt;p>即使是已经有人上传了资料的实验，你也可以在这个实验的目录下添加自己的版本，把你的资料放进去。推荐将文件夹命名为自己的昵称（可参考现有的文件夹命名方式）。&lt;/p>
+&lt;p>我们建议你在上传资料时，包含以下内容：&lt;/p>
+&lt;ul>
+&lt;li>实验报告的 docx 或 pdf 成品&lt;/li>
+&lt;li>用来画图或数据处理的源程序，使用任何编程语言均可&lt;/li>
+&lt;/ul>
+&lt;p>注意，&lt;strong>不要改动或删除别人的资料&lt;/strong>！&lt;/p>
+&lt;p>同时，也非常欢迎大佬能为这些物理实验制作 LaTeX 或 typst 等模版，
+这样对于熟悉这些排版系统的人来说会更加方便。&lt;/p>
+&lt;p>未来，学校的物理实验可能会有所改变。如果真的有新的实验，就麻烦以后的学生维护仓库了。&lt;/p>
+&lt;h2>Others&lt;span class="absolute -mt-20" id="others">&lt;/span>
+&lt;a href="#others" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>关于大学物理实验 IB 的资料，有一个 LaTeX 模板仓库：&lt;a href="https://github.com/LittleYe233/hitsz-physics-ib-reports" target="_blank" rel="noopener">hitsz-physics-ib-rerports&lt;/a>&lt;/p></description></item><item><title>电路IB</title><link>https://hoa.moe/docs/sophomore/autumn/ee1011b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore/autumn/ee1011b/</guid><description>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-80%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>教师 1：Wang Yi
+&lt;ul>
+&lt;li>授课风格：口水话很多，听课不容易抓住重点；PPT 的内容很完整但同样不好抓住重点。结果很少有学生去现场上课。（回来吧我的火山宝宝😭）&lt;/li>
+&lt;li>听课建议：建议自力更生。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>教师 2：Zhao Fei
+&lt;ul>
+&lt;li>授课风格：待补充&lt;/li>
+&lt;li>听课建议：待补充&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2></description></item><item><title>复变函数与积分变换</title><link>https://hoa.moe/docs/sophomore/autumn/math1005/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore/autumn/math1005/</guid><description>
+&lt;p>&lt;a href="" >返回上一页&lt;/a>
+&lt;a href="" >返回主页&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2.5-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-80%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>教师1：Bao Gejun
+&lt;ul>
+&lt;li>校用教材《复变函数与积分变换 简明教程》的编者之一&lt;/li>
+&lt;li>关于他的描述，在 &lt;a href="https://github.com/HITSZ-Auto/HITSZ-OpenAuto/tree/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6B" target="_blank" rel="noopener">微积分B&lt;/a> 中已经提到过了。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>教师 2：Bao Yixin
+&lt;ul>
+&lt;li>教学风格：待补充&lt;/li>
+&lt;li>听课建议：待补充&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2></description></item><item><title>概率论与数理统计</title><link>https://hoa.moe/docs/sophomore/autumn/math1004/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore/autumn/math1004/</guid><description>
+&lt;p>&lt;a href="" >返回上一页&lt;/a> &lt;a href="" >返回主页&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-3-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E8%AE%BA%E6%96%87-10%25-wheat" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-70%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>教师 1：Dong Zhiyuan
+&lt;ul>
+&lt;li>授课风格：使用 PPT，课上会给出例题让大家在几分钟内做，然后给出解答。&lt;/li>
+&lt;li>听课建议：有丰富的例题便于大家理解，建议按照老师的节奏听课和做例题。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2></description></item></channel></rss>
