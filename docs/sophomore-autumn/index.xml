@@ -1,10 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ OpenAuto – 大二·秋</title><link>https://hoa.moe/docs/sophomore-autumn/</link><description>Recent content in 大二·秋 on HITSZ OpenAuto</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://hoa.moe/docs/sophomore-autumn/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://hoa.moe/docs/sophomore-autumn/cross-major-selective/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-autumn/cross-major-selective/</guid><description>
-&lt;p>weight: 201&lt;/p></description></item><item><title/><link>https://hoa.moe/docs/sophomore-autumn/distributional-selective/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-autumn/distributional-selective/</guid><description>
-&lt;p>weight: 105&lt;/p></description></item><item><title/><link>https://hoa.moe/docs/sophomore-autumn/mandatory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-autumn/mandatory/</guid><description>
-&lt;p>weight: 1
-weight: 8
-weight: 9
-weight: 10&lt;/p></description></item><item><title>(必修)大学物理实验IA</title><link>https://hoa.moe/docs/sophomore-autumn/phys1002a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-autumn/phys1002a/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ OpenAuto – 大二·秋</title><link>https://hoa.moe/docs/sophomore-autumn/</link><description>Recent content in 大二·秋 on HITSZ OpenAuto</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://hoa.moe/docs/sophomore-autumn/index.xml" rel="self" type="application/rss+xml"/><item><title>(必修)大学物理实验IA</title><link>https://hoa.moe/docs/sophomore-autumn/phys1002a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-autumn/phys1002a/</guid><description>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green" alt="Static Badge" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1-moccasin" alt="Static Badge" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple" alt="Static Badge" loading="lazy" />&lt;/p>
@@ -105,30 +99,7 @@ weight: 10&lt;/p></description></item><item><title>(必修)大学物理实验IA<
 这样对于熟悉这些排版系统的人来说会更加方便。&lt;/p>
 &lt;p>未来，学校的物理实验可能会有所改变。如果真的有新的实验，就麻烦以后的学生维护仓库了。&lt;/p>
 &lt;h2>Others&lt;span class="absolute -mt-20" id="others">&lt;/span>
-&lt;a href="#others" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>关于大学物理实验 IB 的资料，有一个 LaTeX 模板仓库：&lt;a href="https://github.com/LittleYe233/hitsz-physics-ib-reports" target="_blank" rel="noopener">hitsz-physics-ib-rerports&lt;/a>&lt;/p></description></item><item><title>(必修)电路IB</title><link>https://hoa.moe/docs/sophomore-autumn/ee1011b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-autumn/ee1011b/</guid><description>
-&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
-&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="Static Badge" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-80%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
-&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
-&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>教师 1：Wang Yi
-&lt;ul>
-&lt;li>授课风格：口水话很多，听课不容易抓住重点；PPT 的内容很完整但同样不好抓住重点。结果很少有学生去现场上课。（回来吧我的火山宝宝😭）&lt;/li>
-&lt;li>听课建议：建议自力更生。&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>教师 2：Zhao Fei
-&lt;ul>
-&lt;li>授课风格：待补充&lt;/li>
-&lt;li>听课建议：待补充&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
-&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2></description></item><item><title>(必修)复变函数与积分变换</title><link>https://hoa.moe/docs/sophomore-autumn/math1005/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-autumn/math1005/</guid><description>
+&lt;a href="#others" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>关于大学物理实验 IB 的资料，有一个 LaTeX 模板仓库：&lt;a href="https://github.com/LittleYe233/hitsz-physics-ib-reports" target="_blank" rel="noopener">hitsz-physics-ib-rerports&lt;/a>&lt;/p></description></item><item><title>(必修)复变函数与积分变换</title><link>https://hoa.moe/docs/sophomore-autumn/math1005/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-autumn/math1005/</guid><description>
 &lt;p>&lt;a href="" >返回上一页&lt;/a>
 &lt;a href="" >返回主页&lt;/a>&lt;/p>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" />
@@ -172,6 +143,47 @@ weight: 10&lt;/p></description></item><item><title>(必修)大学物理实验IA<
 &lt;/ul>
 &lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
 &lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2></description></item><item><title>(必修)电路IB</title><link>https://hoa.moe/docs/sophomore-autumn/ee1011b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-autumn/ee1011b/</guid><description>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-80%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>教师 1：Wang Yi
+&lt;ul>
+&lt;li>授课风格：口水话很多，听课不容易抓住重点；PPT 的内容很完整但同样不好抓住重点。结果很少有学生去现场上课。（回来吧我的火山宝宝😭）&lt;/li>
+&lt;li>听课建议：建议自力更生。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>教师 2：Zhao Fei
+&lt;ul>
+&lt;li>授课风格：待补充&lt;/li>
+&lt;li>听课建议：待补充&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2></description></item><item><title>(限选)C++语言程序设计</title><link>https://hoa.moe/docs/sophomore-autumn/comp2014/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-autumn/comp2014/</guid><description>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>教师 王焦乐
+&lt;ul>
+&lt;li>授课风格：&lt;/li>
+&lt;li>听课建议：&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
 &lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2></description></item><item><title>(跨专业选修)大学化学III</title><link>https://hoa.moe/docs/sophomore-autumn/chem1012/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-autumn/chem1012/</guid><description>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green" alt="Static Badge" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin" alt="Static Badge" loading="lazy" />
@@ -191,22 +203,4 @@ weight: 10&lt;/p></description></item><item><title>(必修)大学物理实验IA<
 &lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
 &lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>大学化学III 没有期末考试🤣，这是这门课对学生最友好的一点。相比经济学原理之类的选修课，学习压力会小很多。&lt;/p>
 &lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
-&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2></description></item><item><title>(限选)C++语言程序设计</title><link>https://hoa.moe/docs/sophomore-autumn/comp2014/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-autumn/comp2014/</guid><description>
-&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green" alt="Static Badge" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
-&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat" alt="Static Badge" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
-&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
-&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>教师 王焦乐
-&lt;ul>
-&lt;li>授课风格：&lt;/li>
-&lt;li>听课建议：&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
 &lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2></description></item></channel></rss>

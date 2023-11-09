@@ -1,92 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ OpenAuto – 大三·秋</title><link>https://hoa.moe/docs/junior-autumn/</link><description>Recent content in 大三·秋 on HITSZ OpenAuto</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://hoa.moe/docs/junior-autumn/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://hoa.moe/docs/junior-autumn/distributional-selective/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-autumn/distributional-selective/</guid><description>
-&lt;p>weight: 101&lt;/p></description></item><item><title/><link>https://hoa.moe/docs/junior-autumn/mandatory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-autumn/mandatory/</guid><description>
-&lt;p>weight: 2
-weight: 3
-weight: 4
-weight: 5&lt;/p></description></item><item><title>(必修)系统建模与仿真</title><link>https://hoa.moe/docs/junior-autumn/auto3004/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-autumn/auto3004/</guid><description>
-&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2.5-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
-&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c-20%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
-&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
-&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>教师 1：Li Yanjie
-&lt;ul>
-&lt;li>授课风格：轻松愉快，稍显啰嗦，实验课会带领大家写代码并亲自检查，偶尔点名&lt;/li>
-&lt;li>是否需要认真听讲做笔记：正常听课，考前复习&lt;/li>
-&lt;li>听课建议：注意重点强调的最小二乘，PPT标红简答，龙格库塔法计算&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>教师 2：Li Peng
-&lt;ul>
-&lt;li>授课风格：&lt;/li>
-&lt;li>听课建议：&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>课程知识密度并不大，很多计算量很大的内容在平时的编程中实现过了，所以不会考。而且由于你校众所周知的阉割传统，很多容易的内容被不断重复，难的内容都会被砍掉。&lt;/li>
-&lt;li>考试难度：背诵+简单计算，龙格库塔法可能步骤多一些&lt;/li>
-&lt;/ul>
-&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
-&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2></description></item><item><title>(必修)信号分析与处理</title><link>https://hoa.moe/docs/junior-autumn/auto2005/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-autumn/auto2005/</guid><description>
-&lt;blockquote>
-&lt;h3>说明&lt;span class="absolute -mt-20" id="说明">&lt;/span>
-&lt;a href="#%e8%af%b4%e6%98%8e" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>通过 &lt;a href="https://shields.io/" target="_blank" rel="noopener">Shields.io&lt;/a> 生成如下的徽章，标注课程的基本信息。尽情发挥你的颜色审美！&lt;/li>
-&lt;li>请根据课程的具体内容增删仓库的子文件夹。子文件夹建议使用小写英文，并且添加 README.md。&lt;/li>
-&lt;li>关于课程的描述可以不止以下几个方面，酌情增删。&lt;/li>
-&lt;li>完成一个课程仓库的搭建后，请移除各子文件夹下所有的&lt;strong>引用&lt;/strong>，包括本段落。&lt;/li>
-&lt;/ol>
-&lt;/blockquote>
-&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2.5-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
-&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c-20%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
-&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
-&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>教师 1：Xie Xiaochen
-&lt;ul>
-&lt;li>授课风格：由于学时有限，语速较快，基本没有停顿。但是逻辑非常清晰。&lt;/li>
-&lt;li>听课建议：不要走神，不要尝试在课上抄笔记（会跟不上的），课后再整理笔记。&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
-&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2></description></item><item><title>(必修)自动控制理论A</title><link>https://hoa.moe/docs/junior-autumn/auto3001a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-autumn/auto3001a/</guid><description>
-&lt;div align="left">
-&lt;figure>
-&lt;img alt="考试课" src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" >
-&lt;img alt="学分 4.5" src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4.5-moccasin">
-&lt;/figure>
-&lt;/div>
-&lt;div align="left">
-&lt;figure>
-&lt;img alt="成绩构成(21级)" src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90(21%E7%BA%A7)-gold">
-&lt;img alt="Static Badge" src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-13%25-wheat">
-&lt;img alt="Static Badge" src="https://img.shields.io/badge/%E8%AF%BE%E5%A0%82%E8%A1%A8%E7%8E%B0-5%25-wheat">
-&lt;img alt="Static Badge" src="https://img.shields.io/badge/%E4%B8%8A%E6%9C%BA%E5%AE%9E%E9%AA%8C-4%25-wheat">
-&lt;img alt="Static Badge" src="https://img.shields.io/badge/%E7%A1%AC%E4%BB%B6%E5%AE%9E%E9%AA%8C-8%25-wheat">
-&lt;img alt="Static Badge" src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-70%25-wheat">
-&lt;/figure>
-&lt;/div>
-&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
-&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>教师 1：Zhang Hongwei
-&lt;ul>
-&lt;li>授课风格：&lt;/li>
-&lt;li>听课建议：&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>教师 2：Zhang Ying
-&lt;ul>
-&lt;li>授课风格：&lt;/li>
-&lt;li>听课建议：&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
-&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2></description></item><item><title>(必修)自动控制实践A</title><link>https://hoa.moe/docs/junior-autumn/auto3002a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-autumn/auto3002a/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ OpenAuto – 大三·秋</title><link>https://hoa.moe/docs/junior-autumn/</link><description>Recent content in 大三·秋 on HITSZ OpenAuto</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://hoa.moe/docs/junior-autumn/index.xml" rel="self" type="application/rss+xml"/><item><title>(必修)自动控制实践A</title><link>https://hoa.moe/docs/junior-autumn/auto3002a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-autumn/auto3002a/</guid><description>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" />&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-3-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-10%25-wheat" alt="Static Badge" loading="lazy" />&lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c-25%25-wheat" alt="Static Badge" loading="lazy" />&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-65%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
 &lt;h4>学时安排表（21级）&lt;/h4> &lt;!--标题-->
@@ -220,7 +132,90 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;/ul>
 &lt;h2>Tips&lt;span class="absolute -mt-20" id="tips">&lt;/span>
 &lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>课程建议&lt;span class="absolute -mt-20" id="课程建议">&lt;/span>
-&lt;a href="#%e8%af%be%e7%a8%8b%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2></description></item><item><title>(限选)数字图像处理</title><link>https://hoa.moe/docs/junior-autumn/auto3003/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-autumn/auto3003/</guid><description>
+&lt;a href="#%e8%af%be%e7%a8%8b%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2></description></item><item><title>(必修)自动控制理论A</title><link>https://hoa.moe/docs/junior-autumn/auto3001a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-autumn/auto3001a/</guid><description>
+&lt;div align="left">
+&lt;figure>
+&lt;img alt="考试课" src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" >
+&lt;img alt="学分 4.5" src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4.5-moccasin">
+&lt;/figure>
+&lt;/div>
+&lt;div align="left">
+&lt;figure>
+&lt;img alt="成绩构成(21级)" src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90(21%E7%BA%A7)-gold">
+&lt;img alt="Static Badge" src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-13%25-wheat">
+&lt;img alt="Static Badge" src="https://img.shields.io/badge/%E8%AF%BE%E5%A0%82%E8%A1%A8%E7%8E%B0-5%25-wheat">
+&lt;img alt="Static Badge" src="https://img.shields.io/badge/%E4%B8%8A%E6%9C%BA%E5%AE%9E%E9%AA%8C-4%25-wheat">
+&lt;img alt="Static Badge" src="https://img.shields.io/badge/%E7%A1%AC%E4%BB%B6%E5%AE%9E%E9%AA%8C-8%25-wheat">
+&lt;img alt="Static Badge" src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-70%25-wheat">
+&lt;/figure>
+&lt;/div>
+&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>教师 1：Zhang Hongwei
+&lt;ul>
+&lt;li>授课风格：&lt;/li>
+&lt;li>听课建议：&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>教师 2：Zhang Ying
+&lt;ul>
+&lt;li>授课风格：&lt;/li>
+&lt;li>听课建议：&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2></description></item><item><title>(必修)信号分析与处理</title><link>https://hoa.moe/docs/junior-autumn/auto2005/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-autumn/auto2005/</guid><description>
+&lt;blockquote>
+&lt;h3>说明&lt;span class="absolute -mt-20" id="说明">&lt;/span>
+&lt;a href="#%e8%af%b4%e6%98%8e" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>通过 &lt;a href="https://shields.io/" target="_blank" rel="noopener">Shields.io&lt;/a> 生成如下的徽章，标注课程的基本信息。尽情发挥你的颜色审美！&lt;/li>
+&lt;li>请根据课程的具体内容增删仓库的子文件夹。子文件夹建议使用小写英文，并且添加 README.md。&lt;/li>
+&lt;li>关于课程的描述可以不止以下几个方面，酌情增删。&lt;/li>
+&lt;li>完成一个课程仓库的搭建后，请移除各子文件夹下所有的&lt;strong>引用&lt;/strong>，包括本段落。&lt;/li>
+&lt;/ol>
+&lt;/blockquote>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2.5-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c-20%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>教师 1：Xie Xiaochen
+&lt;ul>
+&lt;li>授课风格：由于学时有限，语速较快，基本没有停顿。但是逻辑非常清晰。&lt;/li>
+&lt;li>听课建议：不要走神，不要尝试在课上抄笔记（会跟不上的），课后再整理笔记。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2></description></item><item><title>(必修)系统建模与仿真</title><link>https://hoa.moe/docs/junior-autumn/auto3004/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-autumn/auto3004/</guid><description>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2.5-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c-20%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>教师 1：Li Yanjie
+&lt;ul>
+&lt;li>授课风格：轻松愉快，稍显啰嗦，实验课会带领大家写代码并亲自检查，偶尔点名&lt;/li>
+&lt;li>是否需要认真听讲做笔记：正常听课，考前复习&lt;/li>
+&lt;li>听课建议：注意重点强调的最小二乘，PPT标红简答，龙格库塔法计算&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>教师 2：Li Peng
+&lt;ul>
+&lt;li>授课风格：&lt;/li>
+&lt;li>听课建议：&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>课程知识密度并不大，很多计算量很大的内容在平时的编程中实现过了，所以不会考。而且由于你校众所周知的阉割传统，很多容易的内容被不断重复，难的内容都会被砍掉。&lt;/li>
+&lt;li>考试难度：背诵+简单计算，龙格库塔法可能步骤多一些&lt;/li>
+&lt;/ul>
+&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2></description></item><item><title>(限选)数字图像处理</title><link>https://hoa.moe/docs/junior-autumn/auto3003/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-autumn/auto3003/</guid><description>
 &lt;p>友情链接：&lt;a href="https://hitsz-auto.github.io/Distributional_Electives/" target="_blank" rel="noopener">限选课专栏&lt;/a>&lt;/p>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-10%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e8%af%be%e7%a8%8b%e8%ae%be%e8%ae%a1-20%25-wheat" alt="Static Badge" loading="lazy" />&lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c-25%25-wheat" alt="Static Badge" loading="lazy" />&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-45%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
