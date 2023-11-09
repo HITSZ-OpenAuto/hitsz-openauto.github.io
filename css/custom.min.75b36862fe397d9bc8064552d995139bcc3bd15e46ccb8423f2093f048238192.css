@@ -1,1 +1,0 @@
-img{display:inline-block;vertical-align:middle}.content :where(img):not(:where([class~=not-prose],[class~=not-prose] *)){margin-left:auto;margin-right:auto;margin-top:.2rem;margin-bottom:.2rem;border-radius:.375rem}
