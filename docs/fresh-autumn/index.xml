@@ -189,14 +189,16 @@
 &lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
 &lt;br>
 &lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(必修)高级语言程序设计</title><link>https://hoa.moe/docs/fresh-autumn/comp2021/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/fresh-autumn/comp2021/</guid><description>
+&lt;p>贡献者：……、psp
+文档编写者：psp、……&lt;/p>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-3-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90%ef%bc%8822%e7%ba%a7%ef%bc%89-gold" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c-30%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e6%9c%9f%e6%9c%ab%e8%80%83%e8%af%95-50%25-wheat" alt="Static Badge" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90%ef%bc%8821%e7%ba%a7%ef%bc%89-gold" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-10%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c-30%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e6%9c%9f%e6%9c%ab%e8%80%83%e8%af%95-60%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
-&lt;h3>关于教师&lt;span class="absolute -mt-20" id="关于教师">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>教师上课风格没有很活泼，照着 ppt 念，而且速度偏快。&lt;/p>
+&lt;h2>关于教师&lt;span class="absolute -mt-20" id="关于教师">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>教师上课风格没有很活泼，照着 ppt 念，而且速度偏快。&lt;/p>
 &lt;p>听课并不必须，因为 C语言 的语法，主要不是听讲学来的，而是自己敲代码所体悟到，上课建议可以自己敲敲代码。&lt;/p>
-&lt;h3>关于本课&lt;span class="absolute -mt-20" id="关于本课">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e6%9c%ac%e8%af%be" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>3202 年了，大学中居然还存在这种考试要手写代码，语言标准还停留在上个世纪的编程语言课，简直不可思议。&lt;/p>
+&lt;h2>关于本课&lt;span class="absolute -mt-20" id="关于本课">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e6%9c%ac%e8%af%be" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>3202 年了，大学中居然还存在这种考试要手写代码，语言标准还停留在上个世纪的编程语言课，简直不可思议。&lt;/p>
 &lt;p>作为大多数人接触的第一门编程语言，c语言劝退了很多萌新。如果你觉得这门语言晦涩难懂，大概率不是你的问题，而是教材或是授课老师的问题（也有可能是语言本身的问题）。你不能指望通过学校的课程学习这门课（当然如果你只是针对考试以后并不想做与编程有关的事情当我没说），你也不能指望通过国内教材学习编程语言，更不能指望b站上国内诸如某马、某士兵之类的培训机构。&lt;/p>
 &lt;p>个人认为比较好的学习流程是（当然这并不能给你带来高分）：&lt;/p>
 &lt;ul>
@@ -212,16 +214,16 @@
 &lt;/ul>
 &lt;p align="right">&lt;strong>本小节更新于 2023.9.1&lt;/strong>&lt;/p>
 &lt;hr>
-&lt;h3>关于实验&lt;span class="absolute -mt-20" id="关于实验">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e5%ae%9e%e9%aa%8c" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>实验一共九次。前四次实验较简单，而且是独立实验。后五次实验难度较大，代码量较大，综合考察指针、数组、函数、结构体，任务大体相似，只是具体要求不同。&lt;/p>
+&lt;h2>关于实验&lt;span class="absolute -mt-20" id="关于实验">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e5%ae%9e%e9%aa%8c" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>实验一共九次。前四次实验较简单，而且是独立实验。后五次实验难度较大，代码量较大，综合考察指针、数组、函数、结构体，任务大体相似，只是具体要求不同。&lt;/p>
 &lt;p>每年实验几乎不变。&lt;/p>
 &lt;p>助教答疑很随便，大多是让自己去调试。&lt;/p>
 &lt;p>前三、四个课上基本可以完成，课后大概只需花一点时间完善一下，并测试好。后五个实验需要在课后花大量时间，才能写完，一个实验课后大约多花 2-4 小时。（ps:要想拿高分，除了基本要求外，还有增强代码健壮性，还有多写注释，课后还需更多时间）&lt;/p>
-&lt;h3>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>考试整体难度不大。最高分应该是 100 分或接近 100 分，平均分 80 左右，挂科率大约百分之二。（补：22级全年级仅有一人挂科）&lt;/p>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>考试整体难度不大。最高分应该是 100 分或接近 100 分，平均分 80 左右，挂科率大约百分之二。（补：22级全年级仅有一人挂科）&lt;/p>
 &lt;p>主要考查对各语法的理解，基本上实验课都有所设及，个别比较生僻的语法知识和函数，则需特别复习。&lt;/p>
-&lt;h3>Tips&lt;span class="absolute -mt-20" id="tips">&lt;/span>
-&lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>作业主要是完成课后练习题的部分题，难度不大，所需时间也不多。&lt;/p>
+&lt;h2>Tips&lt;span class="absolute -mt-20" id="tips">&lt;/span>
+&lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>作业主要是完成课后练习题的部分题，难度不大，所需时间也不多。&lt;/p>
 &lt;p>上课不点名，不考勤。学习时，边看书本语法知识，边敲代码，可以结合 B站 或者 中国大学MOOC 上的网课资源。&lt;/p>
 &lt;p>如果有时间，可以把书本上除作业之外的课后练习题也完成一下，并且完成的同时思考，一道题能否用多种语句来实现，可逐一尝试。前期尽量少复制黏贴代码，尽量手打，对于关键字、语法的记忆有较大帮助。&lt;/p>
 &lt;p>实验课作业最好独立完——对于 C语言 核心知识掌握很有帮助。一些不常用的语句，函数，生僻的关键字，则需特别记忆。&lt;/p>
