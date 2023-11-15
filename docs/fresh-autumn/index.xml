@@ -21,8 +21,8 @@
 &lt;br>
 &lt;br>
 &lt;br>&lt;/p>
-&lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
-&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
+&lt;h2>资料下载 | Download&lt;/h2>
+&lt;br>
 &lt;a href="https://github.com/HITSZ-OpenAuto/MATH1015A/raw/main/books/%E5%90%8C%E6%B5%8E%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88%E4%B8%8A%E5%86%8C%E4%B9%A0%E9%A2%98%E5%85%A8%E8%A7%A3%E6%8C%87%E5%8D%97.pdf">books/同济高等数学第七版上册习题全解指南.pdf&lt;/a>
 &lt;br>
 &lt;a href="https://github.com/HITSZ-OpenAuto/MATH1015A/raw/main/books/%E5%90%8C%E6%B5%8E%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88%E4%B8%8B%E5%86%8C%E4%B9%A0%E9%A2%98%E5%85%A8%E8%A7%A3%E6%8C%87%E5%8D%97.pdf">books/同济高等数学第七版下册习题全解指南.pdf&lt;/a>
@@ -186,19 +186,9 @@
 &lt;a href="https://github.com/HITSZ-OpenAuto/MATH1015A/raw/main/notes/%E7%AC%94%E8%AE%B02/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%EF%BC%88%E4%B8%8A%E5%86%8C%EF%BC%89%E5%B8%B8%E7%94%A8%E5%85%AC%E5%BC%8F.pdf">notes/笔记2/高等数学（上册）常用公式.pdf&lt;/a>
 &lt;br>
 &lt;br>
-## 关注和支持我们
+&lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
 &lt;br>
-&lt;div style="overflow: auto; display: flex; flex-wrap: wrap;">
-&lt;div style="flex: 1;">
-&lt;div class="github-card" data-github="HITSZ-OpenAuto" data-width="400" data-height="" data-theme="default">&lt;script src="//cdn.jsdelivr.net/github-cards/latest/widget.js">&lt;/script>&lt;/div>
-&lt;/div>
-&lt;div style="flex: 1;">
-&lt;div class="sponsor-img">
-&lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward Code" style="zoom: 15%; display: block; margin: 0 auto; border-radius: 20px;">
-&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;style></description></item><item><title>(必修)高级语言程序设计</title><link>https://hoa.moe/docs/fresh-autumn/comp2021/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/fresh-autumn/comp2021/</guid><description>
+&lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(必修)高级语言程序设计</title><link>https://hoa.moe/docs/fresh-autumn/comp2021/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/fresh-autumn/comp2021/</guid><description>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-3-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90%ef%bc%8822%e7%ba%a7%ef%bc%89-gold" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c-30%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e6%9c%9f%e6%9c%ab%e8%80%83%e8%af%95-50%25-wheat" alt="Static Badge" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90%ef%bc%8821%e7%ba%a7%ef%bc%89-gold" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-10%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c-30%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e6%9c%9f%e6%9c%ab%e8%80%83%e8%af%95-60%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
@@ -241,7 +231,7 @@
 &lt;br>
 &lt;br>
 &lt;br>
-## 资料下载
+&lt;h2>资料下载 | Download&lt;/h2>
 &lt;br>
 &lt;a href="https://github.com/HITSZ-OpenAuto/COMP2021/raw/main/books/C%20Primer%20Plus%20%E7%AC%AC6%E7%89%88%20%E4%B8%AD%E6%96%87%E7%89%88.pdf">books/C Primer Plus 第6版 中文版.pdf&lt;/a>
 &lt;br>
@@ -290,16 +280,6 @@
 &lt;a href="https://github.com/HITSZ-OpenAuto/COMP2021/raw/main/experiments/%E9%99%84%E5%8A%A0%E9%A2%98/%E9%99%84%E5%8A%A0%E9%A2%983/C_ex3_MC.pdf">experiments/附加题/附加题3/C_ex3_MC.pdf&lt;/a>
 &lt;br>
 &lt;br>
-## 关注和支持我们
+&lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
 &lt;br>
-&lt;div style="overflow: auto; display: flex; flex-wrap: wrap;">
-&lt;div style="flex: 1;">
-&lt;div class="github-card" data-github="HITSZ-OpenAuto" data-width="400" data-height="" data-theme="default">&lt;script src="//cdn.jsdelivr.net/github-cards/latest/widget.js">&lt;/script>&lt;/div>
-&lt;/div>
-&lt;div style="flex: 1;">
-&lt;div class="sponsor-img">
-&lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward Code" style="zoom: 15%; display: block; margin: 0 auto; border-radius: 20px;">
-&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;style></description></item></channel></rss>
+&lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item></channel></rss>
