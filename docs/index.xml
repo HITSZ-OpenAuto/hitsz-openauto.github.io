@@ -456,15 +456,6 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
 &lt;br>
 &lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(必修)信号分析与处理</title><link>https://hoa.moe/docs/junior-autumn/auto2005/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-autumn/auto2005/</guid><description>
-&lt;blockquote>
-&lt;h3>说明&lt;span class="absolute -mt-20" id="说明">&lt;/span>
-&lt;a href="#%e8%af%b4%e6%98%8e" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;ol>
-&lt;li>通过 &lt;a href="https://shields.io/" target="_blank" rel="noopener">Shields.io&lt;/a> 生成如下的徽章，标注课程的基本信息。尽情发挥你的颜色审美！&lt;/li>
-&lt;li>请根据课程的具体内容增删仓库的子文件夹。子文件夹建议使用小写英文，并且添加 README.md。&lt;/li>
-&lt;li>关于课程的描述可以不止以下几个方面，酌情增删。&lt;/li>
-&lt;li>完成一个课程仓库的搭建后，请移除各子文件夹下所有的&lt;strong>引用&lt;/strong>，包括本段落。&lt;/li>
-&lt;/ol>
-&lt;/blockquote>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2.5-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c-20%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
