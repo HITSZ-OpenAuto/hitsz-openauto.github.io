@@ -1,0 +1,55 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ OpenAuto – 大二·春</title><link>https://hoa.moe/docs/sophomore-spring/</link><description>Recent content in 大二·春 on HITSZ OpenAuto</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://hoa.moe/docs/sophomore-spring/index.xml" rel="self" type="application/rss+xml"/><item><title>(限选)数据结构与算法</title><link>https://hoa.moe/docs/sophomore-spring/comp2050/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-spring/comp2050/</guid><description>
+&lt;p>该课程属于限选课程的实践课程体系模块。
+&lt;br>
+什么是实践课程体系模块？请查阅&lt;a href="https://hoa.moe/blog/selecting-distributive-lessons/" target="_blank" rel="noopener">限选课选课指南&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e9%99%90%e9%80%89%e8%af%be-green" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90%ef%bc%8821%e7%ba%a7%ef%bc%89-gold" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-10%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c-20%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-70%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>教师 1：Ren Weihong
+&lt;ul>
+&lt;li>授课风格：年轻老师，态度较认真，会比较认真地回答同学的问题，对于课程定位非常清楚，知识讲解清晰。但是有时会出现表意不清的现象（这和知识本身比较抽象也有关系）。&lt;/li>
+&lt;li>听课建议：建议上课听讲+课后整理。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>（21级情况）难度一般。授课内容中比较困难的点，如KMP、AOV网等，都不考。但是最好了解一下。&lt;/li>
+&lt;/ul>
+&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>代码的实现细节（即语法）是次要的（不要因为经常在语法上犯错或者数组越界之类的问题而认为这门课“难”而心生逃避，这样会妨碍对知识本质的理解！！），重要的是对恰当地组织数据以及分治等算法思想的理解。考试也不需要写出具体的代码。&lt;/strong>&lt;/li>
+&lt;li>数据结构、算法的知识很丰富，本门课只是入门，如果日后用到有关知识，大家还需要进一步深入学习。
+&lt;br>
+&lt;br>
+&lt;br>&lt;/li>
+&lt;/ul>
+&lt;h2>资料下载 | Download&lt;/h2>
+&lt;br>
+&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/COMP2050/examination/2022%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%28%E8%87%AA%E5%8A%A8%E5%8C%96%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%28%E5%9B%9E%E5%BF%86%29.pdf">examination/2022数据结构与算法(自动化)期末试题(回忆).pdf&lt;/a>
+&lt;br>
+&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/COMP2050/experiments/WJD_Version/ex3/210320621_%E5%90%B4%E4%BF%8A%E8%BE%BE_%E5%AE%9E%E9%AA%8C3.pdf">experiments/WJD_Version/ex3/210320621_吴俊达_实验3.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/COMP2050/experiments/%E6%BA%90%E6%96%87%E6%A1%A3/%E5%AE%9E%E9%AA%8C4.zip">experiments/源文档/实验4.zip&lt;/a>
+&lt;br>
+&lt;a href="https://github.com/HITSZ-OpenAuto/COMP2050/raw/main/examination/2022%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%28%E8%87%AA%E5%8A%A8%E5%8C%96%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%28%E5%9B%9E%E5%BF%86%29.docx">examination/2022数据结构与算法(自动化)期末试题(回忆).docx&lt;/a>
+&lt;br>
+&lt;a href="https://github.com/HITSZ-OpenAuto/COMP2050/raw/main/experiments/WJD_Version/ex3/210320621_%E5%90%B4%E4%BF%8A%E8%BE%BE_%E5%AE%9E%E9%AA%8C3.docx">experiments/WJD_Version/ex3/210320621_吴俊达_实验3.docx&lt;/a>
+&lt;br>
+&lt;a href="https://github.com/HITSZ-OpenAuto/COMP2050/raw/main/homework/WJD_version/21%E7%BA%A7%E8%87%AA%E5%8A%A8%E5%8C%966%E7%8F%AD-%E5%90%B4%E4%BF%8A%E8%BE%BE-210320621-%E4%BD%9C%E4%B8%9A3.docx">homework/WJD_version/21级自动化6班-吴俊达-210320621-作业3.docx&lt;/a>
+&lt;br>
+&lt;a href="https://github.com/HITSZ-OpenAuto/COMP2050/raw/main/homework/WJD_version/21%E7%BA%A7%E8%87%AA%E5%8A%A8%E5%8C%966%E7%8F%AD_%E5%90%B4%E4%BF%8A%E8%BE%BE_210320621-%E4%BD%9C%E4%B8%9A1.docx">homework/WJD_version/21级自动化6班_吴俊达_210320621-作业1.docx&lt;/a>
+&lt;br>
+&lt;a href="https://github.com/HITSZ-OpenAuto/COMP2050/raw/main/homework/WJD_version/21%E7%BA%A7%E8%87%AA%E5%8A%A8%E5%8C%966%E7%8F%AD_%E5%90%B4%E4%BF%8A%E8%BE%BE_210320621-%E4%BD%9C%E4%B8%9A2.docx">homework/WJD_version/21级自动化6班_吴俊达_210320621-作业2.docx&lt;/a>
+&lt;br>
+&lt;a href="https://github.com/HITSZ-OpenAuto/COMP2050/raw/main/homework/WJD_version/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%BD%9C%E4%B8%9A1.docx">homework/WJD_version/数据结构与算法作业1.docx&lt;/a>
+&lt;br>
+&lt;a href="https://github.com/HITSZ-OpenAuto/COMP2050/raw/main/homework/WJD_version/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%BD%9C%E4%B8%9A2.docx">homework/WJD_version/数据结构与算法作业2.docx&lt;/a>
+&lt;br>
+&lt;a href="https://github.com/HITSZ-OpenAuto/COMP2050/raw/main/homework/WJD_version/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E4%BD%9C%E4%B8%9A3.docx">homework/WJD_version/数据结构与算法作业3.docx&lt;/a>
+&lt;br>
+&lt;br>
+&lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
+&lt;br>
+&lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item></channel></rss>
