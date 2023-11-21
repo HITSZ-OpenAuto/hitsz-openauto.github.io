@@ -1,4 +1,63 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ OpenAuto – 大二·春</title><link>https://hoa.moe/docs/sophomore-spring/</link><description>Recent content in 大二·春 on HITSZ OpenAuto</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://hoa.moe/docs/sophomore-spring/index.xml" rel="self" type="application/rss+xml"/><item><title>(限选)数据结构与算法</title><link>https://hoa.moe/docs/sophomore-spring/comp2050/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-spring/comp2050/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ OpenAuto – 大二·春</title><link>https://hoa.moe/docs/sophomore-spring/</link><description>Recent content in 大二·春 on HITSZ OpenAuto</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://hoa.moe/docs/sophomore-spring/index.xml" rel="self" type="application/rss+xml"/><item><title>(必修)理论力学Ⅱ</title><link>https://hoa.moe/docs/sophomore-spring/emec1002/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-spring/emec1002/</guid><description>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>（教师名）
+&lt;ul>
+&lt;li>授课风格：&lt;/li>
+&lt;li>听课建议：&lt;/li>
+&lt;li>……&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h1>课程名&lt;/h1>&lt;ul>
+&lt;li>是否考试课：&lt;/li>
+&lt;li>学分：&lt;/li>
+&lt;li>分数构成：&lt;/li>
+&lt;/ul>
+&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师-1">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88-1" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>教师1：
+&lt;ul>
+&lt;li>授课风格：&lt;/li>
+&lt;li>是否需要认真听讲做笔记&lt;/li>
+&lt;li>听课建议&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试-1">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95-1" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>考试难度：&lt;/li>
+&lt;/ul>
+&lt;h2>Tips&lt;span class="absolute -mt-20" id="tips">&lt;/span>
+&lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>课程建议&lt;br>&lt;span class="absolute -mt-20" id="课程建议br">&lt;/span>
+&lt;a href="#%e8%af%be%e7%a8%8b%e5%bb%ba%e8%ae%aebr" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
+&lt;br>
+&lt;h2>资料下载 | Download&lt;/h2>
+&lt;br>
+&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EMEC1002/examination/2023%E6%98%A5-%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6II.pdf">examination/2023春-理论力学II.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EMEC1002/examination/%5B%E7%BA%B8%E5%BC%A0%E8%AE%B0%E5%BF%86%5D%E7%90%86%E5%8A%9B%E6%9C%9F%E4%B8%AD.pdf">examination/[纸张记忆]理力期中.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EMEC1002/examination/%5B%E7%BA%B8%E5%BC%A0%E8%AE%B0%E5%BF%86%5D%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E6%9C%9F%E6%9C%AB19-08.pdf">examination/[纸张记忆]理论力学期末19-08.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EMEC1002/examination/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88V1.1.pdf">examination/理论力学试题答案V1.1.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EMEC1002/examination/%E9%9D%99%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf">examination/静力学复习题参考答案.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EMEC1002/examination/%E9%9D%99%E5%8A%9B%E5%AD%A6%E6%B5%8B%E8%AF%95V1.1.pdf">examination/静力学测试V1.1.pdf&lt;/a>
+&lt;br>
+&lt;br>
+&lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
+&lt;br>
+&lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(限选)数据结构与算法</title><link>https://hoa.moe/docs/sophomore-spring/comp2050/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-spring/comp2050/</guid><description>
 &lt;p>该课程属于限选课程的实践课程体系模块。
 &lt;br>
 什么是实践课程体系模块？请查阅&lt;a href="https://hoa.moe/blog/selecting-distributive-lessons/" target="_blank" rel="noopener">限选课选课指南&lt;/a>&lt;/p>
