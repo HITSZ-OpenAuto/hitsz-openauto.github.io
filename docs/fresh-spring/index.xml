@@ -371,23 +371,27 @@
 &lt;/blockquote>
 &lt;p>教材没有硬性规定，学生一般用英文原版的 &lt;em>Linear Algebra Done Right&lt;/em>，或者它的中译本《线性代数应该这样学》。&lt;/p>
 &lt;p>事实上整门课程的教学安排没有完全按照教材顺序，也没有覆盖 &lt;em>Linear Algebra Done Right&lt;/em> 上的全部内容，课程架构与书还是存在一定出入的。&lt;/p>
-&lt;p>课本上没有的某些内容实际上是重点。所以可以提前下载老师的讲义进行预习，甚至不依赖教材。&lt;/p>
+&lt;p>有的重点内容反而在书上没有，所以可以提前下载老师的讲义进行预习，甚至不依赖教材。&lt;/p>
 &lt;p>最后吐槽一下：国内的课本是真的一坨&lt;/p>
 &lt;h2>Tips&lt;span class="absolute -mt-20" id="tips">&lt;/span>
 &lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>期末最后一节课或者考试前夕，老师会安排答疑和作业评讲课，至于课上会讲什么，懂得都懂，所以&lt;strong>Mei 老师的期末答疑课一定要去听&lt;/strong>。&lt;/li>
+&lt;li>期末最后一节课或者考试前夕，老师会安排答疑和作业评讲课，至于课上会讲什么，懂得都懂，所以 &lt;strong>Mei 老师的期末答疑课一定要去听&lt;/strong>。&lt;/li>
 &lt;li>CASIO fx-991 X 计算器可以进行矩阵运算。&lt;/li>
 &lt;/ul>
 &lt;h2>实用的网站和资料&lt;span class="absolute -mt-20" id="实用的网站和资料">&lt;/span>
 &lt;a href="#%e5%ae%9e%e7%94%a8%e7%9a%84%e7%bd%91%e7%ab%99%e5%92%8c%e8%b5%84%e6%96%99" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://linearalgebras.com/" target="_blank" rel="noopener">Solutions to Linear Algebra Done Right&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://linear.axler.net/" target="_blank" rel="noopener">Linear Algebra Done Right - Sheldon Axler&lt;/a>，&lt;em>Linear Algebra Done Right&lt;/em> 书本的官方网站，提供 &lt;em>Linear Algebra Done Right&lt;/em> 的免费电子书。
+&lt;ul>
+&lt;li>2023 年作者发布了这本书的第 4 版，目前已经开放阅读和下载。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://linearalgebras.com/" target="_blank" rel="noopener">Solutions to Linear Algebra Done Right&lt;/a>😏&lt;/li>
 &lt;li>&lt;a href="https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra" target="_blank" rel="noopener">The Art of Linear Algebra&lt;/a>，含中译，线性代数知识可视化是好文明&lt;/li>
-&lt;li>&lt;a href="https://linearalgebras.com/" target="_blank" rel="noopener">Linear Algebra Done Right课后习题解答&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://math.stackexchange.com/" target="_blank" rel="noopener">类 StackOverflow 的线代答疑网&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bilibili.com/video/BV1uK4y1a7jL/?spm_id_from=333.999.0.0&amp;amp;vd_source=ee9a2683a5f602f2e565f5f62e1fa764" target="_blank" rel="noopener">kumiko b 站视频&lt;/a>&lt;/li>
+&lt;li>类似 StackOverflow 的数学论坛：https://math.stackexchange.com/&lt;/li>
+&lt;li>&lt;a href="https://www.bilibili.com/video/BV1uK4y1a7jL" target="_blank" rel="noopener">kumiko - 线性代数应该这样学 // Linear Algebra Done Right （自学用）- Bilibili&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p align="right">&lt;strong>update time&lt;/strong>&lt;/p>
-&lt;p align="right">&lt;strong>2023.7&lt;/strong>&lt;/p>
+&lt;p align="right">&lt;strong>2023.11&lt;/strong>&lt;/p>
 &lt;br>
 &lt;br>
 &lt;br>

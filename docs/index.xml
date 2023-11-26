@@ -788,8 +788,6 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
 &lt;br>
 &lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(必修)复变函数与积分变换</title><link>https://hoa.moe/docs/sophomore-autumn/math1005/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-autumn/math1005/</guid><description>
-&lt;p>&lt;a href="" >返回上一页&lt;/a>
-&lt;a href="" >返回主页&lt;/a>&lt;/p>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2.5-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />
@@ -800,7 +798,8 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;li>教师1：Bao Gejun
 &lt;ul>
 &lt;li>校用教材《复变函数与积分变换 简明教程》的编者之一&lt;/li>
-&lt;li>关于他的描述，在 &lt;a href="https://github.com/HITSZ-Auto/HITSZ-OpenAuto/tree/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6B" target="_blank" rel="noopener">微积分B&lt;/a> 中已经提到过了。&lt;/li>
+&lt;li>关于他的描述，在 &lt;a href="https://github.com/HITSZ-OpenAuto/MATH1015B" target="_blank" rel="noopener">微积分B&lt;/a> 中已经提到过了。不会考勤。&lt;/li>
+&lt;li>超级好的老师，都给我去听他的课😭。平时和考前都会安排线下答疑。&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>教师 2：Bao Yixin
@@ -811,10 +810,20 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;/li>
 &lt;/ul>
 &lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
-&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>2018 到 2020 年的考试难度都非常低，2021 年后考试难度相对高了一些，之后考试题难度变化不大。&lt;/p>
+&lt;p>考试的总体难度比起微积分、线性代数这些要简单许多，并且很多课上很难的知识在考试中考得非常简单（例如傅里叶变换和拉普拉斯变换对，只考了非常基础的那几个）。&lt;/p>
+&lt;p>对于中等水平以上的学生，这应该是相当容易拿高分的数学课。&lt;/p>
+&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>by &lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">@Maxwell Jay&lt;/a>, 2023.11&lt;/p>
+&lt;/blockquote>
+&lt;p>其实大家对复变函数应该不会陌生，因为在 &lt;a href="https://github.com/HITSZ-OpenAuto/EE1011A" target="_blank" rel="noopener">电路IA&lt;/a> 中，我们已经学过在复频域上求解正弦电路和用拉普拉斯变换解决电路暂态响应的问题。这两块内容都属于复变函数和积分变换的应用。&lt;/p>
+&lt;p>教材可以用《复变函数与积分变换 简明教程》，也可以用《复变函数与积分变换》（不简明教程），二者的差别主要在于（此处待他人补充），但使用简明教程不会影响学习效果（主要还是以课上为主）。&lt;/p>
+&lt;p>整个课程的教学内容相比微积分等要少很多，个别地方的内容相对比较难理解，作业难度比考试高很多（有很多证明题），因此期末复习时还是以往年的考试题为主，不要太过于纠结于作业题。&lt;/p>
+&lt;p>此外建议多和老师交流问题，直接问老师比起在学生群里和同学讨论的效率会高很多。我期末前找 bgj 聊了两次天之后感觉收获比在自救群里盯梢一个星期还大。&lt;/p>
+&lt;p>最后抛开考试，这门课的内容与后面的专业课关联还是很强的（你在 &lt;a href="https://github.com/HITSZ-OpenAuto/EE1011A" target="_blank" rel="noopener">电路IA&lt;/a> 中已经体会过一次了），因此还是要好好学习。&lt;br>
 &lt;br>
-&lt;br>
+&lt;br>&lt;/p>
 &lt;h2>资料下载 | Download&lt;/h2>
 &lt;br>
 &lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/examination/2018%E7%A7%8B%E5%AD%A3%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf">examination/2018秋季复变函数与积分变换期末试题答案.pdf&lt;/a>
@@ -2081,23 +2090,27 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;/blockquote>
 &lt;p>教材没有硬性规定，学生一般用英文原版的 &lt;em>Linear Algebra Done Right&lt;/em>，或者它的中译本《线性代数应该这样学》。&lt;/p>
 &lt;p>事实上整门课程的教学安排没有完全按照教材顺序，也没有覆盖 &lt;em>Linear Algebra Done Right&lt;/em> 上的全部内容，课程架构与书还是存在一定出入的。&lt;/p>
-&lt;p>课本上没有的某些内容实际上是重点。所以可以提前下载老师的讲义进行预习，甚至不依赖教材。&lt;/p>
+&lt;p>有的重点内容反而在书上没有，所以可以提前下载老师的讲义进行预习，甚至不依赖教材。&lt;/p>
 &lt;p>最后吐槽一下：国内的课本是真的一坨&lt;/p>
 &lt;h2>Tips&lt;span class="absolute -mt-20" id="tips">&lt;/span>
 &lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>期末最后一节课或者考试前夕，老师会安排答疑和作业评讲课，至于课上会讲什么，懂得都懂，所以&lt;strong>Mei 老师的期末答疑课一定要去听&lt;/strong>。&lt;/li>
+&lt;li>期末最后一节课或者考试前夕，老师会安排答疑和作业评讲课，至于课上会讲什么，懂得都懂，所以 &lt;strong>Mei 老师的期末答疑课一定要去听&lt;/strong>。&lt;/li>
 &lt;li>CASIO fx-991 X 计算器可以进行矩阵运算。&lt;/li>
 &lt;/ul>
 &lt;h2>实用的网站和资料&lt;span class="absolute -mt-20" id="实用的网站和资料">&lt;/span>
 &lt;a href="#%e5%ae%9e%e7%94%a8%e7%9a%84%e7%bd%91%e7%ab%99%e5%92%8c%e8%b5%84%e6%96%99" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://linearalgebras.com/" target="_blank" rel="noopener">Solutions to Linear Algebra Done Right&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://linear.axler.net/" target="_blank" rel="noopener">Linear Algebra Done Right - Sheldon Axler&lt;/a>，&lt;em>Linear Algebra Done Right&lt;/em> 书本的官方网站，提供 &lt;em>Linear Algebra Done Right&lt;/em> 的免费电子书。
+&lt;ul>
+&lt;li>2023 年作者发布了这本书的第 4 版，目前已经开放阅读和下载。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://linearalgebras.com/" target="_blank" rel="noopener">Solutions to Linear Algebra Done Right&lt;/a>😏&lt;/li>
 &lt;li>&lt;a href="https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra" target="_blank" rel="noopener">The Art of Linear Algebra&lt;/a>，含中译，线性代数知识可视化是好文明&lt;/li>
-&lt;li>&lt;a href="https://linearalgebras.com/" target="_blank" rel="noopener">Linear Algebra Done Right课后习题解答&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://math.stackexchange.com/" target="_blank" rel="noopener">类 StackOverflow 的线代答疑网&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.bilibili.com/video/BV1uK4y1a7jL/?spm_id_from=333.999.0.0&amp;amp;vd_source=ee9a2683a5f602f2e565f5f62e1fa764" target="_blank" rel="noopener">kumiko b 站视频&lt;/a>&lt;/li>
+&lt;li>类似 StackOverflow 的数学论坛：https://math.stackexchange.com/&lt;/li>
+&lt;li>&lt;a href="https://www.bilibili.com/video/BV1uK4y1a7jL" target="_blank" rel="noopener">kumiko - 线性代数应该这样学 // Linear Algebra Done Right （自学用）- Bilibili&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p align="right">&lt;strong>update time&lt;/strong>&lt;/p>
-&lt;p align="right">&lt;strong>2023.7&lt;/strong>&lt;/p>
+&lt;p align="right">&lt;strong>2023.11&lt;/strong>&lt;/p>
 &lt;br>
 &lt;br>
 &lt;br>
