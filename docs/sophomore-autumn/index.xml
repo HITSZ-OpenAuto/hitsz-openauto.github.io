@@ -372,10 +372,24 @@
 &lt;/li>
 &lt;/ul>
 &lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
-&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>
+&lt;p>考试难度：中等偏易&lt;/p>
+&lt;p>相较 &lt;a href="https://hoa.moe/docs/fresh-spring/ee1011a/" target="_blank" rel="noopener">电路IA&lt;/a> ，电路IB 的考试难度明显下降不少。大部分题目甚至是直接将往年题原封不动照搬，题型也非常套路化。&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>by &lt;a href="https://github.com/longlin10086" target="_blank" rel="noopener">@longlin li&lt;/a>, 2023.11&lt;/p>
+&lt;/blockquote>
+&lt;p>由于本学期的大部分内容都是基于上学期所学基础知识，因此很多题的解法往往是上学期解法的延申，上学期基础薄弱的同学需要格外留意。&lt;/p>
+&lt;p>我个人感觉电路IB的题型比较单一，整套试卷下来无非是考察大家记忆公式、记忆套路的能力，计算能力要求并不高（反正都有卡西欧了）。&lt;/p>
+&lt;p>事实上，对于这点，我是既感激又厌恶。我感激它是因为我不需在这上面投入太多时间，大部分解题套路完全能在很短时间内掌握 &lt;del>然后迅速遗忘&lt;/del> ；
+厌恶它是因为我认为它所训练出来的应试能力和记忆能力在今后实际开发中基本无用。&lt;/p>
+&lt;p>除去考试，电路这门课作为电类的专业基础课，请务必认真对待，否则下学期的数模电将寸步难行。
 &lt;br>
 &lt;br>
+&lt;br>&lt;/p>
 &lt;h2>资料下载 | Download&lt;/h2>
 &lt;br>
 &lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE1011B/examination/2022%E7%94%B5%E8%B7%AFIB%E6%9C%9F%E6%9C%AB.pdf">examination/2022电路IB期末.pdf&lt;/a>
