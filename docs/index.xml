@@ -2458,34 +2458,13 @@ cellspacing——单元格之间的间隔，单位像素
 4. hoa.moe 生成本课程对应页面后，请将页面链接复制到 GitHub 仓库的 About/Website 中。
 5. 可以在 GitHub 页面的 About/Topics 中为课程添加话题名称。
 -->
-&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="考试课" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green" alt="考查课" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin" alt="学分" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E8%B7%A8%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%E8%AF%BE-lightskyblue" alt="跨专业选修课" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple" alt="实验" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E6%96%87%E7%90%86%E9%80%9A%E8%AF%86-orange" alt="文理通识" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green" alt="考查课" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-0.5-moccasin" alt="学分" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple" alt="实验" loading="lazy" />&lt;/p>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="成绩构成" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat" alt="作业40%" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat" alt="期末考试60%" loading="lazy" />&lt;/p>
+&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-100%25-wheat" alt="作业100%" loading="lazy" />&lt;/p>
 &lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
 &lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>（教师名）
-&lt;ul>
-&lt;li>授课风格：&lt;/li>
-&lt;li>听课建议：&lt;/li>
-&lt;li>……&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
-&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h1>课程名&lt;/h1>&lt;ul>
-&lt;li>是否考试课：&lt;/li>
-&lt;li>学分：&lt;/li>
-&lt;li>分数构成：&lt;/li>
-&lt;/ul>
-&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师-1">&lt;/span>
-&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88-1" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>教师1：
 &lt;ul>
 &lt;li>授课风格：&lt;/li>
@@ -2494,13 +2473,14 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试-1">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95-1" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>考试难度：&lt;/li>
 &lt;/ul>
 &lt;h2>Tips&lt;span class="absolute -mt-20" id="tips">&lt;/span>
-&lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>课程建议&lt;br>&lt;span class="absolute -mt-20" id="课程建议br">&lt;/span>
-&lt;a href="#%e8%af%be%e7%a8%8b%e5%bb%ba%e8%ae%aebr" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
+&lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>课程建议&lt;span class="absolute -mt-20" id="课程建议">&lt;/span>
+&lt;a href="#%e8%af%be%e7%a8%8b%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
+&lt;br>
 &lt;br>
 &lt;h2>资料下载 | Download&lt;/h2>
 &lt;br>
@@ -2542,6 +2522,163 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;h2>资料下载 | Download&lt;/h2>
 &lt;br>
 &lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/GEIP1011/notes/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E4%B8%B2%E8%AE%B2%E8%AF%BE%E6%95%B4%E7%90%86.pdf">notes/马克思主义基本原理串讲课整理.pdf&lt;/a>
+&lt;br>
+&lt;br>
+&lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
+&lt;br>
+&lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(必修)中国近现代史纲要</title><link>https://hoa.moe/docs/fresh-spring/geip1016/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/fresh-spring/geip1016/</guid><description>
+&lt;!--
+1. 通过 [Shields.io](https://shields.io/) 生成如下的徽章，标注课程的基本信息。
+2. 请根据课程的具体内容增删仓库的子文件夹。子文件夹建议使用小写英文，并且添加 README.md。
+3. 关于课程的描述可以不止以下几个方面，酌情增删。
+4. hoa.moe 生成本课程对应页面后，请将页面链接复制到 GitHub 仓库的 About/Website 中。
+5. 可以在 GitHub 页面的 About/Topics 中为课程添加话题名称。
+-->
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="考试课" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2.5-moccasin" alt="学分" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="成绩构成" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%B9%B3%E6%97%B6%E6%88%90%E7%BB%A9-50%25-wheat" alt="平时成绩" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-50%25-wheat" alt="期末考试50%" loading="lazy" />&lt;/p>
+&lt;ul>
+&lt;li>是否考试课：是&lt;/li>
+&lt;li>学分：2.5&lt;/li>
+&lt;li>分数构成：
+&lt;ul>
+&lt;li>平时成绩（50%）：课堂表现（10%）+ 课程讨论及展示（20%）+ 期中论文（20%）&lt;/li>
+&lt;li>期末考试（50%）&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>考试题型：选择题、简答题、论述题、材料题。&lt;/li>
+&lt;/ul>
+&lt;h2>Tips&lt;span class="absolute -mt-20" id="tips">&lt;/span>
+&lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>
+&lt;p>期末前老师会组织串讲。2023年很多同学认为串讲内容没有重点所以不认真听。然而考试后把题与串讲内容比较，我发现串讲中的详略和考试涉及的知识是几乎一致的。&lt;/p>
+&lt;p>因此，如果有串讲，建议同学们认真听完，做好录制，复习的时候把讲到的内容听写一遍（如写成word或markdown），整理出自己的一份“中国近现代史纲要”，然后按照它来背书，串讲没提到的少关注，考试时你就能体会到什么是大win特win了。&lt;/p>
+&lt;p align="right">- Maxwell Jay 2023.7&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;br>
+&lt;br>
+&lt;h2>资料下载 | Download&lt;/h2>
+&lt;br>
+&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/GEIP1016/exams/2021%E7%BA%A7%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%20%28%E8%87%AA%E6%94%B6%E9%9B%86%2C%E5%BE%85%E8%A1%A5%E5%85%A8%29.pdf">exams/2021级近现代史期末试题 (自收集,待补全).pdf&lt;/a>
+&lt;br>
+&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/GEIP1016/exams/2023%E5%B9%B4%E6%98%A5%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%9B%9E%E5%BF%86%E7%89%88%E8%AF%95%E9%A2%98.pdf">exams/2023年春中国近现代史纲要期末考试回忆版试题.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/GEIP1016/materials/2023%20%E8%BF%91%E4%BB%A3%E5%8F%B2%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99v1.2.pdf">materials/2023 近代史复习资料v1.2.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/GEIP1016/materials/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%812023.5.7%E4%B8%B2%E8%AE%B2%E5%85%A8%E6%96%87.pdf">materials/中国近现代史纲要2023.5.7串讲全文.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/GEIP1016/materials/%E8%80%83%E7%A0%94%E8%BF%91%E4%BB%A3%E5%8F%B2%E8%80%83%E7%82%B9.pdf">materials/考研近代史考点.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/GEIP1016/raw/main/materials/%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E9%A2%98%E7%9B%AE.docx">materials/近现代史题目.docx&lt;/a>
+&lt;br>
+&lt;br>
+&lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
+&lt;br>
+&lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(必修)大学物理IA</title><link>https://hoa.moe/docs/fresh-spring/phys1001a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/fresh-spring/phys1001a/</guid><description>
+&lt;!--
+1. 通过 [Shields.io](https://shields.io/) 生成如下的徽章，标注课程的基本信息。
+2. 请根据课程的具体内容增删仓库的子文件夹。子文件夹建议使用小写英文，并且添加 README.md。
+3. 关于课程的描述可以不止以下几个方面，酌情增删。
+4. hoa.moe 生成本课程对应页面后，请将页面链接复制到 GitHub 仓库的 About/Website 中。
+5. 可以在 GitHub 页面的 About/Topics 中为课程添加话题名称。
+-->
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="考试课" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin" alt="学分" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="成绩构成" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-30%25-wheat" alt="作业30%" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-70%25-wheat" alt="期末考试70%" loading="lazy" />&lt;/p>
+&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>（教师名）
+&lt;ul>
+&lt;li>授课风格：&lt;/li>
+&lt;li>听课建议：&lt;/li>
+&lt;li>……&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
+&lt;br>
+&lt;br>
+&lt;h2>资料下载 | Download&lt;/h2>
+&lt;br>
+&lt;br>
+&lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
+&lt;br>
+&lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(必修)大学英语A</title><link>https://hoa.moe/docs/fresh-autumn/lang1006/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/fresh-autumn/lang1006/</guid><description>
+&lt;!--
+1. 通过 [Shields.io](https://shields.io/) 生成如下的徽章，标注课程的基本信息。
+2. 请根据课程的具体内容增删仓库的子文件夹。子文件夹建议使用小写英文，并且添加 README.md。
+3. 关于课程的描述可以不止以下几个方面，酌情增删。
+4. hoa.moe 生成本课程对应页面后，请将页面链接复制到 GitHub 仓库的 About/Website 中。
+5. 可以在 GitHub 页面的 About/Topics 中为课程添加话题名称。
+-->
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green" alt="考查课" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin" alt="学分" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="成绩构成" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat" alt="作业40%" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat" alt="期末考试60%" loading="lazy" />&lt;/p>
+&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>（教师名）
+&lt;ul>
+&lt;li>授课风格：&lt;/li>
+&lt;li>听课建议：&lt;/li>
+&lt;li>……&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
+&lt;br>
+&lt;br>
+&lt;h2>资料下载 | Download&lt;/h2>
+&lt;br>
+&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/LANG1006/materials/%E6%96%B0%E8%A7%86%E9%87%8E%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89%E5%90%AC%E8%AF%B4%E6%95%99%E7%A8%8B.pdf">materials/新视野大学英语（第三版）听说教程.pdf&lt;/a>
+&lt;br>
+&lt;br>
+&lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
+&lt;br>
+&lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(必修)微积分B</title><link>https://hoa.moe/docs/fresh-spring/math1015b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/fresh-spring/math1015b/</guid><description>
+&lt;!--
+1. 通过 [Shields.io](https://shields.io/) 生成如下的徽章，标注课程的基本信息。
+2. 请根据课程的具体内容增删仓库的子文件夹。子文件夹建议使用小写英文，并且添加 README.md。
+3. 关于课程的描述可以不止以下几个方面，酌情增删。
+4. hoa.moe 生成本课程对应页面后，请将页面链接复制到 GitHub 仓库的 About/Website 中。
+5. 可以在 GitHub 页面的 About/Topics 中为课程添加话题名称。
+-->
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="考试课" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-5-moccasin" alt="学分" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="成绩构成" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="作业20%" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-30%25-wheat" alt="期中考试30%" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-50%25-wheat" alt="期末考试50%" loading="lazy" />&lt;/p>
+&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>（教师名）
+&lt;ul>
+&lt;li>授课风格：&lt;/li>
+&lt;li>听课建议：&lt;/li>
+&lt;li>……&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
+&lt;br>
+&lt;br>
+&lt;h2>资料下载 | Download&lt;/h2>
 &lt;br>
 &lt;br>
 &lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
