@@ -1,4 +1,131 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ 自动化课程攻略共享计划 – 博客</title><link>https://hoa.moe/blog/</link><description>Recent content in 博客 on HITSZ 自动化课程攻略共享计划</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 09 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hoa.moe/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>哈工大(深圳)自动化专业 限选课选课说明及选课建议</title><link>https://hoa.moe/blog/selecting-distributive-lessons/</link><pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate><guid>https://hoa.moe/blog/selecting-distributive-lessons/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ 自动化课程攻略共享计划 – 博客</title><link>https://hoa.moe/blog/</link><description>Recent content in 博客 on HITSZ 自动化课程攻略共享计划</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hoa.moe/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>新人指南：不使用第三方工具访问 GitHub</title><link>https://hoa.moe/blog/access-github/</link><pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate><guid>https://hoa.moe/blog/access-github/</guid><description>
+&lt;blockquote>
+&lt;p>参考资料：&lt;a href="http://t.csdnimg.cn/eFTpg" target="_blank" rel="noopener">GitHub push失败-Failed to connect to github.com port 443: Timed out - CSDN&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>已经会魔法的 / 能够稳定访问 GitHub 的朋友，这篇文章对你来说帮助不大了，本文面向刚开始接触 GitHub 的新朋友。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>本人不精通计算机网络知识，用语难免不严谨。本文只是分享一些自己的经验，如果有错误，欢迎指正。&lt;/p>
+&lt;/blockquote>
+&lt;h2>1. Introduction&lt;span class="absolute -mt-20" id="1-introduction">&lt;/span>
+&lt;a href="#1-introduction" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>无论你是先从 GitHub 上的 OpenAuto 找到了这里，还是先从这里知道了 OpenAuto，并且想要进一步使用里面的资源，你都需要能够稳定地访问 GitHub。&lt;/p>
+&lt;p>HITSZ-OpenAuto 的资源基于 GitHub 托管，导致许多人问我们的第一个问题就是：&lt;/p>
+&lt;blockquote>
+&lt;p>为什么 GitHub 进不去啊？&lt;/p>
+&lt;/blockquote>
+&lt;p>许多人在没有科学上网的情况下，访问 GitHub 会遇到各种各样的困难，比如：&lt;/p>
+&lt;ul>
+&lt;li>GitHub 网页打不开&lt;/li>
+&lt;li>偶然能访问 GitHub 上的仓库，但里面的文件无法下载&lt;/li>
+&lt;li>GitHub 仓库无法克隆&lt;/li>
+&lt;li>从本地推送到 GitHub 仓库失败，例如经典的报错 &lt;code>Failed to connect to github.com port 443: Timed out&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;p>解决这些问题的办法很多，一种是使用魔法，有魔法你就成功了 90%。
+但不是所有人都能获取到好用的代理，本文也没办法教你😶，抱歉。&lt;/p>
+&lt;p>但是，有一个好消息，那就是如果只是为了访问 GitHub，那么在不使用自建魔法的前提下难度并不高。&lt;/p>
+&lt;h2>2. 软件和网站？&lt;span class="absolute -mt-20" id="2-软件和网站">&lt;/span>
+&lt;a href="#2-%e8%bd%af%e4%bb%b6%e5%92%8c%e7%bd%91%e7%ab%99" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>有许多免费的软件可以直接帮助我们访问 GitHub，这里只介绍一个我曾经用过的。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://steampp.net/" target="_blank" rel="noopener">Watt Toolkit&lt;/a>：原名 Steam++，一个开源跨平台的多功能 Steam 工具箱，并且可以加速 GitHub 的访问。
+目前已支持 Windows、macOS、Linux 和 Android，属于开箱即用的软件。&lt;/li>
+&lt;/ul>
+&lt;p>如果需要下载 GitHub 上的文件，那么我们可以使用一些镜像站点。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://mirror.ghproxy.com/" target="_blank" rel="noopener">GitHub Proxy&lt;/a>：网站内有更详细的说明。&lt;/li>
+&lt;/ul>
+&lt;h2>3. 通过修改 hosts 文件访问 GitHub&lt;span class="absolute -mt-20" id="3-通过修改-hosts-文件访问-github">&lt;/span>
+&lt;a href="#3-%e9%80%9a%e8%bf%87%e4%bf%ae%e6%94%b9-hosts-%e6%96%87%e4%bb%b6%e8%ae%bf%e9%97%ae-github" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>上面所述的使用软件，本质上还是使用别人帮我们设置好的代理上网，速度有时并不理想；
+而使用镜像站点下载文件，前提是知道 GitHub 上文件的地址；为了获取地址，你通常还是直接访问 GitHub。
+最重要的是，&lt;strong>这些工具随时可能失效&lt;/strong>。&lt;/p>
+&lt;p>所以本文的核心内容不是分享软件和网站，而是教大家如何通过&lt;strong>自己的操作&lt;/strong>连接 GitHub。&lt;/p>
+&lt;h3>3.1 基础知识&lt;span class="absolute -mt-20" id="31-基础知识">&lt;/span>
+&lt;a href="#31-%e5%9f%ba%e7%a1%80%e7%9f%a5%e8%af%86" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>先介绍几个常用的命令。
+这些命令是在终端（Windows cmd / Powershell，Linux Bash）下运行的指令。&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>ping&lt;/code>：测试网络连接是否正常，例如 &lt;code>ping github.com&lt;/code>。这个命令在 Windows 和 Linux 下都可以使用。
+&lt;img src="ping-github.png" alt="ping github" loading="lazy" />&lt;/li>
+&lt;li>&lt;code>ipconfig&lt;/code>：（仅限在 Windows 下）查看本机的 IP 地址。&lt;/li>
+&lt;li>&lt;code>ifconfig&lt;/code>：（仅限在 Linux 下）查看本机的 IP 地址。需要安装 &lt;code>net-tools&lt;/code>。&lt;/li>
+&lt;/ul>
+&lt;h3>3.2 获取 GitHub 的 IP 地址&lt;span class="absolute -mt-20" id="32-获取-github-的-ip-地址">&lt;/span>
+&lt;a href="#32-%e8%8e%b7%e5%8f%96-github-%e7%9a%84-ip-%e5%9c%b0%e5%9d%80" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>首先保证使用 3.1 中的 &lt;code>ping&lt;/code> 命令能够成功连接到 GitHub。
+如果你的 ping 返回的是 &lt;code>Request timed out&lt;/code>，那么说明你所处的网络环境有问题，这个不是本文能够解决的，因此不深入讨论。&lt;/p>
+&lt;p>下一步，查询 GitHub 的 IP 地址。
+提供 IP 查询的网站很多，这里给大家介绍 &lt;a href="https://www.ipaddress.com/" target="_blank" rel="noopener">IP Address&lt;/a>。&lt;/p>
+&lt;p>进入网站，选择其中的 &lt;code>IP Address Lookup&lt;/code> 功能（或直接进入链接： &lt;a href="https://www.ipaddress.com/ip-lookup" target="_blank" rel="noopener">https://www.ipaddress.com/ip-lookup&lt;/a>）。&lt;/p>
+&lt;p>&lt;img src="ip-address-lookup.png" alt="ip address lookup" loading="lazy" />&lt;/p>
+&lt;p>在搜索框中输入 &lt;code>github.com&lt;/code>，点击 &lt;code>Lookup&lt;/code> 就可以在结果中看到 GitHub 的 IP 地址了。&lt;/p>
+&lt;p>我们查询这 4 个网站的 IP 地址，把它们记下来：&lt;/p>
+&lt;ul>
+&lt;li>github.com&lt;/li>
+&lt;li>api.github.com&lt;/li>
+&lt;li>github.global.ssl.fastly.net&lt;/li>
+&lt;li>codeload.Github.com&lt;/li>
+&lt;/ul>
+&lt;p>这 4 个网站足够我们访问 GitHub、推送到 GitHub 仓库、使用 GitHub 的 API 了。&lt;/p>
+&lt;h3>3.3 修改 hosts 文件&lt;span class="absolute -mt-20" id="33-修改-hosts-文件">&lt;/span>
+&lt;a href="#33-%e4%bf%ae%e6%94%b9-hosts-%e6%96%87%e4%bb%b6" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>hosts 文件是一个没有扩展名的文本文件，用于将 IP 地址映射到域名。&lt;/p>
+&lt;p>Windows 中，hosts 文件位于 &lt;code>C:\Windows\System32\drivers\etc&lt;/code> 目录下。&lt;/p>
+&lt;p>&lt;img src="hosts-file.png" alt="hosts file" loading="lazy" />&lt;/p>
+&lt;p>Linux 中，hosts 文件位于 &lt;code>/etc&lt;/code> 目录下。&lt;/p>
+&lt;p>&lt;img src="hosts-file-linux.png" alt="hosts file" loading="lazy" />&lt;/p>
+&lt;p>需要注意，无论是 Windows 还是 Linux，修改 hosts 文件都需要管理员权限。&lt;/p>
+&lt;h4>3.3.1 Windows&lt;span class="absolute -mt-20" id="331-windows">&lt;/span>
+&lt;a href="#331-windows" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>如果使用记事本直接编辑 hosts 文件，系统会提示无法保存，因为没有管理员权限。
+解决的办法有两个。&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>把原有的 hosts 文件复制一份到系统目录外，编辑后再复制回去。
+复制回去时只需临时提供管理员权限即可成功。
+这个方法比较保险，相当于给 hosts 文件做了一个备份。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>打开&lt;strong>管理员&lt;/strong>终端，输入命令 &lt;code>notepad C:\Windows\System32\drivers\etc\hosts&lt;/code>，这样就可以直接在记事本中编辑 hosts 文件了。&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>在 hosts 文件的最下方，按如下格式添加在步骤 3.2 查询到的 IP 地址：&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl"># GitHub
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">140.82.113.3 github.com
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">140.82.113.5 api.github.com
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">146.75.77.194 github.global.ssl.fastly.net
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">140.82.114.9 codeload.Github.com&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;p>（把上面的 IP 地址换成你查询到的地址）&lt;/p>
+&lt;h4>3.3.2 Linux&lt;span class="absolute -mt-20" id="332-linux">&lt;/span>
+&lt;a href="#332-linux" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;p>Linux 下修改 hosts 文件的方法和 Windows 下类似，只是需要使用 &lt;code>sudo&lt;/code> 命令。
+不熟悉 &lt;code>vim&lt;/code> 的朋友可以使用 &lt;code>nano&lt;/code> 编辑器。&lt;/p>
+&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">sudo nano /etc/hosts&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
+&lt;button
+class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
+title="Copy code"
+>
+&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;p>然后在 hosts 文件的最下方，按照同样的格式添加内容。&lt;/p>
+&lt;h3>3.4 测试&lt;span class="absolute -mt-20" id="34-测试">&lt;/span>
+&lt;a href="#34-%e6%b5%8b%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>修改完 hosts 文件后，我们就可以尝试访问 GitHub 了。&lt;/p>
+&lt;h2>4. 总结&lt;span class="absolute -mt-20" id="4-总结">&lt;/span>
+&lt;a href="#4-%e6%80%bb%e7%bb%93" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>本文为大家介绍了一种通过修改 hosts 文件访问 GitHub 的方法。
+这种方法不依赖任何第三方的工具（查询 IP 的网站不至于炸掉吧😶），因此不限设备、任何时间都可以使用。&lt;/p>
+&lt;p>但是这种方法还是存在两个缺点：&lt;/p>
+&lt;ol>
+&lt;li>网站的 IP 地址是不固定的，因此 hosts 文件需要时常更新。如果某一天你发现你又连接不上 GitHub 了，那么就需要重新查询一下 GitHub 的 IP 地址了。&lt;/li>
+&lt;li>纯手工操作，每次更新会比较麻烦。&lt;/li>
+&lt;/ol>
+&lt;p>如果你不是活跃在 GitHub 上的开发者，只是偶尔需要获取 GitHub 上的资源，那么这种方法已经足够了。&lt;/p>
+&lt;p>😉&lt;/p></description></item><item><title>哈工大(深圳)自动化专业 限选课选课说明及选课建议</title><link>https://hoa.moe/blog/selecting-distributive-lessons/selecting-distributive-lessons/</link><pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate><guid>https://hoa.moe/blog/selecting-distributive-lessons/selecting-distributive-lessons/</guid><description>
 &lt;p>自动化专业的培养方案中有&lt;u>三个模块的专业限选课以及“实践课程体系”&lt;/u>，常常让人摸不着头脑。这里给大家来分析一下这些课的信息、以及给大家一些选课的建议。&lt;/p>
 &lt;p>此为21级学生方案，培养方案每年都在更新，&lt;strong>因此欢迎学弟学妹参与贡献！&lt;/strong>&lt;/p>
 &lt;h2>实践课程体系&lt;span class="absolute -mt-20" id="实践课程体系">&lt;/span>
@@ -316,187 +443,4 @@
 &lt;a href="#%e6%99%ba%e8%83%bd%e6%a3%80%e6%b5%8b%e6%a8%a1%e5%9d%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>数字图像处理：&lt;/p>
 &lt;p>机器视觉：&lt;/p>
 &lt;p>人工智能基础：&lt;/p>
-&lt;p>模式识别：&lt;/p></description></item><item><title>Markdown 语法指南</title><link>https://hoa.moe/blog/markdown/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://hoa.moe/blog/markdown/</guid><description>
-&lt;p>这篇文章提供了一些基础的 Markdown 语法样例。&lt;/p>
-&lt;h2>基础语法&lt;span class="absolute -mt-20" id="基础语法">&lt;/span>
-&lt;a href="#%e5%9f%ba%e7%a1%80%e8%af%ad%e6%b3%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>标题&lt;span class="absolute -mt-20" id="标题">&lt;/span>
-&lt;a href="#%e6%a0%87%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;pre>&lt;code># 一级标题
-## 二级标题
-### 三级标题
-#### 四级标题
-##### 五级标题
-###### 六级标题&lt;/code>&lt;/pre>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
-&lt;button
-class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
-title="Copy code"
->
-&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
-&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
-&lt;/button>
-&lt;/div>
-&lt;/div>
-&lt;h2>二级标题&lt;span class="absolute -mt-20" id="二级标题">&lt;/span>
-&lt;a href="#%e4%ba%8c%e7%ba%a7%e6%a0%87%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h3>三级标题&lt;span class="absolute -mt-20" id="三级标题">&lt;/span>
-&lt;a href="#%e4%b8%89%e7%ba%a7%e6%a0%87%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>四级标题&lt;span class="absolute -mt-20" id="四级标题">&lt;/span>
-&lt;a href="#%e5%9b%9b%e7%ba%a7%e6%a0%87%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;h5>五级标题&lt;span class="absolute -mt-20" id="五级标题">&lt;/span>
-&lt;a href="#%e4%ba%94%e7%ba%a7%e6%a0%87%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h5>&lt;h6>六级标题&lt;span class="absolute -mt-20" id="六级标题">&lt;/span>
-&lt;a href="#%e5%85%ad%e7%ba%a7%e6%a0%87%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h6>&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">*这段文字将是斜体*
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">_这也将是斜体_
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">**这段文字将是粗体**
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">__这也将是粗体__
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">_你 **可以** 组合它们_&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
-&lt;button
-class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
-title="Copy code"
->
-&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
-&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
-&lt;/button>
-&lt;/div>
-&lt;/div>
-&lt;p>&lt;em>这段文字将是斜体&lt;/em>
-&lt;em>这也将是斜体&lt;/em>&lt;/p>
-&lt;p>&lt;strong>这段文字将是粗体&lt;/strong>
-&lt;strong>这也将是粗体&lt;/strong>&lt;/p>
-&lt;p>&lt;em>你 &lt;strong>可以&lt;/strong> 组合它们&lt;/em>&lt;/p>
-&lt;h3>列表&lt;span class="absolute -mt-20" id="列表">&lt;/span>
-&lt;a href="#%e5%88%97%e8%a1%a8" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>无序列表&lt;span class="absolute -mt-20" id="无序列表">&lt;/span>
-&lt;a href="#%e6%97%a0%e5%ba%8f%e5%88%97%e8%a1%a8" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ul>
-&lt;li>项目 1&lt;/li>
-&lt;li>项目 2
-&lt;ul>
-&lt;li>项目 2a&lt;/li>
-&lt;li>项目 2b&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h4>有序列表&lt;span class="absolute -mt-20" id="有序列表">&lt;/span>
-&lt;a href="#%e6%9c%89%e5%ba%8f%e5%88%97%e8%a1%a8" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;ol>
-&lt;li>项目 1&lt;/li>
-&lt;li>项目 2&lt;/li>
-&lt;li>项目 3
-&lt;ol>
-&lt;li>项目 3a&lt;/li>
-&lt;li>项目 3b&lt;/li>
-&lt;/ol>
-&lt;/li>
-&lt;/ol>
-&lt;h3>图片&lt;span class="absolute -mt-20" id="图片">&lt;/span>
-&lt;a href="#%e5%9b%be%e7%89%87" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">![&lt;span class="nt">GitHub Logo&lt;/span>](&lt;span class="na">https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
-&lt;button
-class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
-title="Copy code"
->
-&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
-&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
-&lt;/button>
-&lt;/div>
-&lt;/div>
-&lt;p>&lt;img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" loading="lazy" />&lt;/p>
-&lt;h3>链接&lt;span class="absolute -mt-20" id="链接">&lt;/span>
-&lt;a href="#%e9%93%be%e6%8e%a5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">[&lt;span class="nt">Hugo&lt;/span>](&lt;span class="na">https://gohugo.io&lt;/span>)&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
-&lt;button
-class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
-title="Copy code"
->
-&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
-&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
-&lt;/button>
-&lt;/div>
-&lt;/div>
-&lt;p>&lt;a href="https://gohugo.io" target="_blank" rel="noopener">Hugo&lt;/a>&lt;/p>
-&lt;h3>块引用&lt;span class="absolute -mt-20" id="块引用">&lt;/span>
-&lt;a href="#%e5%9d%97%e5%bc%95%e7%94%a8" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">牛顿曾说：
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;gt; 如果我看得更远，那是因为我站在巨人的肩膀上。&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
-&lt;button
-class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
-title="Copy code"
->
-&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
-&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
-&lt;/button>
-&lt;/div>
-&lt;/div>
-&lt;blockquote>
-&lt;p>如果我看得更远，那是因为我站在巨人的肩膀上。&lt;/p>
-&lt;/blockquote>
-&lt;h3>行内代码&lt;span class="absolute -mt-20" id="行内代码">&lt;/span>
-&lt;a href="#%e8%a1%8c%e5%86%85%e4%bb%a3%e7%a0%81" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">行内 &lt;span class="sb">`代码`&lt;/span> 有 &lt;span class="sb">`反引号`&lt;/span> 包围。&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
-&lt;button
-class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
-title="Copy code"
->
-&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
-&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
-&lt;/button>
-&lt;/div>
-&lt;/div>
-&lt;p>行内 &lt;code>代码&lt;/code> 有 &lt;code>反引号&lt;/code> 包围。&lt;/p>
-&lt;h3>代码块&lt;span class="absolute -mt-20" id="代码块">&lt;/span>
-&lt;a href="#%e4%bb%a3%e7%a0%81%e5%9d%97" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;h4>语法高亮&lt;span class="absolute -mt-20" id="语法高亮">&lt;/span>
-&lt;a href="#%e8%af%ad%e6%b3%95%e9%ab%98%e4%ba%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h4>&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">&lt;span class="s">```go
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s">&lt;/span>&lt;span class="kd">func&lt;/span> &lt;span class="nf">main&lt;/span>&lt;span class="p">()&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">fmt&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nf">Println&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s">&amp;#34;Hello World&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="s">```&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
-&lt;button
-class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
-title="Copy code"
->
-&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
-&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
-&lt;/button>
-&lt;/div>
-&lt;/div>
-&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-go" data-lang="go">&lt;span class="line">&lt;span class="cl">&lt;span class="kd">func&lt;/span> &lt;span class="nf">main&lt;/span>&lt;span class="p">()&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">fmt&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nf">Println&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s">&amp;#34;Hello World&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
-&lt;button
-class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
-title="Copy code"
->
-&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
-&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
-&lt;/button>
-&lt;/div>
-&lt;/div>
-&lt;h3>表格&lt;span class="absolute -mt-20" id="表格">&lt;/span>
-&lt;a href="#%e8%a1%a8%e6%a0%bc" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;div class="code-block relative mt-6 first:mt-0 group/code">&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">| Syntax | Description |
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">| --------- | ----------- |
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">| Header | Title |
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">| Paragraph | Text |&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0">
-&lt;button
-class="code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50"
-title="Copy code"
->
-&lt;div class="group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4">&lt;/div>
-&lt;div class="hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4">&lt;/div>
-&lt;/button>
-&lt;/div>
-&lt;/div>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Syntax&lt;/th>
-&lt;th>Description&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Header&lt;/td>
-&lt;td>Title&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Paragraph&lt;/td>
-&lt;td>Text&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2>参考&lt;span class="absolute -mt-20" id="参考">&lt;/span>
-&lt;a href="#%e5%8f%82%e8%80%83" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noopener">Markdown Syntax&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://gohugo.io/content-management/formats/#markdown" target="_blank" rel="noopener">Hugo Markdown&lt;/a>&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;p>模式识别：&lt;/p></description></item></channel></rss>
