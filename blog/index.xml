@@ -1,11 +1,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ 自动化课程攻略共享计划 – 博客</title><link>https://hoa.moe/blog/</link><description>Recent content in 博客 on HITSZ 自动化课程攻略共享计划</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hoa.moe/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>新人指南：不使用第三方工具访问 GitHub</title><link>https://hoa.moe/blog/access-github/</link><pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate><guid>https://hoa.moe/blog/access-github/</guid><description>
 &lt;blockquote>
-&lt;p>参考资料：&lt;a href="http://t.csdnimg.cn/eFTpg" target="_blank" rel="noopener">GitHub push失败-Failed to connect to github.com port 443: Timed out - CSDN&lt;/a>&lt;/p>
-&lt;/blockquote>
-&lt;blockquote>
 &lt;p>已经会魔法的 / 能够稳定访问 GitHub 的朋友，这篇文章对你来说帮助不大了，本文面向刚开始接触 GitHub 的新朋友。&lt;/p>
-&lt;/blockquote>
-&lt;blockquote>
 &lt;p>本人不精通计算机网络知识，用语难免不严谨。本文只是分享一些自己的经验，如果有错误，欢迎指正。&lt;/p>
 &lt;/blockquote>
 &lt;h2>1. Introduction&lt;span class="absolute -mt-20" id="1-introduction">&lt;/span>
@@ -30,14 +25,13 @@
 &lt;li>&lt;a href="https://steampp.net/" target="_blank" rel="noopener">Watt Toolkit&lt;/a>：原名 Steam++，一个开源跨平台的多功能 Steam 工具箱，并且可以加速 GitHub 的访问。
 目前已支持 Windows、macOS、Linux 和 Android，属于开箱即用的软件。&lt;/li>
 &lt;/ul>
-&lt;p>如果需要下载 GitHub 上的文件，那么我们可以使用一些镜像站点。&lt;/p>
+&lt;p>如果需要下载\克隆 GitHub 上的文件，可以使用本站提供的代理服务。&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://mirror.ghproxy.com/" target="_blank" rel="noopener">GitHub Proxy&lt;/a>：网站内有更详细的说明。&lt;/li>
+&lt;li>&lt;a href="https://gh.hoa.moe/" target="_blank" rel="noopener">HOA&amp;rsquo;s Github Proxy&lt;/a>:&lt;/li>
 &lt;/ul>
 &lt;h2>3. 通过修改 hosts 文件访问 GitHub&lt;span class="absolute -mt-20" id="3-通过修改-hosts-文件访问-github">&lt;/span>
 &lt;a href="#3-%e9%80%9a%e8%bf%87%e4%bf%ae%e6%94%b9-hosts-%e6%96%87%e4%bb%b6%e8%ae%bf%e9%97%ae-github" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>上面所述的使用软件，本质上还是使用别人帮我们设置好的代理上网，速度有时并不理想；
-而使用镜像站点下载文件，前提是知道 GitHub 上文件的地址；为了获取地址，你通常还是直接访问 GitHub。
-最重要的是，&lt;strong>这些工具随时可能失效&lt;/strong>。&lt;/p>
+而使用镜像站点下载文件，前提是知道 GitHub 上文件的地址；为了获取地址，你通常还是直接访问 GitHub。最重要的是，&lt;strong>这些工具随时可能失效&lt;/strong>。&lt;/p>
 &lt;p>所以本文的核心内容不是分享软件和网站，而是教大家如何通过&lt;strong>自己的操作&lt;/strong>连接 GitHub。&lt;/p>
 &lt;h3>3.1 基础知识&lt;span class="absolute -mt-20" id="31-基础知识">&lt;/span>
 &lt;a href="#31-%e5%9f%ba%e7%a1%80%e7%9f%a5%e8%af%86" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>先介绍几个常用的命令。
@@ -53,7 +47,7 @@
 如果你的 ping 返回的是 &lt;code>Request timed out&lt;/code>，那么说明你所处的网络环境有问题，这个不是本文能够解决的，因此不深入讨论。&lt;/p>
 &lt;p>下一步，查询 GitHub 的 IP 地址。
 提供 IP 查询的网站很多，这里给大家介绍 &lt;a href="https://www.ipaddress.com/" target="_blank" rel="noopener">IP Address&lt;/a>。&lt;/p>
-&lt;p>进入网站，选择其中的 &lt;code>IP Address Lookup&lt;/code> 功能（或直接进入链接： &lt;a href="https://www.ipaddress.com/ip-lookup" target="_blank" rel="noopener">https://www.ipaddress.com/ip-lookup&lt;/a>）。&lt;/p>
+&lt;p>进入网站，选择其中的 &lt;code>IP Address Lookup&lt;/code> 功能（或直接进入链接： &lt;a href="https://www.ipaddress.com/ip-lookup%ef%bc%89%e3%80%82" target="_blank" rel="noopener">https://www.ipaddress.com/ip-lookup）。&lt;/a>&lt;/p>
 &lt;p>&lt;img src="ip-address-lookup.png" alt="ip address lookup" loading="lazy" />&lt;/p>
 &lt;p>在搜索框中输入 &lt;code>github.com&lt;/code>，点击 &lt;code>Lookup&lt;/code> 就可以在结果中看到 GitHub 的 IP 地址了。&lt;/p>
 &lt;p>我们查询这 4 个网站的 IP 地址，把它们记下来：&lt;/p>
@@ -125,7 +119,11 @@ title="Copy code"
 &lt;li>纯手工操作，每次更新会比较麻烦。&lt;/li>
 &lt;/ol>
 &lt;p>如果你不是活跃在 GitHub 上的开发者，只是偶尔需要获取 GitHub 上的资源，那么这种方法已经足够了。&lt;/p>
-&lt;p>😉&lt;/p></description></item><item><title>哈工大(深圳)自动化专业 限选课选课说明及选课建议</title><link>https://hoa.moe/blog/selecting-distributive-lessons/selecting-distributive-lessons/</link><pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate><guid>https://hoa.moe/blog/selecting-distributive-lessons/selecting-distributive-lessons/</guid><description>
+&lt;p>😉&lt;/p>
+&lt;blockquote>
+&lt;p>参考资料：
+&lt;a href="http://t.csdnimg.cn/eFTpg" target="_blank" rel="noopener">GitHub push失败-Failed to connect to github.com port 443: Timed &amp;gt; out - CSDN&lt;/a>&lt;/p>
+&lt;/blockquote></description></item><item><title>哈工大(深圳)自动化专业 限选课选课说明及选课建议</title><link>https://hoa.moe/blog/selecting-distributive-lessons/</link><pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate><guid>https://hoa.moe/blog/selecting-distributive-lessons/</guid><description>
 &lt;p>自动化专业的培养方案中有&lt;u>三个模块的专业限选课以及“实践课程体系”&lt;/u>，常常让人摸不着头脑。这里给大家来分析一下这些课的信息、以及给大家一些选课的建议。&lt;/p>
 &lt;p>此为21级学生方案，培养方案每年都在更新，&lt;strong>因此欢迎学弟学妹参与贡献！&lt;/strong>&lt;/p>
 &lt;h2>实践课程体系&lt;span class="absolute -mt-20" id="实践课程体系">&lt;/span>
