@@ -451,8 +451,28 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;/ul>
 &lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
 &lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
-&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
-&lt;br>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h1>课程名&lt;/h1>&lt;ul>
+&lt;li>是否考试课：&lt;/li>
+&lt;li>学分：&lt;/li>
+&lt;li>分数构成：&lt;/li>
+&lt;/ul>
+&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师-1">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88-1" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>教师1：
+&lt;ul>
+&lt;li>授课风格：&lt;/li>
+&lt;li>是否需要认真听讲做笔记&lt;/li>
+&lt;li>听课建议&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试-1">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95-1" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>考试难度：&lt;/li>
+&lt;/ul>
+&lt;h2>Tips&lt;span class="absolute -mt-20" id="tips">&lt;/span>
+&lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>课程建议&lt;br>&lt;span class="absolute -mt-20" id="课程建议br">&lt;/span>
+&lt;a href="#%e8%af%be%e7%a8%8b%e5%bb%ba%e8%ae%aebr" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
 &lt;br>
 &lt;h2>资料下载 | Download&lt;/h2>
 &lt;br>

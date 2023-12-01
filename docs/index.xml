@@ -1415,8 +1415,28 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;/ul>
 &lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
 &lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
-&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
-&lt;br>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h1>课程名&lt;/h1>&lt;ul>
+&lt;li>是否考试课：&lt;/li>
+&lt;li>学分：&lt;/li>
+&lt;li>分数构成：&lt;/li>
+&lt;/ul>
+&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师-1">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88-1" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>教师1：
+&lt;ul>
+&lt;li>授课风格：&lt;/li>
+&lt;li>是否需要认真听讲做笔记&lt;/li>
+&lt;li>听课建议&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试-1">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95-1" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>考试难度：&lt;/li>
+&lt;/ul>
+&lt;h2>Tips&lt;span class="absolute -mt-20" id="tips">&lt;/span>
+&lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>课程建议&lt;br>&lt;span class="absolute -mt-20" id="课程建议br">&lt;/span>
+&lt;a href="#%e8%af%be%e7%a8%8b%e5%bb%ba%e8%ae%aebr" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
 &lt;br>
 &lt;h2>资料下载 | Download&lt;/h2>
 &lt;br>
@@ -2303,78 +2323,6 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;br>
 &lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
 &lt;br>
-&lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(必修)自动化认知与实践</title><link>https://hoa.moe/docs/fresh-autumn/auto1001/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/fresh-autumn/auto1001/</guid><description>
-&lt;!--
-1. 通过 [Shields.io](https://shields.io/) 生成如下的徽章，标注课程的基本信息。尽情发挥你的颜色审美！
-2. 请根据课程的具体内容增删仓库的子文件夹。子文件夹建议使用小写英文，并且添加 README.md。
-3. 关于课程的描述可以不止以下几个方面，酌情增删。
-4. 当 hoa.moe 生成本课程对应页面后，请将页面链接复制到 GitHub 仓库的 About/Website 中。
-5. 可以在 GitHub 页面的 About/Topics 中为课程添加话题名称。
--->
-&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin" alt="Static Badge" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple" alt="Static Badge" loading="lazy" />&lt;/p>
-&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A%E4%B8%8E%E8%AE%BA%E6%96%87-10%25-wheat" alt="Static Badge" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E8%AF%BE%E5%A0%82%E5%AE%9E%E9%AA%8C-30%25-wheat" alt="Static Badge" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%80%83%E6%A0%B8-30%25-wheat" alt="Static Badge" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-30%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
-&lt;div align="center">
-&lt;a href="https://git.io/typing-svg">
-&lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;duration=3000&amp;color=F71717&amp;center=true&amp;multiline=true&amp;repeat=false&amp;random=false&amp;width=435&amp;height=100&amp;lines=%E6%AC%A2+%E8%BF%8E+%E6%9D%A5+%E5%88%B0;AUTO1001;自 动 化 认 知 与 实 践" alt="Typing SVG: Welcome"/>
-&lt;/a>
-&lt;/div>
-&lt;p>恭喜你来到 HITSZ 自动化专业的第一门专业课，你将会获得其他专业都不会有的学习经历😅。&lt;/p>
-&lt;p>本课程开设自 2022 年，合并了过去工程制图、自动化专业导论、机器人设计与实践、机械设计基础 4 门课程。&lt;/p>
-&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
-&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>自动化专业导论、工程制图、机器人设计与实践部分分别由不同的老师先后负责讲授。&lt;/p>
-&lt;ul>
-&lt;li>自动化专业导论：Lou Yunjiang&lt;/li>
-&lt;li>工程制图：Yuan Han&lt;/li>
-&lt;li>机器人设计与实践：Xiong Hao，Xiong Xiaogang&lt;/li>
-&lt;li>实验课：Ge Yaming&lt;/li>
-&lt;/ul>
-&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>2022 级自动化专业学生参与了这门课第一次考试，笔试内容主要来自课堂教学，例如电机驱动，电阻色环识别，Arduino 编程知识。
-考试难度对于从未接触过机器人或单片机的同学来说并不是很友好，而且主要考的都是死记硬背的东西，因此在学生间的评价很差。&lt;/p>
-&lt;h2>关于实验&lt;span class="absolute -mt-20" id="关于实验">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e5%ae%9e%e9%aa%8c" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
-&lt;p>以下内容仅代表 2022 级的情况&lt;/p>
-&lt;/blockquote>
-&lt;h3>前期&lt;span class="absolute -mt-20" id="前期">&lt;/span>
-&lt;a href="#%e5%89%8d%e6%9c%9f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>前期的实验课比较简单，是使用电子元件和 Arduino 开发板制作一些简单的项目，可以参考课件文件夹中的实验指导书提前了解。如果做这些项目时遇到了问题，建议在 &lt;a href="https://www.csdn.net/" target="_blank" rel="noopener">CSDN&lt;/a> 和 &lt;a href="https://www.arduino.cc/" target="_blank" rel="noopener">Arduino官网&lt;/a> 上查找有关资料。老师布置的项目，别人肯定也做过。&lt;/p>
-&lt;p>如果是用到 Arduino 的实验，建议在上课前提前准备好程序，现场敲代码会比较浪费时间。实验虽然会发实验代码，但不建议直接照抄，理解代码会对后期小车代码的编写调试大有裨益。&lt;/p>
-&lt;p>实验的打分由老师或者助教完成，就是看实际的运行效果，要求并不非常严格。完成实验课上的附加题可获得额外加分。&lt;/p>
-&lt;h3>后期&lt;span class="absolute -mt-20" id="后期">&lt;/span>
-&lt;a href="#%e5%90%8e%e6%9c%9f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>后期老师会把实验室开放给学生，自行使用已有的零件搭建一辆能够——&lt;/p>
-&lt;ul>
-&lt;li>使用红外线传感器巡线&lt;/li>
-&lt;li>使用使用机械臂抓放物体&lt;/li>
-&lt;li>使用超声波避障&lt;/li>
-&lt;/ul>
-&lt;p>——的小车。小车会在期末进行考核，根据完成任务的情况打分。&lt;/p>
-&lt;p>关于这个部分，&lt;strong>每一届自动化的学生都有很多故事想说😅&lt;/strong>，但是就不在这里展开了。&lt;/p>
-&lt;p>不过我们搜集了一些 2022 级同学的代码仓库，里面不仅有实用的代码，还有同学们分享的学习经历、经验和教程！&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/MaxwellJay256/mega_12800" target="_blank" rel="noopener">Maxwell Jay - mega_12800&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/longlin10086/HITSZ_lab_project" target="_blank" rel="noopener">longlin li - HITSZ_lab_project&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/chenxijun/AutoCar" target="_blank" rel="noopener">Chenx Dust - AutoCar&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2>除了上面那些东西，你还应该知道&lt;span class="absolute -mt-20" id="除了上面那些东西你还应该知道">&lt;/span>
-&lt;a href="#%e9%99%a4%e4%ba%86%e4%b8%8a%e9%9d%a2%e9%82%a3%e4%ba%9b%e4%b8%9c%e8%a5%bf%e4%bd%a0%e8%bf%98%e5%ba%94%e8%af%a5%e7%9f%a5%e9%81%93" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
-&lt;p>待补充，也许是一些睿评？# 工程制图从22级开始与自动化导论、机器人设计与实践合并，不存在参考价值&lt;br>
-&lt;br>
-&lt;br>&lt;/p>
-&lt;/blockquote>
-&lt;h2>资料下载 | Download&lt;/h2>
-&lt;br>
-&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO1001/materials/%E5%B7%A5%E7%A8%8B%E5%88%B6%E5%9B%BE%E5%9F%BA%E7%A1%80.pdf.zip">materials/工程制图基础.pdf.zip&lt;/a>
-&lt;br>
-&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO1001/materials/%E5%B7%A5%E7%A8%8B%E5%88%B6%E5%9B%BE%E5%9F%BA%E7%A1%80%E4%B9%A0%E9%A2%98%E9%9B%86.pdf.pdf">materials/工程制图基础习题集.pdf.pdf&lt;/a>
-&lt;br>
-&lt;br>
-&lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
-&lt;br>
 &lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(必修)自动化认知与实践</title><link>https://hoa.moe/docs/sophomore-autumn/auto1001/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-autumn/auto1001/</guid><description>
 &lt;!--
 1. 通过 [Shields.io](https://shields.io/) 生成如下的徽章，标注课程的基本信息。尽情发挥你的颜色审美！
@@ -2867,10 +2815,132 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;/ul>
 &lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
 &lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
-&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
-&lt;br>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h1>微积分B&lt;/h1>&lt;ul>
+&lt;li>是否考试课：是&lt;/li>
+&lt;li>学分：5.0&lt;/li>
+&lt;li>分数构成：20%作业 + 30%期中考试 + 50%期末考试&lt;/li>
+&lt;/ul>
+&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师-1">&lt;/span>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88-1" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>教师1：bgj
+&lt;ul>
+&lt;li>授课风格：完全不用幻灯片，纯板书，而且板书非常有条理，把他的板书全部抄下来就是一份可读性很好的笔记了（这一点比yjw好）。偶尔会点名。
+有学生觉得他讲得太慢，但事实上这位老先生总能在最后一刻讲完所有要讲的东西。
+唯二的问题是板书时常出现笔误、总是拖堂。
+&lt;blockquote>
+&lt;p>“当他在期末最后一节课上向到场的所有学生鞠躬致谢时，我便知道他是我在大一遇到的最有哈工大人气质的教授。” -Maxwell Jay&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;li>是否需要认真听讲做笔记：如果你愿意听他的课，最好就完全跟着他的思路来。老师会在课上讲很多的例题，如果能把它们都记下来并且课后稍微复习一下，基本上就足够掌握这一部分的内容了（都把例题喂到你嘴里了这还不冲？）。&lt;/li>
+&lt;li>听课建议：如果你是挑剔的学生，大多数课都不愿意听老师讲，那么他的课应该是你最后一个选择skip的。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试-1">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95-1" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>考试难度：半期考试比较容易，25+对于大多数同学是能实现的；期末考试由于曲线曲面积分以及级数的加入，计算量陡增，难度也随之增加，想上40分会比较有挑战性，挂科率也是相当高。&lt;/li>
+&lt;/ul>
+&lt;h2>Tips&lt;span class="absolute -mt-20" id="tips">&lt;/span>
+&lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>课程建议&lt;br>&lt;span class="absolute -mt-20" id="课程建议br">&lt;/span>
+&lt;a href="#%e8%af%be%e7%a8%8b%e5%bb%ba%e8%ae%aebr" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
 &lt;br>
 &lt;h2>资料下载 | Download&lt;/h2>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/assignments/1_%E7%AC%AC%E4%B8%83%E7%AB%A0%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%EF%BC%887.6-7.9%EF%BC%89.pdf">assignments/1_第七章微分方程作业答案（7.6-7.9）.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/assignments/1_%E7%AC%AC%E4%B9%9D%E7%AB%A0%E5%A4%9A%E5%85%83%E5%87%BD%E6%95%B0%E5%BE%AE%E5%88%86%E6%B3%95%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf">assignments/1_第九章多元函数微分法及其应用作业答案.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/assignments/1_%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0%E6%9B%B2%E7%BA%BF%E7%A7%AF%E5%88%86%E4%B8%8E%E6%9B%B2%E9%9D%A2%E7%A7%AF%E5%88%86%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf">assignments/1_第十一章曲线积分与曲面积分作业答案.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/assignments/1_%E7%AC%AC%E5%8D%81%E7%AB%A0%E9%87%8D%E7%A7%AF%E5%88%86%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf">assignments/1_第十章重积分作业答案.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/assignments/%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0%E6%9B%B2%E7%BA%BF%E7%A7%AF%E5%88%86%E4%B8%8E%E6%9B%B2%E9%9D%A2%E7%A7%AF%E5%88%86%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf">assignments/第十一章曲线积分与曲面积分作业答案.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/assignments/%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0%E6%97%A0%E7%A9%B7%E7%BA%A7%E6%95%B0%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf">assignments/第十二章无穷级数作业答案.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/assignments/%E7%AC%AC%E5%8D%81%E7%AB%A0%E9%87%8D%E7%A7%AF%E5%88%86%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf">assignments/第十章重积分作业答案.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2017%E6%98%A5%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.doc">exams/微积分B期中试题+答案/2017春高等数学期中试卷.doc&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2018%E6%98%A5%E9%AB%98%E6%95%B0B%E6%9C%9F%E4%B8%AD%E7%AD%94%E6%A1%88.pdf">exams/微积分B期中试题+答案/2018春高数B期中答案.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2018%E6%98%A5%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.doc">exams/微积分B期中试题+答案/2018春高等数学期中试卷.doc&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2019%E6%98%A5%E9%AB%98%E6%95%B0%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf">exams/微积分B期中试题+答案/2019春高数期中试卷.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2019%E6%98%A5%E9%AB%98%E6%95%B0%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf">exams/微积分B期中试题+答案/2019春高数期中试题答案.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2021%E6%98%A5%E9%AB%98%E6%95%B0B%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98.pdf">exams/微积分B期中试题+答案/2021春高数B期中试题.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2021%E6%98%A5%E9%AB%98%E6%95%B0B%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf">exams/微积分B期中试题+答案/2021春高数B期中试题答案.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2023%E6%98%A5%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98.pdf">exams/微积分B期中试题+答案/2023春微积分B期中试题.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2017%E6%98%A5%E5%AD%A3%E6%9C%9F%E6%9C%AB%E9%AB%98%E6%95%B0%E8%AF%95%E5%8D%B7.doc">exams/微积分B期末试题+答案/2017春季期末高数试卷.doc&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2018%E6%98%A5%E9%AB%98%E6%95%B0%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf">exams/微积分B期末试题+答案/2018春高数期末试卷.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2018%E6%98%A5%E9%AB%98%E6%95%B0%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E7%AD%94%E6%A1%88.pdf">exams/微积分B期末试题+答案/2018春高数期末试卷答案.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2018%E6%98%A5%E9%AB%98%E6%95%B0%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.docx">exams/微积分B期末试题+答案/2018春高数期末试题答案.docx&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2019%E6%98%A5%E5%AD%A3%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E8%A7%A3%E7%AD%94.pdf">exams/微积分B期末试题+答案/2019春季期末试题解答.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2019%E6%98%A5%E5%AD%A3%E6%9C%9F%E6%9C%AB%E9%AB%98%E6%95%B0%E8%AF%95%E5%8D%B7.doc">exams/微积分B期末试题+答案/2019春季期末高数试卷.doc&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2019%E6%98%A5%E5%AD%A3%E6%9C%9F%E6%9C%AB%E9%AB%98%E6%95%B0%E8%AF%95%E5%8D%B7.pdf">exams/微积分B期末试题+答案/2019春季期末高数试卷.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2019%E6%98%A5%E9%AB%98%E6%95%B0%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E7%AD%94%E6%A1%88.doc">exams/微积分B期末试题+答案/2019春高数期末试卷答案.doc&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2019%E6%98%A5%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.doc">exams/微积分B期末试题+答案/2019春高等数学期末试卷.doc&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2020%E6%98%A5%E9%AB%98%E6%95%B0B%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf">exams/微积分B期末试题+答案/2020春高数B期末试卷.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2020%E6%98%A5%E9%AB%98%E6%95%B0%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf">exams/微积分B期末试题+答案/2020春高数期末试卷.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2020%E6%98%A5%E9%AB%98%E6%95%B0%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf">exams/微积分B期末试题+答案/2020春高数期末试题答案.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2021%E6%98%A5%E9%AB%98%E6%95%B0B%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf">exams/微积分B期末试题+答案/2021春高数B期末试卷.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2021%E6%98%A5%E9%AB%98%E6%95%B0B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf">exams/微积分B期末试题+答案/2021春高数B期末试题答案.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2022%E6%98%A5%E9%AB%98%E6%95%B0B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf">exams/微积分B期末试题+答案/2022春高数B期末试题答案.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2022%E6%98%A5%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf">exams/微积分B期末试题+答案/2022春高等数学B期末试题.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/exams/%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%2B%E7%AD%94%E6%A1%88/2023%E6%98%A5%E5%BE%AE%E7%A7%AF%E5%88%86B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf">exams/微积分B期末试题+答案/2023春微积分B期末试题.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/materials/%E5%90%8C%E6%B5%8E%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88%E4%B8%8A%E5%86%8C%E4%B9%A0%E9%A2%98%E5%85%A8%E8%A7%A3%E6%8C%87%E5%8D%97.pdf">materials/同济高等数学第七版上册习题全解指南.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/materials/%E5%90%8C%E6%B5%8E%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%83%E7%89%88%E4%B8%8B%E5%86%8C%E4%B9%A0%E9%A2%98%E5%85%A8%E8%A7%A3%E6%8C%87%E5%8D%97.pdf">materials/同济高等数学第七版下册习题全解指南.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/materials/%E5%B7%A5%E6%95%B0%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94-%E5%93%88%E5%B7%A5%E5%A4%A7-%E4%B8%8B.pdf">materials/工数习题解答-哈工大-下.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/materials/%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90-%E5%93%88%E5%B7%A5%E5%A4%A7-%E4%B8%8A.pdf">materials/工科数学分析-哈工大-上.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/materials/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6-%E7%AC%AC7%E7%89%88-%E4%B8%8B%E5%86%8C-%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6.pdf">materials/高等数学-第7版-下册-同济大学.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/materials/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E5%85%B8%E5%9E%8B%E9%A2%98-%E7%AC%AC%E4%BA%8C%E7%89%88-%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6.pdf">materials/高等数学典型题-第二版-西安交通大学.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/notes/%5BHIT%E7%AC%94%E8%AE%B0%5D%E5%BE%AE%E7%A7%AF%E5%88%86%E7%AC%94%E8%AE%B0--%E4%BB%BB%E5%A7%BF%E9%A2%96.pdf">notes/[HIT笔记]微积分笔记--任姿颖.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/notes/%5BHIT%E7%AC%94%E8%AE%B0%5D%E5%BE%AE%E7%A7%AF%E5%88%86%E7%AC%94%E8%AE%B0--%E7%8E%8B%E6%80%A1%E7%8E%AE.pdf">notes/[HIT笔记]微积分笔记--王怡玮.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/notes/%5BHIT%E7%AC%94%E8%AE%B0%5D%E5%BE%AE%E7%A7%AF%E5%88%86%E8%AE%B2%E4%B9%89.pdf">notes/[HIT笔记]微积分讲义.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/notes/%5B%E7%BD%91%E7%9B%98%E8%AE%A1%E5%88%92%5D%E5%BE%AE%E7%A7%AF%E5%88%86%28%E4%B8%8B%29%E6%9C%9F%E4%B8%AD%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf">notes/[网盘计划]微积分(下)期中复习笔记.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/notes/%5B%E7%BD%91%E7%9B%98%E8%AE%A1%E5%88%92%5D%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.pdf">notes/[网盘计划]高等数学A知识整理.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/notes/%E4%BA%8C%E9%87%8D%E7%A7%AF%E5%88%86%E6%80%BB%E7%BB%93%E5%8F%8A%E6%8B%93%E5%B1%95.pdf">notes/二重积分总结及拓展.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/notes/%E5%A4%9A%E5%85%83%E5%87%BD%E6%95%B0%E5%BE%AE%E5%88%86%E5%AD%A6%E6%80%BB%E7%BB%93%E4%B8%8E%E6%8B%93%E5%B1%95.pdf">notes/多元函数微分学总结与拓展.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/notes/%E5%B7%A5%E6%95%B0%E4%B8%8B%E7%9F%A5%E8%AF%86%E7%82%B9%E7%B2%BE%E8%A6%81%EF%BC%88%E5%86%85%E5%AE%B9%EF%BC%89%20%E6%8E%92%E7%89%88.pdf">notes/工数下知识点精要（内容） 排版.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/notes/%E7%9F%A5%E8%AF%86%E7%82%B9_%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%28crop%29.pdf">notes/知识点_高等数学(crop).pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1015B/raw/main/notes/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%EF%BC%88%E4%B8%8B%E5%86%8C%EF%BC%89%E6%98%93%E9%81%97%E5%BF%98%E7%9F%A5%E8%AF%86%E7%82%B9.pdf">notes/高等数学（下册）易遗忘知识点.pdf&lt;/a>
 &lt;br>
 &lt;br>
 &lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
