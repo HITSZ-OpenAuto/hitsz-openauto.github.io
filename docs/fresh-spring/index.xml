@@ -635,30 +635,13 @@
 &lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-50%25-wheat" alt="期末考试50%" loading="lazy" />&lt;/p>
 &lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
 &lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>（教师名）
-&lt;ul>
-&lt;li>授课风格：&lt;/li>
-&lt;li>听课建议：&lt;/li>
-&lt;li>……&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
-&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h1>微积分B&lt;/h1>&lt;ul>
-&lt;li>是否考试课：是&lt;/li>
-&lt;li>学分：5.0&lt;/li>
-&lt;li>分数构成：20%作业 + 30%期中考试 + 50%期末考试&lt;/li>
-&lt;/ul>
-&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师-1">&lt;/span>
-&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88-1" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>教师1：bgj
+&lt;li>Bao Gejun
 &lt;ul>
 &lt;li>授课风格：完全不用幻灯片，纯板书，而且板书非常有条理，把他的板书全部抄下来就是一份可读性很好的笔记了（这一点比yjw好）。偶尔会点名。
 有学生觉得他讲得太慢，但事实上这位老先生总能在最后一刻讲完所有要讲的东西。
 唯二的问题是板书时常出现笔误、总是拖堂。
 &lt;blockquote>
-&lt;p>“当他在期末最后一节课上向到场的所有学生鞠躬致谢时，我便知道他是我在大一遇到的最有哈工大人气质的教授。” -Maxwell Jay&lt;/p>
+&lt;p>“当他在期末最后一节课上向到场的所有学生鞠躬致谢时，我便知道他是我在大一遇到的最有哈工大人气质的教授。” -&lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">@Maxwell Jay&lt;/a>&lt;/p>
 &lt;/blockquote>
 &lt;/li>
 &lt;li>是否需要认真听讲做笔记：如果你愿意听他的课，最好就完全跟着他的思路来。老师会在课上讲很多的例题，如果能把它们都记下来并且课后稍微复习一下，基本上就足够掌握这一部分的内容了（都把例题喂到你嘴里了这还不冲？）。&lt;/li>
@@ -666,13 +649,13 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试-1">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95-1" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>考试难度：半期考试比较容易，25+对于大多数同学是能实现的；期末考试由于曲线曲面积分以及级数的加入，计算量陡增，难度也随之增加，想上40分会比较有挑战性，挂科率也是相当高。&lt;/li>
+&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>考试难度：半期考试比较容易，25+ 对于大多数同学是能实现的；期末考试由于曲线曲面积分以及级数的加入，计算量陡增，难度也随之增加，想上 40 分会比较有挑战性，挂科率也是相当高。&lt;/li>
 &lt;/ul>
-&lt;h2>Tips&lt;span class="absolute -mt-20" id="tips">&lt;/span>
-&lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>课程建议&lt;br>&lt;span class="absolute -mt-20" id="课程建议br">&lt;/span>
-&lt;a href="#%e8%af%be%e7%a8%8b%e5%bb%ba%e8%ae%aebr" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
+&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
+&lt;br>
 &lt;br>
 &lt;h2>资料下载 | Download&lt;/h2>
 &lt;br>
