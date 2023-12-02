@@ -49,12 +49,13 @@
 &lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>课程建议&lt;br>&lt;span class="absolute -mt-20" id="课程建议br">&lt;/span>
 &lt;a href="#%e8%af%be%e7%a8%8b%e5%bb%ba%e8%ae%aebr" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
 &lt;br>
-&lt;h2>资料下载 | Download&lt;/h2>
+&lt;p>资料下载
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1007/raw/main/exams/%E6%A8%A1%E6%8B%9F%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF10-16%E5%B9%B4.pdf">exams/模拟电子技术10-16年.pdf&lt;/a>
 &lt;br>
-&lt;br>
-&lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
+&lt;br>&lt;/p>
+&lt;h2>支持我们｜Buy Me a Coffee&lt;span class="absolute -mt-20" id="支持我们buy-me-a-coffee">&lt;/span>
+&lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%acbuy-me-a-coffee" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果您认为本页面提供的信息对您有帮助，请考虑捐赠 ¥2 给我们。您的每一份慷慨支持都将大幅减轻我们承担的域名及对象存储服务的费用负担~3&lt;/p>
 &lt;br>
 &lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(必修)理论力学Ⅱ</title><link>https://hoa.moe/docs/sophomore-spring/emec1002/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-spring/emec1002/</guid><description>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" />
@@ -77,7 +78,7 @@
 &lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
 &lt;br>
 &lt;br>
-&lt;h2>资料下载 | Download&lt;/h2>
+&lt;p>资料下载
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EMEC1002/raw/main/exams/2023%E6%98%A5-%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6II.pdf">exams/2023春-理论力学II.pdf&lt;/a>
 &lt;br>
@@ -91,8 +92,9 @@
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EMEC1002/raw/main/exams/%E9%9D%99%E5%8A%9B%E5%AD%A6%E6%B5%8B%E8%AF%95V1.1.pdf">exams/静力学测试V1.1.pdf&lt;/a>
 &lt;br>
-&lt;br>
-&lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
+&lt;br>&lt;/p>
+&lt;h2>支持我们｜Buy Me a Coffee&lt;span class="absolute -mt-20" id="支持我们buy-me-a-coffee">&lt;/span>
+&lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%acbuy-me-a-coffee" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果您认为本页面提供的信息对您有帮助，请考虑捐赠 ¥2 给我们。您的每一份慷慨支持都将大幅减轻我们承担的域名及对象存储服务的费用负担~3&lt;/p>
 &lt;br>
 &lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(限选)数据结构与算法</title><link>https://hoa.moe/docs/sophomore-spring/comp2050/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-spring/comp2050/</guid><description>
 &lt;p>该课程属于限选课程的实践课程体系模块。
@@ -121,7 +123,7 @@
 &lt;br>
 &lt;br>&lt;/li>
 &lt;/ul>
-&lt;h2>资料下载 | Download&lt;/h2>
+&lt;p>资料下载
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/COMP2050/raw/main/assignments/WJD_version/21%E7%BA%A7%E8%87%AA%E5%8A%A8%E5%8C%966%E7%8F%AD-%E5%90%B4%E4%BF%8A%E8%BE%BE-210320621-%E4%BD%9C%E4%B8%9A3.docx">assignments/WJD_version/21级自动化6班-吴俊达-210320621-作业3.docx&lt;/a>
 &lt;br>
@@ -151,7 +153,8 @@
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/COMP2050/raw/main/labs/%E6%BA%90%E6%96%87%E6%A1%A3/%E5%AE%9E%E9%AA%8C4.zip">labs/源文档/实验4.zip&lt;/a>
 &lt;br>
-&lt;br>
-&lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
+&lt;br>&lt;/p>
+&lt;h2>支持我们｜Buy Me a Coffee&lt;span class="absolute -mt-20" id="支持我们buy-me-a-coffee">&lt;/span>
+&lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%acbuy-me-a-coffee" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果您认为本页面提供的信息对您有帮助，请考虑捐赠 ¥2 给我们。您的每一份慷慨支持都将大幅减轻我们承担的域名及对象存储服务的费用负担~3&lt;/p>
 &lt;br>
 &lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item></channel></rss>

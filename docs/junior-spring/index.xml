@@ -34,7 +34,7 @@
 &lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
 &lt;br>
 &lt;br>
-&lt;h2>资料下载 | Download&lt;/h2>
+&lt;p>资料下载
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/assignments/2023%E5%B9%B4%E6%98%A5/1/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf">assignments/2023年春/1/第一次作业.pdf&lt;/a>
 &lt;br>
@@ -108,8 +108,9 @@
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/slides/9-%E7%8A%B6%E6%80%81%E7%A9%BA%E9%97%B4%E7%BB%BC%E5%90%88xj.pdf">slides/9-状态空间综合xj.pdf&lt;/a>
 &lt;br>
-&lt;br>
-&lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
+&lt;br>&lt;/p>
+&lt;h2>支持我们｜Buy Me a Coffee&lt;span class="absolute -mt-20" id="支持我们buy-me-a-coffee">&lt;/span>
+&lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%acbuy-me-a-coffee" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果您认为本页面提供的信息对您有帮助，请考虑捐赠 ¥2 给我们。您的每一份慷慨支持都将大幅减轻我们承担的域名及对象存储服务的费用负担~3&lt;/p>
 &lt;br>
 &lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(必修)自动控制实践B</title><link>https://hoa.moe/docs/junior-spring/auto3002b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-spring/auto3002b/</guid><description>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" />&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-6-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
@@ -131,7 +132,7 @@
 &lt;br>
 &lt;br>&lt;/li>
 &lt;/ul>
-&lt;h2>资料下载 | Download&lt;/h2>
+&lt;p>资料下载
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/assignments/LL_Version/HW1.pdf">assignments/LL_Version/HW1.pdf&lt;/a>
 &lt;br>
@@ -155,7 +156,7 @@
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/notes/Revision%20of%20Auto-Practical.pdf">notes/Revision of Auto-Practical.pdf&lt;/a>
 &lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/STM32_Class_1%262%263%264%265....pdf">slides/STM32_Class_1&amp;2&amp;3&amp;4&amp;5....pdf&lt;/a>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/STM32_Class_1%262%263%264%265....pdf">slides/STM32_Class_1&amp;amp;2&amp;amp;3&amp;amp;4&amp;amp;5&amp;hellip;.pdf&lt;/a>
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/%E7%AC%AC1%E7%AB%A0%EF%BC%8C%E7%BB%AA%E8%AE%BA.pdf">slides/第1章，绪论.pdf&lt;/a>
 &lt;br>
@@ -191,8 +192,9 @@
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/%E7%AC%AC9%E7%AB%A0%EF%BC%8C%E8%AF%BE%E7%A8%8B%E6%80%BB%E7%BB%93.pdf">slides/第9章，课程总结.pdf&lt;/a>
 &lt;br>
-&lt;br>
-&lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
+&lt;br>&lt;/p>
+&lt;h2>支持我们｜Buy Me a Coffee&lt;span class="absolute -mt-20" id="支持我们buy-me-a-coffee">&lt;/span>
+&lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%acbuy-me-a-coffee" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果您认为本页面提供的信息对您有帮助，请考虑捐赠 ¥2 给我们。您的每一份慷慨支持都将大幅减轻我们承担的域名及对象存储服务的费用负担~3&lt;/p>
 &lt;br>
 &lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(限选)过程控制系统</title><link>https://hoa.moe/docs/junior-spring/auto3007/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-spring/auto3007/</guid><description>
 &lt;p>该课程属于限选课程的控制理论与控制工程模块。
@@ -221,7 +223,7 @@
 &lt;br>
 &lt;br>
 &lt;br>&lt;/p>
-&lt;h2>资料下载 | Download&lt;/h2>
+&lt;p>资料下载
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/assignments/AYB_Verison/%E4%BD%9C%E4%B8%9A2%E9%9D%9E%E7%BA%BF%E6%80%A7%E5%8F%8D%E9%A6%88.docx">assignments/AYB_Verison/作业2非线性反馈.docx&lt;/a>
 &lt;br>
@@ -285,8 +287,9 @@
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC9%E6%AC%A1%E8%AF%BE-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf">slides/2022春课件/第9次课-苗子博.pdf&lt;/a>
 &lt;br>
-&lt;br>
-&lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
+&lt;br>&lt;/p>
+&lt;h2>支持我们｜Buy Me a Coffee&lt;span class="absolute -mt-20" id="支持我们buy-me-a-coffee">&lt;/span>
+&lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%acbuy-me-a-coffee" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果您认为本页面提供的信息对您有帮助，请考虑捐赠 ¥2 给我们。您的每一份慷慨支持都将大幅减轻我们承担的域名及对象存储服务的费用负担~3&lt;/p>
 &lt;br>
 &lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(限选)数学规划</title><link>https://hoa.moe/docs/junior-spring/math3010/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-spring/math3010/</guid><description>
 &lt;p>该课程属于限选课程的控制理论与控制工程模块。
@@ -312,10 +315,11 @@
 &lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
 &lt;br>
 &lt;br>
-&lt;h2>资料下载 | Download&lt;/h2>
+&lt;p>资料下载
 &lt;br>
-&lt;br>
-&lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
+&lt;br>&lt;/p>
+&lt;h2>支持我们｜Buy Me a Coffee&lt;span class="absolute -mt-20" id="支持我们buy-me-a-coffee">&lt;/span>
+&lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%acbuy-me-a-coffee" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果您认为本页面提供的信息对您有帮助，请考虑捐赠 ¥2 给我们。您的每一份慷慨支持都将大幅减轻我们承担的域名及对象存储服务的费用负担~3&lt;/p>
 &lt;br>
 &lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(限选)机器人学导论</title><link>https://hoa.moe/docs/junior-spring/auto3005/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-spring/auto3005/</guid><description>
 &lt;p>该课程属于限选课程的机器人与智能系统模块。
@@ -340,7 +344,7 @@
 &lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
 &lt;br>
 &lt;br>
-&lt;h2>资料下载 | Download&lt;/h2>
+&lt;p>资料下载
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3005/raw/main/books/John%20J.Craig%20-%20Introduction%20to%20Robotics%20Mechanics.pdf">books/John J.Craig - Introduction to Robotics Mechanics.pdf&lt;/a>
 &lt;br>
@@ -352,16 +356,17 @@
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3005/raw/main/exams/%E8%80%83%E8%AF%95A4%E7%BA%B8.pdf">exams/考试A4纸.pdf&lt;/a>
 &lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3005/raw/main/slides/--1--Rev-Robot-History-July-2012%5Bhandout%5D.pdf">slides/--1--Rev-Robot-History-July-2012[handout].pdf&lt;/a>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3005/raw/main/slides/--1--Rev-Robot-History-July-2012%5Bhandout%5D.pdf">slides/&amp;ndash;1&amp;ndash;Rev-Robot-History-July-2012[handout].pdf&lt;/a>
 &lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3005/raw/main/slides/--2--Rev-Rigid-Body-Kinematics-July-2012%5Bhandout%5D.pdf">slides/--2--Rev-Rigid-Body-Kinematics-July-2012[handout].pdf&lt;/a>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3005/raw/main/slides/--2--Rev-Rigid-Body-Kinematics-July-2012%5Bhandout%5D.pdf">slides/&amp;ndash;2&amp;ndash;Rev-Rigid-Body-Kinematics-July-2012[handout].pdf&lt;/a>
 &lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3005/raw/main/slides/--3--Rev-Manipulator-Kinematics-July-2012%5Bhandout.pdf">slides/--3--Rev-Manipulator-Kinematics-July-2012[handout.pdf&lt;/a>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3005/raw/main/slides/--3--Rev-Manipulator-Kinematics-July-2012%5Bhandout.pdf">slides/&amp;ndash;3&amp;ndash;Rev-Manipulator-Kinematics-July-2012[handout.pdf&lt;/a>
 &lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3005/raw/main/slides/--4--Rev-Dynamics-July-2012%5Bhandout%5D.pdf">slides/--4--Rev-Dynamics-July-2012[handout].pdf&lt;/a>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3005/raw/main/slides/--4--Rev-Dynamics-July-2012%5Bhandout%5D.pdf">slides/&amp;ndash;4&amp;ndash;Rev-Dynamics-July-2012[handout].pdf&lt;/a>
 &lt;br>
-&lt;br>
-&lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
+&lt;br>&lt;/p>
+&lt;h2>支持我们｜Buy Me a Coffee&lt;span class="absolute -mt-20" id="支持我们buy-me-a-coffee">&lt;/span>
+&lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%acbuy-me-a-coffee" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果您认为本页面提供的信息对您有帮助，请考虑捐赠 ¥2 给我们。您的每一份慷慨支持都将大幅减轻我们承担的域名及对象存储服务的费用负担~3&lt;/p>
 &lt;br>
 &lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(限选)DSP的原理与应用</title><link>https://hoa.moe/docs/junior-spring/ee3005/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-spring/ee3005/</guid><description>
 &lt;p>该课程属于限选课程的实践课程体系模块。
@@ -397,7 +402,7 @@
 &lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
 &lt;br>
 &lt;br>
-&lt;h2>资料下载 | Download&lt;/h2>
+&lt;p>资料下载
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE3005/raw/main/assignments/%E4%BD%9C%E4%B8%9A%E9%9B%86%E5%90%88.docx">assignments/作业集合.docx&lt;/a>
 &lt;br>
@@ -431,7 +436,8 @@
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE3005/raw/main/slides/9%E3%80%81%E5%A2%9E%E5%BC%BA%E5%9E%8B%E8%84%89%E5%86%B2%E6%8D%95%E8%8E%B7%E6%A8%A1%E5%9D%97eCAP.pdf">slides/9、增强型脉冲捕获模块eCAP.pdf&lt;/a>
 &lt;br>
-&lt;br>
-&lt;h2>支持我们｜Buy Us a Coffee&lt;/h2>
+&lt;br>&lt;/p>
+&lt;h2>支持我们｜Buy Me a Coffee&lt;span class="absolute -mt-20" id="支持我们buy-me-a-coffee">&lt;/span>
+&lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%acbuy-me-a-coffee" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果您认为本页面提供的信息对您有帮助，请考虑捐赠 ¥2 给我们。您的每一份慷慨支持都将大幅减轻我们承担的域名及对象存储服务的费用负担~3&lt;/p>
 &lt;br>
 &lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item></channel></rss>
