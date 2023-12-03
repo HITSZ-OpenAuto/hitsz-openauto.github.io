@@ -2677,6 +2677,122 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;/li>
 &lt;/ul>
 &lt;br>
+&lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(必修)数字电子技术实验</title><link>https://hoa.moe/docs/sophomore-spring/ee1010/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-spring/ee1010/</guid><description>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1.0-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%e8%af%a6%e8%a7%81%e4%b8%8b%e9%9d%a2%e8%af%b4%e6%98%8e-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;h2>课程基本信息&lt;span class="absolute -mt-20" id="课程基本信息">&lt;/span>
+&lt;a href="#%e8%af%be%e7%a8%8b%e5%9f%ba%e6%9c%ac%e4%bf%a1%e6%81%af" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>&lt;i>by @&lt;a href="https://github.com/OliverWu515" target="_blank" rel="noopener">Oliver Wu&lt;/a>&lt;/i>&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>授课教师：实验中心教师+（部分班级）理论课教师+二名本科生助教&lt;/li>
+&lt;li>听课建议：先讲一小会儿原理和注意事项（需要听一下，因为有些器材的使用方法不那么直观）。然后就自己做实验，有问题可以问助教。&lt;/li>
+&lt;li>上课前，需要完成预习题并打印出&lt;strong>纸质版&lt;/strong>。需要当堂检查，不要在课上补。&lt;/li>
+&lt;li>六次实验，每次实验是4学时，任务量比较大。
+&lt;ul>
+&lt;li>对于硬件实验（利用74系列中规模集成芯片完成的实验），主要考查的是细心程度。
+&lt;ul>
+&lt;li>上课前就设计好电路，并仔细分析其正确性，边上课边搭建电路大概率不能按时完成。&lt;/li>
+&lt;li>有同学接线时候贪快，总是接错线，到最后总要在密密麻麻的线里面找错误，这是非常费时费力的。&lt;strong>做很多事情都是这样，与其犯了错误事后缝缝补补，不如一开始就耐住性子认真做好。&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>对于软硬件结合的实验（利用Verilog语言+FPGA实现逻辑电路），由于课上能学习Verilog的时间很少（基本都要用来完成任务）、讲解的Verilog语法也很有限，大家在上数字电子技术实验有关Verilog的内容前，&lt;strong>务必认真预习！&lt;/strong> 推荐教程：
+&lt;ul>
+&lt;li>&lt;a href="https://www.runoob.com/w3cnote/verilog-tutorial.html" target="_blank" rel="noopener">Verilog 教程1&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>实验报告在Easy云课堂（微信小程序或&lt;a href="https://www.easyketang.com/" target="_blank" rel="noopener">网页端&lt;/a>网上提交），无需提交纸质版。电脑版建议使用&lt;a href="https://www.easyketang.com/" target="_blank" rel="noopener">网页端&lt;/a>。&lt;/li>
+&lt;/ul>
+&lt;h2>成绩构成&lt;span class="absolute -mt-20" id="成绩构成">&lt;/span>
+&lt;a href="#%e6%88%90%e7%bb%a9%e6%9e%84%e6%88%90" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>分数构成：纸质版预习题 + 按时完成实验（不按时完成，则适当扣分）+ 报告分数&lt;/li>
+&lt;li>没有考试
+&lt;br>
+&lt;br>
+&lt;br>&lt;/li>
+&lt;/ul>
+&lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
+&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
+&lt;h2>支持我们 | Buy Us a Coffee or Join with Us&lt;span class="absolute -mt-20" id="支持我们--buy-us-a-coffee-or-join-with-us">&lt;/span>
+&lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%ac--buy-us-a-coffee-or-join-with-us" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果你喜欢 HITSZ 自动化课程攻略共享计划，想支持我们，以下是几种支持我们的方式&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>HITSZ 自动化课程攻略共享计划 是所有同学都可以参与编写贡献的，如果你有好的笔记或者资料，欢迎前往我们的&lt;a href="https://github.com/HITSZ-OpenAuto" target="_blank" rel="noopener">GitHub&lt;/a>进行贡献，也可以发邮件至&lt;a href="mailto:hi@hoa.moe" >hi@hoa.moe.com&lt;/a>联系我们，我们会在收到的第一时间进行答复。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>将本网站分享给你的同学也是支持我们的重要方式。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>如果您认为本页面提供的信息对您有帮助，请考虑捐赠 ¥2 给我们。每一份慷慨支持都将大幅减轻我们承担的域名及对象存储服务的费用负担。我们鼓励选择“向对方展示我的名字”，你的ID和留言将会显示在我们不久后推出的Sponsor页面中。&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(必修)模拟电子技术实验</title><link>https://hoa.moe/docs/sophomore-spring/ee1008/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-spring/ee1008/</guid><description>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1.0-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%e8%af%a6%e8%a7%81%e4%b8%8b%e9%9d%a2%e8%af%b4%e6%98%8e-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;h2>课程基本信息&lt;span class="absolute -mt-20" id="课程基本信息">&lt;/span>
+&lt;a href="#%e8%af%be%e7%a8%8b%e5%9f%ba%e6%9c%ac%e4%bf%a1%e6%81%af" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>&lt;i>by @&lt;a href="https://github.com/OliverWu515" target="_blank" rel="noopener">Oliver Wu&lt;/a>&lt;/i>&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>授课教师：实验中心教师+（部分班级）理论课教师+二名本科生助教&lt;/li>
+&lt;li>听课建议：老师会先讲一小会儿原理和注意事项（需要听一下，因为有些器材的使用方法不那么直观）。然后就自己做实验，有问题可以问助教。&lt;/li>
+&lt;li>&lt;i>（21级情况）&lt;/i>前4个实验是2学时，实验5-实验7是4学时，最后一节4学时的课完成两个实验：实验8和实验9。
+&lt;ul>
+&lt;li>实验1-4、9为纯硬件实验，6-8为硬件+仿真实验，实验5为纯仿真实验。&lt;/li>
+&lt;li>对于硬件+仿真实验，&lt;strong>有仿真预习&lt;/strong>，需要提前做好，上课需检查。仿真软件使用OrCAD Cadence 16.6，电路实验中已经使用过。软件资源下载：&lt;a href="https://www.mr-wu.cn/" target="_blank" rel="noopener">吴川斌的个人博客&lt;/a>，站内搜索Cadence即可。&lt;/li>
+&lt;li>对于含有硬件实验的项目，接线时务必注意电容接法、共地问题等。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>有MOOC预习题，答案&lt;strong>整理中。&lt;/strong> &lt;strong>不过十分建议大家先独立完成，其中一些基本概念比较重要。部分题目答案有问题，会标出。&lt;/strong>&lt;/li>
+&lt;li>实验报告在中国大学MOOC网上提交，无需提交纸质版。&lt;/li>
+&lt;/ul>
+&lt;h2>成绩构成&lt;span class="absolute -mt-20" id="成绩构成">&lt;/span>
+&lt;a href="#%e6%88%90%e7%bb%a9%e6%9e%84%e6%88%90" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>分数构成：MOOC预习题 + 按时完成实验（不按时完成，则适当扣分）+ 报告分数&lt;/li>
+&lt;li>没有考试&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;br>
+&lt;br>
+&lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
+&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1008/raw/main/labs/%E6%A8%A1%E7%94%B5%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%88%E5%AE%9E%E9%AA%8C3%EF%BC%89%E5%8F%82%E8%80%83.pdf">labs/模电实验报告（实验3）参考.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1008/raw/main/labs/%E6%A8%A1%E7%94%B5%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%88%E5%AE%9E%E9%AA%8C4%EF%BC%89%E5%8F%82%E8%80%83.pdf">labs/模电实验报告（实验4）参考.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1008/raw/main/labs/%E6%A8%A1%E7%94%B5%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%88%E5%AE%9E%E9%AA%8C5%EF%BC%89%E5%8F%82%E8%80%83.pdf">labs/模电实验报告（实验5）参考.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1008/raw/main/labs/%E6%A8%A1%E7%94%B5%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%88%E5%AE%9E%E9%AA%8C6%EF%BC%89%E5%8F%82%E8%80%83.pdf">labs/模电实验报告（实验6）参考.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1008/raw/main/labs/%E6%A8%A1%E7%94%B5%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%88%E5%AE%9E%E9%AA%8C7%EF%BC%89%E5%8F%82%E8%80%83.pdf">labs/模电实验报告（实验7）参考.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1008/raw/main/labs/%E6%A8%A1%E7%94%B5%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%88%E5%AE%9E%E9%AA%8C8%EF%BC%89%E5%8F%82%E8%80%83.pdf">labs/模电实验报告（实验8）参考.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1008/raw/main/labs/%E6%A8%A1%E7%94%B5%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%88%E5%AE%9E%E9%AA%8C%E4%B8%80%EF%BC%89%E5%8F%82%E8%80%83.pdf">labs/模电实验报告（实验一）参考.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1008/raw/main/labs/%E6%A8%A1%E7%94%B5%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%88%E5%AE%9E%E9%AA%8C%E4%BA%8C%EF%BC%89%E5%8F%82%E8%80%831.pdf">labs/模电实验报告（实验二）参考1.pdf&lt;/a>
+&lt;br>
+&lt;br>&lt;/p>
+&lt;h2>支持我们 | Buy Us a Coffee or Join with Us&lt;span class="absolute -mt-20" id="支持我们--buy-us-a-coffee-or-join-with-us">&lt;/span>
+&lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%ac--buy-us-a-coffee-or-join-with-us" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果你喜欢 HITSZ 自动化课程攻略共享计划，想支持我们，以下是几种支持我们的方式&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>HITSZ 自动化课程攻略共享计划 是所有同学都可以参与编写贡献的，如果你有好的笔记或者资料，欢迎前往我们的&lt;a href="https://github.com/HITSZ-OpenAuto" target="_blank" rel="noopener">GitHub&lt;/a>进行贡献，也可以发邮件至&lt;a href="mailto:hi@hoa.moe" >hi@hoa.moe.com&lt;/a>联系我们，我们会在收到的第一时间进行答复。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>将本网站分享给你的同学也是支持我们的重要方式。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>如果您认为本页面提供的信息对您有帮助，请考虑捐赠 ¥2 给我们。每一份慷慨支持都将大幅减轻我们承担的域名及对象存储服务的费用负担。我们鼓励选择“向对方展示我的名字”，你的ID和留言将会显示在我们不久后推出的Sponsor页面中。&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;br>
 &lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(必修)理论力学Ⅱ</title><link>https://hoa.moe/docs/sophomore-spring/emec1002/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/sophomore-spring/emec1002/</guid><description>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
