@@ -408,12 +408,21 @@
 &lt;/li>
 &lt;/ul>
 &lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>by &lt;a href="https://github.com/longlin10086" target="_blank" rel="noopener">@longlin li&lt;/a>, 2023.11&lt;/p>
+&lt;/blockquote>
+&lt;ul>
 &lt;li>
 &lt;p>考试难度：中等偏易&lt;/p>
 &lt;p>相较 &lt;a href="https://hoa.moe/docs/fresh-spring/ee1011a/" target="_blank" rel="noopener">电路IA&lt;/a> ，电路IB 的考试难度明显下降不少。大部分题目甚至是直接将往年题原封不动照搬，题型也非常套路化。&lt;/p>
 &lt;/li>
 &lt;/ul>
+&lt;blockquote>
+&lt;p>by &lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">@Maxwell Jay&lt;/a>, 2023.12&lt;/p>
+&lt;/blockquote>
+&lt;p>电路IB 与 电路IA 的不同在于，B 的内容和课时都比上学期少了很多，大约只有半个学期，准备期末考试的时间会比较紧迫。&lt;/p>
+&lt;p>但好在 电路IB 内容杂而不深，以&lt;strong>记忆公式&lt;/strong>为主，真正复杂的问题还是得靠 A 所学的思想方法解决，所以只要认真复习作业和例题就应该能顺利通关。
+如果对暂态电路等还不熟悉的话，建议同时补补上学期的内容。&lt;/p>
 &lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
 &lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
 &lt;p>by &lt;a href="https://github.com/longlin10086" target="_blank" rel="noopener">@longlin li&lt;/a>, 2023.11&lt;/p>
@@ -422,10 +431,16 @@
 &lt;p>我个人感觉电路IB的题型比较单一，整套试卷下来无非是考察大家记忆公式、记忆套路的能力，计算能力要求并不高（反正都有卡西欧了）。&lt;/p>
 &lt;p>事实上，对于这点，我是既感激又厌恶。我感激它是因为我不需在这上面投入太多时间，大部分解题套路完全能在很短时间内掌握 &lt;del>然后迅速遗忘&lt;/del> ；
 厌恶它是因为我认为它所训练出来的应试能力和记忆能力在今后实际开发中基本无用。&lt;/p>
-&lt;p>除去考试，电路这门课作为电类的专业基础课，请务必认真对待，否则下学期的数模电将寸步难行。
+&lt;p>除去考试，电路这门课作为电类的专业基础课，请务必认真对待，否则下学期的数模电将寸步难行。&lt;/p>
+&lt;h2>Tips&lt;span class="absolute -mt-20" id="tips">&lt;/span>
+&lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>有人注意到在均匀传输线章节，计算传输线的某些参数需要求复数的平方根。
+但是在卡西欧 fx-991CN 上直接输入 $\sqrt{2 + 3i}$ 之类的表达式会输出 “数学错误”。&lt;/p>
+&lt;p>所以为了用计算器计算复数的平方根，这里有一篇文章可供参考：&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://zhuanlan.zhihu.com/p/69167650" target="_blank" rel="noopener">使用科学计算器计算复数与相量（提高篇）- 知乎&lt;/a>&lt;br>
 &lt;br>
-&lt;br>
-&lt;br>&lt;/p>
+&lt;br>&lt;/li>
+&lt;/ul>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
 &lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/ch10_%E4%BA%8C%E7%AB%AF%E5%8F%A3%E7%BD%91%E7%BB%9C.pdf">assignments/ch10_二端口网络.pdf&lt;/a>
 &lt;br>
