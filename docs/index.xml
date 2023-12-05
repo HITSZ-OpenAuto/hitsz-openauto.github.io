@@ -3210,7 +3210,15 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;a href="#%e6%94%bb%e7%95%a5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
 &lt;p>by &lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">@Maxwell Jay&lt;/a>, 2023.12&lt;/p>
 &lt;/blockquote>
-&lt;p>这应该是自动化学生为数不多的软件开发的机会。&lt;/p>
+&lt;p>这应该是自动化学生为数不多的参与软件开发的机会。&lt;/p>
+&lt;h3>选题&lt;span class="absolute -mt-20" id="选题">&lt;/span>
+&lt;a href="#%e9%80%89%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>图省事的话推荐贪吃蛇，借助 AI 不到 1 天就能速通。&lt;/p>
+&lt;p>如果想多积累一点敲代码经验，可以选择客户端类型的软件（信息管理系统、售票系统），体验一下前、后端的开发思想，尤其是 GUI 该怎么设计才能中看又中用。&lt;/p>
+&lt;h3>组队&lt;span class="absolute -mt-20" id="组队">&lt;/span>
+&lt;a href="#%e7%bb%84%e9%98%9f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>课程要求 1-2 人一个小组。&lt;/p>
+&lt;p>如果选择组队，并且不摆烂的话，那么你和队友就必须启用 git 这种版本控制系统。
+协作开发是一门大学问，后续我们会尝试更新一篇相关的博客（如果你对协作开发有有益的见解，欢迎投稿你的分享！）。&lt;/p>
+&lt;p>如果对团队协作没有信心，或者对你的队友没有信心，一个人组队会轻松很多。&lt;/p>
 &lt;h3>挑选一个开发框架&lt;span class="absolute -mt-20" id="挑选一个开发框架">&lt;/span>
 &lt;a href="#%e6%8c%91%e9%80%89%e4%b8%80%e4%b8%aa%e5%bc%80%e5%8f%91%e6%a1%86%e6%9e%b6" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>课程要求项目必须使用 &lt;code>C/C++&lt;/code>&lt;/strong>。
 然而 &lt;code>C/C++&lt;/code> 本身是没有办法制作 GUI 的，因此我们需要使用第三方库。&lt;/p>
@@ -3221,16 +3229,14 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;li>&lt;a href="https://docs.easyx.cn/" target="_blank" rel="noopener">EasyX&lt;/a>：一个基于 &lt;code>GDI+&lt;/code> 的图形库，比较古老了，使用简单，但是功能有限。&lt;/li>
 &lt;li>&lt;a href="https://www.qt.io/" target="_blank" rel="noopener">Qt&lt;/a>：跨平台的 GUI 开发框架，功能强大，几乎可以做任何事情。并且你校学生证可以申请到 Qt 的教育许可证，解锁完整特性。&lt;/li>
 &lt;li>&lt;a href="https://learn.microsoft.com/zh-cn/cpp/mfc/mfc-desktop-applications" target="_blank" rel="noopener">MFC(Microsoft Foundation Classes)&lt;/a>：一组封装了 C++ 类库的 Windows 编程框架，优点是兼容从 Win95 至今的所有 Windows 操作系统，且运行效率非常高；缺点是开发效率低，并且只能在 Windows 上运行。&lt;/li>
-&lt;li>&lt;a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noopener">C#&lt;/a>：微软推出的一种面向对象的编程语言，语法类似于 &lt;code>C/C++&lt;/code>，但是更加简洁，配合 UWP 或 WPF 可以开发出非常现代化的桌面应用程序。&lt;/li>
+&lt;li>&lt;a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noopener">C#&lt;/a>：微软推出的一种面向对象的编程语言，语法类似于 &lt;code>C/C++&lt;/code>，但是更加简洁，配合 &lt;a href="https://learn.microsoft.com/windows/uwp/" target="_blank" rel="noopener">UWP&lt;/a> 或 &lt;a href="https://learn.microsoft.com/dotnet/desktop/wpf/" target="_blank" rel="noopener">WPF&lt;/a> 可以开发出非常现代化的桌面应用程序。
+但是课程规定 &lt;code>C#&lt;/code> 仅限在实现图形界面的时候使用，代码逻辑仍需使用 &lt;code>C/C++&lt;/code>。&lt;/li>
 &lt;/ol>
 &lt;p>个人推荐前 2 个。&lt;/p>
 &lt;h3>IDE&lt;span class="absolute -mt-20" id="ide">&lt;/span>
 &lt;a href="#ide" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>由于整个项目将会是一个大型工程，因此可以使用 &lt;a href="https://visualstudio.microsoft.com" target="_blank" rel="noopener">Visual Studio&lt;/a> 作为你的 IDE 。
 Visual Studio 也是 MFC 或 C# 的最佳选择。&lt;/p>
-&lt;p>Qt 有自己的 IDE &lt;a href="https://www.qt.io/product/development-tools" target="_blank" rel="noopener">Qt Creator&lt;/a>，适合学习和实操 Qt 时使用。&lt;/p>
-&lt;h3>选题&lt;span class="absolute -mt-20" id="选题">&lt;/span>
-&lt;a href="#%e9%80%89%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>图省事的话推荐贪吃蛇，借助 AI 不到 1 天就能速通。&lt;/p>
-&lt;p>如果想多积累一点敲代码经验，可以选择客户端类型的软件（信息管理系统、售票系统），体验一下前、后端的开发思想，尤其是 GUI 该怎么设计才能中看又中用。
+&lt;p>Qt 有自己的 IDE &lt;a href="https://www.qt.io/product/development-tools" target="_blank" rel="noopener">Qt Creator&lt;/a>，适合学习和实操 Qt 时使用。
 &lt;br>
 &lt;br>
 &lt;br>&lt;/p>
