@@ -1,9 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HITSZ 自动化课程攻略共享计划 – 大一·春</title><link>https://hoa.moe/docs/fresh-spring/</link><description>Recent content in 大一·春 on HITSZ 自动化课程攻略共享计划</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://hoa.moe/docs/fresh-spring/index.xml" rel="self" type="application/rss+xml"/><item><title>(必修)电路IA</title><link>https://hoa.moe/docs/fresh-spring/ee1011a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/fresh-spring/ee1011a/</guid><description>
-&lt;p>指南编写者：Oliver Wu、Maxwell Jay&lt;/p>
-&lt;p>贡献者：Oliver Wu、Maxwell Jay、……&lt;/p>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
-&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90%ef%bc%88WangCan%ef%bc%89-gold" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-35%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-65%25-wheat" alt="Static Badge" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90%ef%bc%88WangYi%ef%bc%89-gold" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-80%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90%ef%bc%88WangCan%ef%bc%89-gold" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-35%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-65%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90%ef%bc%88WangYi%ef%bc%89-gold" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-80%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
 &lt;h2>教材及参考书&lt;span class="absolute -mt-20" id="教材及参考书">&lt;/span>
 &lt;a href="#%e6%95%99%e6%9d%90%e5%8f%8a%e5%8f%82%e8%80%83%e4%b9%a6" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>主教材：孙立山、陈希有等编著，电路理论基础（第四版），高等教育出版社2013年版。&lt;/p>
 &lt;p>参考书：&lt;/p>
@@ -11,10 +9,14 @@
 &lt;li>邱关源、罗先觉等编著，电路（第六版），高等教育出版社。&lt;/li>
 &lt;li>孙立山等编著，电路考研大串讲，科学出版社。&lt;/li>
 &lt;li>汪建等编著，电路原理（第2版），清华大学出版社2016年版。&lt;/li>
+&lt;li>Charles K. Alexander, et al., Fundamentals of Electric Circuits(4th_Edition), McGraw-Hill, 2009.&lt;/li>
 &lt;/ol>
 &lt;p>&lt;strong>本门课是选课制，有两个老师授课，所有电气、自动化学生从两个老师的课里任选，而不是传统的按班级划分。所以了解老师的授课风格很重要。&lt;/strong>&lt;/p>
 &lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
-&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>两位老师的共同点：上课会讲很多难度不低的例题（基本来源于&lt;strong>考研题&lt;/strong>）；均不考勤&lt;/p>
+&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>by @&lt;a href="https://github.com/OliverWu515" target="_blank" rel="noopener">Oliver Wu&lt;/a> and &lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">@Maxwell Jay&lt;/a>, 2023.11&lt;/p>
+&lt;/blockquote>
+&lt;p>两位老师的共同点：上课会讲很多难度不低的例题（基本来源于&lt;strong>考研题&lt;/strong>）；均不考勤&lt;/p>
 &lt;ul>
 &lt;li>教师1：Wang Can
 &lt;ul>
@@ -30,7 +32,10 @@
 &lt;/li>
 &lt;/ul>
 &lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>by @&lt;a href="https://github.com/OliverWu515" target="_blank" rel="noopener">Oliver Wu&lt;/a> and &lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">@Maxwell Jay&lt;/a>, 2023.11&lt;/p>
+&lt;/blockquote>
+&lt;ul>
 &lt;li>考试难度：较难。（22届难度有所下降，估计有30—40人90分以上）&lt;br>
 考试常常会出现大量中档题，就是每题都不难，
 但是每题都不那么直截了当，会设置些障碍，需要稍加思考才能得其本质。
@@ -70,14 +75,20 @@
 &lt;/tbody>
 &lt;/table>
 &lt;h2>Tips&lt;span class="absolute -mt-20" id="tips">&lt;/span>
-&lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ol>
+&lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>by @&lt;a href="https://github.com/OliverWu515" target="_blank" rel="noopener">Oliver Wu&lt;/a> and &lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">@Maxwell Jay&lt;/a>, 2023.11&lt;/p>
+&lt;/blockquote>
+&lt;ol>
 &lt;li>电路涉及很多复数运算和解方程，一定要熟练掌握科学计算器的使用。推荐型号Casio 991CNX。&lt;/li>
 &lt;li>想追求高分的可以尝试做做《考研大串讲》上的题目（难度均较大）（ps：大串讲上书后答案有较多错误）&lt;/li>
-&lt;li>关于wc老师平时分的建议：上课推的题尽量多多和群友室友交流（难度较大且限时）&lt;/li>
+&lt;li>关于Wang Can老师平时分的建议：上课推的题尽量多多和群友室友交流（难度较大且限时）&lt;/li>
 &lt;li>对于一般学生，考前做考研题没有必要，考试难度不会那么高。能够熟悉作业题足矣。&lt;/li>
 &lt;/ol>
 &lt;h2>课程建议&lt;span class="absolute -mt-20" id="课程建议">&lt;/span>
-&lt;a href="#%e8%af%be%e7%a8%8b%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;a href="#%e8%af%be%e7%a8%8b%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>by @&lt;a href="https://github.com/OliverWu515" target="_blank" rel="noopener">Oliver Wu&lt;/a>, 2023.3&lt;/p>
+&lt;/blockquote>
+&lt;ul>
 &lt;li>首先一定要结合例题消化基本概念，尤其注意前四章的学习（因为前四章大多是基本分析方法，相当于地基，
 地基不打牢，后续概念进一步增多，分析综合性加强的时候，就会跟不上了）。电路的前后章节联系相当紧密，一环扣一环，要注意同步跟进复习，&lt;strong>切不可尝试速通&lt;/strong>，否则知识链条一旦断裂，补齐就会很困难。&lt;/li>
 &lt;li>课后题基本是考研题，难度较大，不过一定不要慌，也不要害怕，更不要对着答案抄。
@@ -91,7 +102,7 @@
 万勿掉进死做题的怪圈，靠着对知识模糊的“感觉”做很多题、或者看着答案做很多题、或者做了题但没订正没总结，都不算做题！&lt;/li>
 &lt;/ul>
 &lt;p align="right">&lt;strong>update time&lt;/strong>&lt;/p>
-&lt;p align="right">&lt;strong>2023.11&lt;/strong>&lt;/p>
+&lt;p align="right">&lt;strong>2023.12&lt;/strong>&lt;/p>
 &lt;br>
 &lt;br>
 &lt;br>
