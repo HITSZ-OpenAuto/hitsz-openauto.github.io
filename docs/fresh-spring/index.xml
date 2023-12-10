@@ -516,33 +516,22 @@
 &lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="考试课" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2.5-moccasin" alt="学分" loading="lazy" />&lt;/p>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="成绩构成" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E5%B9%B3%E6%97%B6%E6%88%90%E7%BB%A9-50%25-wheat" alt="平时成绩" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%e8%af%be%e5%a0%82%e8%a1%a8%e7%8e%b0-10%25-wheat" alt="课堂表现10%" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%e8%ae%a8%e8%ae%ba%e4%b8%8e%e5%b1%95%e7%a4%ba-20%25-wheat" alt="讨论与展示20%" loading="lazy" />
+&lt;img src="https://img.shields.io/badge/%e8%ae%ba%e6%96%87-20%25-wheat" alt="论文20%" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-50%25-wheat" alt="期末考试50%" loading="lazy" />&lt;/p>
-&lt;ul>
-&lt;li>是否考试课：是&lt;/li>
-&lt;li>学分：2.5&lt;/li>
-&lt;li>分数构成：
-&lt;ul>
-&lt;li>平时成绩（50%）：课堂表现（10%）+ 课程讨论及展示（20%）+ 期中论文（20%）&lt;/li>
-&lt;li>期末考试（50%）&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
 &lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
 &lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>考试题型：选择题、简答题、论述题、材料题。&lt;/li>
+&lt;li>考试题型：选择题、简答题、材料题、论述题。&lt;/li>
 &lt;/ul>
-&lt;h2>Tips&lt;span class="absolute -mt-20" id="tips">&lt;/span>
-&lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>
-&lt;p>期末前老师会组织串讲。2023年很多同学认为串讲内容没有重点所以不认真听。然而考试后把题与串讲内容比较，我发现串讲中的详略和考试涉及的知识是几乎一致的。&lt;/p>
-&lt;p>因此，如果有串讲，建议同学们认真听完，做好录制，复习的时候把讲到的内容听写一遍（如写成word或markdown），整理出自己的一份“中国近现代史纲要”，然后按照它来背书，串讲没提到的少关注，考试时你就能体会到什么是大win特win了。&lt;/p>
-&lt;p align="right">- Maxwell Jay 2023.7&lt;/p>
-&lt;/li>
-&lt;/ul>
+&lt;blockquote>
+&lt;p>by &lt;a href="https://github.com/MaxwellJay256" target="_blank" rel="noopener">@Maxwell Jay&lt;/a>, 2023.7&lt;/p>
+&lt;/blockquote>
+&lt;p>期末前老师会组织串讲。2023 年很多同学认为串讲内容没有重点所以不认真听。然而考试后把题与串讲内容比较，我发现串讲中的详略和考试涉及的知识是几乎一致的。&lt;/p>
+&lt;p>因此，如果有串讲，建议同学们认真听完，做好录制，复习的时候把讲到的内容听写一遍（如写成 word 或 markdown），整理出自己的一份“中国近现代史纲要”，然后按照它来背书，串讲没提到的少关注，考试时你就能体会到什么是大 win 特 win 了。
 &lt;br>
 &lt;br>
-&lt;br>
+&lt;br>&lt;/p>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
 &lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/GEIP1016/raw/main/exams/2021%E7%BA%A7%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%20%28%E8%87%AA%E6%94%B6%E9%9B%86%2C%E5%BE%85%E8%A1%A5%E5%85%A8%29.pdf">exams/2021级近现代史期末试题 (自收集,待补全).pdf&lt;/a>
 &lt;br>
