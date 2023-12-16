@@ -526,7 +526,15 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;/li>
 &lt;/ul>
 &lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
+&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>by &lt;a href="https://github.com/phychi" target="_blank" rel="noopener">phychi&lt;/a>, 2023.12&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>20平时分（作业）+20实验+100分折合60分的考试。这次考试我考的还行（作业接近20分+实验20分+卷面83分）。&lt;/li>
+&lt;li>我并不是一个成绩很好的学生。按照这次经验，实验的20分基本上你按时给老师检查，按时交报告就能拿满。对于作业，自己写完后来openauto项目对答案，在助教批改扣分前解决错误，可以拿比较高的分数（不能抄答案，这样会似懂非懂，计算能力也会不够）考试的题目算比较基础的，你一开始听说信号分析与处理=（信号与系统+数字信号处理）的浓缩版，还只上2.5学分。内容确实很多，但是不要被吓到，有些东西是不会考的，例如一开始的卷积的定理的证明（显得太数学了），还有一些赶进度最后FIR数字滤波器应该也能意识到不会考。&lt;/li>
+&lt;li>包括这门课在内的其他几门课都有一个很大的缺点：除了作业题和PPT题目没有其他参考题可写！因为上课内容对赵光宙的教材内容也是浓缩取舍，而且没有官方答案。这个问题可能是导致大家发挥不够好的原因之一（我看了上课班次排名是11/126，这可是卷面分83），有空多做一点题锻炼计算能力熟练度（我是计算能力不行2个小时都没算完）&lt;/li>
+&lt;/ul>
+&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
 &lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
 &lt;br>
 &lt;br>
@@ -591,14 +599,14 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c-20%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
 &lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
 &lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>教师 1：Li Yanjie
+&lt;li>教师 1：李衍杰
 &lt;ul>
 &lt;li>授课风格：轻松愉快，稍显啰嗦，实验课会带领大家写代码并亲自检查，偶尔点名&lt;/li>
 &lt;li>是否需要认真听讲做笔记：正常听课，考前复习&lt;/li>
 &lt;li>听课建议：注意重点强调的最小二乘，PPT标红简答，龙格库塔法计算&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>教师 2：Li Peng
+&lt;li>教师 2：李芃
 &lt;ul>
 &lt;li>授课风格：&lt;/li>
 &lt;li>听课建议：&lt;/li>
@@ -607,17 +615,27 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;/ul>
 &lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
 &lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>课程知识密度并不大，很多计算量很大的内容在平时的编程中实现过了，所以不会考。而且由于你校众所周知的阉割传统，很多容易的内容被不断重复，难的内容都会被砍掉。&lt;/li>
-&lt;li>考试难度：背诵+简单计算，龙格库塔法可能步骤多一些&lt;/li>
+&lt;li>课程内容可以分为三个部分：①纯科普②告诉你在以后遇到问题了可以用某个方法，但是因为复杂等原因不方便考③剩下才是能考试的核心内容。不要因为有的内容听不懂就灰心甚至摆烂.
+&lt;blockquote>
+&lt;p>by &lt;a href="https://github.com/phychi" target="_blank" rel="noopener">@phychi&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;li>可以用于考试的知识密度并不大，很多计算量很大的内容在平时的编程中实现过了，所以不会考。而且由于你校众所周知的阉割传统，很多容易的内容被不断重复，难的内容都会被砍掉。
+&lt;blockquote>
+&lt;p>by &lt;a href="https://github.com/OliverWu515" target="_blank" rel="noopener">@OliverWu515&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;li>考试难度：背诵+简单计算，龙格库塔法可能步骤多一些
+&lt;br>
+&lt;br>
+&lt;br>&lt;/li>
 &lt;/ul>
-&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
-&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
-&lt;br>
-&lt;br>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
 &lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3004/raw/main/exams/2023%20%E7%B3%BB%E7%BB%9F%E5%BB%BA%E6%A8%A1%E4%B8%8E%E4%BB%BF%E7%9C%9F%20%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E5%9B%9E%E5%BF%86.pdf">exams/2023 系统建模与仿真 期末试题回忆.pdf&lt;/a>
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3004/raw/main/exams/%E7%B3%BB%E7%BB%9F%E5%BB%BA%E6%A8%A1%E4%B8%8E%E4%BB%BF%E7%9C%9F2022%E7%A7%8B%E5%9B%9E%E5%BF%86%E7%89%88.docx">exams/系统建模与仿真2022秋回忆版.docx&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3004/raw/main/experiments/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2023.pdf">experiments/第二次实验报告2023.pdf&lt;/a>
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3004/raw/main/labs/%E4%BD%9C%E4%B8%9A%2B%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8Aby_LZH.pdf">labs/作业+实验报告by_LZH.pdf&lt;/a>
 &lt;br>
@@ -3655,6 +3673,8 @@ Visual Studio 也是 MFC 或 C# 的最佳选择。&lt;/p>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3003/raw/main/exams/2023%20%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%20%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E5%9B%9E%E5%BF%86.pdf">exams/2023 数字图像处理 期末试题回忆.pdf&lt;/a>
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3003/raw/main/exams/DIP%202021%E5%B9%B4%E5%9B%9E%E5%BF%86%E7%89%88%E6%9C%AC.pdf">exams/DIP 2021年回忆版本.pdf&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3003/raw/main/exams/DIP%E5%B0%8F%E6%8A%84-%E5%BB%BA%E8%AE%AE%E8%87%AA%E5%B7%B1%E5%86%8D%E6%89%8B%E5%86%99%E8%A1%A5%E4%B8%8A%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2%E5%85%AC%E5%BC%8F.docx">exams/DIP小抄-建议自己再手写补上傅里叶变换公式.docx&lt;/a>
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3003/raw/main/exams/DIP%E8%80%83%E8%AF%95A4%E7%BA%B8.pdf">exams/DIP考试A4纸.pdf&lt;/a>
 &lt;br>
