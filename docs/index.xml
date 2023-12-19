@@ -166,13 +166,17 @@
 &lt;/ul>
 &lt;br>
 &lt;img src="https://mitcher-1316637614.cos.ap-nanjing.myqcloud.com/hoa/20231112170457.png?imageSlim" alt="Reward_Code" style="zoom:25%; display: block; margin: 0 auto;" /></description></item><item><title>(必修)自动控制实践A</title><link>https://hoa.moe/docs/junior-autumn/auto3002a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hoa.moe/docs/junior-autumn/auto3002a/</guid><description>
+&lt;p>&lt;strong>new: 步进电机练习答案更新&lt;/strong>&lt;/p>
 &lt;p>文档编写者：&lt;a href="https://github.com/OliverWu515" target="_blank" rel="noopener">Oliver Wu&lt;/a>（撰写有关21级部分）&lt;/p>
-&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" />&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-3-moccasin" alt="Static Badge" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90%ef%bc%8821%e7%ba%a7%ef%bc%89-gold" alt="Static Badge" loading="lazy" />&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-10%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c-25%25-wheat" alt="Static Badge" loading="lazy" />&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-65%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" alt="Static Badge" loading="lazy" />&lt;img src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-3-moccasin" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90%ef%bc%8821%e7%ba%a7%ef%bc%89-gold" alt="Static Badge" loading="lazy" />&lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-10%25-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c-25%25-wheat" alt="Static Badge" loading="lazy" />&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-65%25-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="https://img.shields.io/badge/%e6%80%bb%e5%ad%a6%e6%97%b648-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e8%ae%b2%e8%af%be%e5%ad%a6%e6%97%b6-40-wheat" alt="Static Badge" loading="lazy" /> &lt;img src="https://img.shields.io/badge/%e5%ae%9e%e9%aa%8c-2%e5%ad%a6%e6%97%b6*4-wheat" alt="Static Badge" loading="lazy" />&lt;/p>
 &lt;p>该课程有配套的课程设计（&lt;a href="https://hoa.moe/docs/junior-autumn/auto3016/" target="_blank" rel="noopener">(必修)自动控制实践A课程设计&lt;/a>），独立设课，1学分、40学时。&lt;/p>
 &lt;h2>教材、参考书、学时安排&lt;span class="absolute -mt-20" id="教材参考书学时安排">&lt;/span>
 &lt;a href="#%e6%95%99%e6%9d%90%e5%8f%82%e8%80%83%e4%b9%a6%e5%ad%a6%e6%97%b6%e5%ae%89%e6%8e%92" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>教材：梅晓榕主编，自动控制元件及线路（第五版），科学出版社。&lt;/p>
-&lt;p>参考书：&lt;/p>
+&lt;p>参考书及网课：&lt;/p>
+&lt;p>本课程涵盖三部分内容：电机驱动与拖动；传感与测量元件；简单的电力电子技术（PWM）。以第一块内容为最重。&lt;/p>
+&lt;p>电机学：&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;p>（哈尔滨理工大学）戈宝军,梁艳萍,温嘉斌，电机学（第三版），中国电力出版社。&lt;/p>
@@ -184,11 +188,19 @@
 &lt;li>
 &lt;p>（大连理工大学）孙建忠、刘凤春等编，电机与拖动（第4版），机械工业出版社。&lt;/p>
 &lt;/li>
-&lt;li>
-&lt;p>（西安交通大学）王兆安等，电力电子技术（第5版），机械工业出版社。&lt;/p>
-&lt;/li>
 &lt;/ul>
-&lt;p>本课程涵盖三部分内容：电机驱动与拖动；传感与测量元件；简单的电力电子技术（PWM），以第一块内容为最重。&lt;/p>
+&lt;p>上面的是传统电机学教材，可以看里面的直流电机、变压器、异步电机和同步电机。关于伺服电机和步进电机，可以参考以下书目：&lt;/p>
+&lt;ul>
+&lt;li>[日]坂本正文著，王自强译，步进电机应用技术，科学出版社2010年版。（翻译有些错误，凑合着看）&lt;/li>
+&lt;li>（一些奇怪的论坛里的pdf，找到后放上来）&lt;/li>
+&lt;/ul>
+&lt;p>关于电力电子技术，本门课要求很低。如果大家想拓展~~（学电气的专业课）~~，可以参考的书目有：（请大家量力而行，学有余力再去看拓展提高的内容！）&lt;/p>
+&lt;ul>
+&lt;li>（西安交通大学）王兆安等，电力电子技术（第5版），机械工业出版社。&lt;/li>
+&lt;li>Erickson，Fundamental of power electronics（3rd ed.)，Springer。&lt;/li>
+&lt;li>&lt;a href="https://space.bilibili.com/519909115" target="_blank" rel="noopener">https://space.bilibili.com/519909115&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://space.bilibili.com/287344644?spm_id_from=333.337.search-card.all.click" target="_blank" rel="noopener">西瓜粥西瓜粥的个人空间-西瓜粥西瓜粥个人主页-哔哩哔哩视频 (bilibili.com)&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;h4>学时安排表（21级）&lt;/h4> &lt;!--标题-->
 &lt;table border="1" cellspacing="10">
 &lt;tr>
@@ -257,12 +269,12 @@
 &lt;tr>
 &lt;td>步进电机的结构与工作原理&lt;/td>
 &lt;td>1&lt;/td>
-&lt;td>重要（复习后再来更新）&lt;/td>
+&lt;td>重要。理解“错齿是使步进电机运动的根本原因”。关于齿数的计算，反应式和混合式其实是有不同的。但是一般按照反应式的公式计算。&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>步进电机的静态特性、动态特性与驱动&lt;/td>
 &lt;td>3&lt;/td>
-&lt;td>重要（复习后再来更新）&lt;/td>
+&lt;td>重要。静态特性主要是矩角特性，动态特性主要是从矩角特性出发用合成法来分析启动特性（图解特别重要），以及矩频特性。驱动以细分驱动为主。&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>交流电机概述&lt;/td>
@@ -282,16 +294,16 @@
 &lt;tr>
 &lt;td>交流绕组的基本原理，三相异步电机的原理及结构&lt;/td>
 &lt;td>2&lt;/td>
-&lt;td>是重点，也是难点！！旋转磁场理解起来比较困难。详见文件中的异步电机笔记。&lt;/td>
+&lt;td>是重点，也是难点！！但是学时比较少。旋转磁场理解起来比较困难。详见文件中的异步电机笔记。&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>三相异步电机的等效电路及运行分析&lt;/td>
-&lt;td>2&lt;/td>
-&lt;td>是重点，也是难点！！等效的流程：电路模型-频率归算-绕组归算。&lt;b>异步电机可以看成“会动的变压器”！&lt;/b> 详见文件中的异步电机笔记。&lt;/td>
+&lt;td>三相异步电机的等效电路及运行分析，机械特性和调速运行&lt;/td>
+&lt;td>约2.5&lt;/td>
+&lt;td>是重点，也是难点！！但是你没看错，2学时结束了。等效的流程：电路模型-频率归算-绕组归算。&lt;b>异步电机可以看成“会动的变压器”！&lt;/b> 详见文件中的异步电机笔记。&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>单相异步电机的等效电路及运行分析&lt;/td>
-&lt;td>1&lt;/td>
+&lt;td>约0.5&lt;/td>
 &lt;td>需要理解，有小题。&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -359,7 +371,7 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002A/raw/main/exams/%E6%9C%AC%E9%83%A8-%E8%AF%95%E9%A2%98%E6%B1%87%E7%BC%96/14%20%E5%B0%8F%E5%8A%9F%E7%8E%87%E5%90%8C%E6%AD%A5%E7%94%B5%E6%9C%BA%E7%9B%B8%E5%85%B3%E8%AF%95%E9%A2%98.docx">exams/本部-试题汇编/14 小功率同步电机相关试题.docx&lt;/a>
 &lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002A/raw/main/exams/%E6%9C%AC%E9%83%A8-%E8%AF%95%E9%A2%98%E6%B1%87%E7%BC%96/15%20%E6%AD%A5%E8%BF%9B%E7%94%B5%E6%9C%BA%E7%9B%B8%E5%85%B3%E8%AF%95%E9%A2%98%20-%20%E7%AD%94%E6%A1%88.docx">exams/本部-试题汇编/15 步进电机相关试题 - 答案.docx&lt;/a>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002A/raw/main/exams/%E6%9C%AC%E9%83%A8-%E8%AF%95%E9%A2%98%E6%B1%87%E7%BC%96/15%20%E6%AD%A5%E8%BF%9B%E7%94%B5%E6%9C%BA%E7%9B%B8%E5%85%B3%E8%AF%95%E9%A2%98%20-%20%E7%AD%94%E6%A1%88%28%E6%9B%B4%E6%96%B0%29.docx">exams/本部-试题汇编/15 步进电机相关试题 - 答案(更新).docx&lt;/a>
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002A/raw/main/exams/%E6%9C%AC%E9%83%A8-%E8%AF%95%E9%A2%98%E6%B1%87%E7%BC%96/15%20%E6%AD%A5%E8%BF%9B%E7%94%B5%E6%9C%BA%E7%9B%B8%E5%85%B3%E8%AF%95%E9%A2%98.docx">exams/本部-试题汇编/15 步进电机相关试题.docx&lt;/a>
 &lt;br>
@@ -726,13 +738,13 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3004/raw/main/exams/%E7%B3%BB%E7%BB%9F%E5%BB%BA%E6%A8%A1%E4%B8%8E%E4%BB%BF%E7%9C%9F2022%E7%A7%8B%E5%9B%9E%E5%BF%86%E7%89%88.docx">exams/系统建模与仿真2022秋回忆版.docx&lt;/a>
 &lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3004/raw/main/experiments/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2023.pdf">experiments/第二次实验报告2023.pdf&lt;/a>
-&lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3004/raw/main/labs/%E4%BD%9C%E4%B8%9A%2B%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8Aby_LZH.pdf">labs/作业+实验报告by_LZH.pdf&lt;/a>
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3004/raw/main/labs/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%8A%E6%9C%BA%E6%8A%A5%E5%91%8A.doc">labs/第三次上机报告.doc&lt;/a>
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3004/raw/main/labs/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%8A%E6%9C%BA%E6%8A%A5%E5%91%8A.doc">labs/第二次上机报告.doc&lt;/a>
+&lt;br>
+&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3004/raw/main/labs/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8Aby_tch2023.pdf">labs/第二次实验报告by_tch2023.pdf&lt;/a>
 &lt;br>
 &lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3004/raw/main/labs/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%B8%8A%E6%9C%BA%E6%8A%A5%E5%91%8A.docx">labs/第四次上机报告.docx&lt;/a>
 &lt;br>
