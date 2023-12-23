@@ -3,8 +3,10 @@
 &lt;a href="#%e5%a6%82%e4%bd%95%e7%bc%96%e5%86%99-openauto-%e6%96%87%e6%a1%a3" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>由于本网站的特殊架构，各个页面实际上是从分属不同仓库的 README.md 文件拉取的，因此对应修改需要定位到对应仓库。网站的页面中已经做好了链接到各仓库的入口，点击即可跳转：&lt;/p>
 &lt;p>&lt;img src="link-to-repo.png" alt="link-to-repo" loading="lazy" />&lt;/p>
 &lt;p>点击下图中的按钮即可编辑：&lt;/p>
-&lt;p>&lt;img src="https://github.com/HITSZ-OpenAuto/hitsz-openauto.github.io/assets/110339237/a5cab3ca-d2fa-4d9f-91b2-81a96c924c03" alt="edit-readme" loading="lazy" />&lt;/p>
+&lt;p>&lt;img src="edit-readme.png" alt="edit-readme" loading="lazy" />&lt;/p>
 &lt;p>编辑完成后点击右上方的&amp;quot;Commit changes&amp;quot;即可提交更改，我们会在收到 PR 的第一时间进行查看。&lt;/p>
+&lt;p>在发起 PR 时，可以通过 suggest reviewers 邮件通知我们，这样我们就能更快地进行 review 并及时给予回复。&lt;/p>
+&lt;p>&lt;img src="suggest-reviewers.png" alt="suggest-reviewers" loading="lazy" />&lt;/p>
 &lt;h2>❗️编写时有哪些注意事项？&lt;span class="absolute -mt-20" id="编写时有哪些注意事项">&lt;/span>
 &lt;a href="#%e7%bc%96%e5%86%99%e6%97%b6%e6%9c%89%e5%93%aa%e4%ba%9b%e6%b3%a8%e6%84%8f%e4%ba%8b%e9%a1%b9" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ol>
 &lt;li>&lt;strong>不要随意删除/修改 已有文件 或 他人的评价、建议&lt;/strong>&lt;/li>
