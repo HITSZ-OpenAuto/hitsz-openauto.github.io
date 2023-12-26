@@ -667,22 +667,10 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="成绩构成" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E5%B9%B3%E6%97%B6%E6%88%90%E7%BB%A9-30%25-wheat" alt="平时成绩30%" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat" alt="作业20%" loading="lazy" />
-&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-50%25-wheat" alt="期末考试50%" loading="lazy" />&lt;/p>
-&lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
-&lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>（教师名）
-&lt;ul>
-&lt;li>授课风格：&lt;/li>
-&lt;li>听课建议：&lt;/li>
-&lt;li>……&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>学习建议&lt;span class="absolute -mt-20" id="学习建议">&lt;/span>
-&lt;a href="#%e5%ad%a6%e4%b9%a0%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
+&lt;img src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-50%25-wheat" alt="期末考试50%" loading="lazy" />
 &lt;br>
 &lt;br>
+&lt;br>&lt;/p>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
 &lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MECH2010/raw/main/assignments/%E6%9D%A8%E5%8F%AF%E6%A1%A2%20%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%20%E7%AC%AC%E4%B8%83%E7%89%88%20%E8%BE%85%E5%AF%BC%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%E8%AF%A6%E8%A7%A3%20_split.pdf">assignments/杨可桢 机械设计基础 第七版 辅导课后习题答案详解 _split.pdf&lt;/a>
 &lt;br>
