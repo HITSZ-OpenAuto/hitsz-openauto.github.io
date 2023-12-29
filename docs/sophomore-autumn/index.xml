@@ -711,25 +711,43 @@
 &lt;img src="https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple" alt="实验" loading="lazy" />&lt;/p>
 &lt;p>&lt;img src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold" alt="成绩构成" loading="lazy" />
 &lt;img src="https://img.shields.io/badge/%e5%87%ba%e5%8b%a4&amp;#43;%e5%ae%9e%e9%aa%8c%e6%8a%a5%e5%91%8a-100%25-wheat" alt="作业100%" loading="lazy" />&lt;/p>
+&lt;h2>教材&lt;span class="absolute -mt-20" id="教材">&lt;/span>
+&lt;a href="#%e6%95%99%e6%9d%90" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>电路实验IB 实验指导书，赵飞、王丹丹&lt;/li>
+&lt;li>电路实验教程/王灿，吴屏主编.哈尔滨工业大学出版社,2020.11（2023.1 重印）ISBN 978-7-5603-9197-7&lt;/li>
+&lt;/ul>
 &lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
 &lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>教师1：
+&lt;li>教师1：姜倩倩
 &lt;ul>
-&lt;li>授课风格：&lt;/li>
-&lt;li>是否需要认真听讲做笔记&lt;/li>
-&lt;li>听课建议&lt;/li>
+&lt;li>授课风格：很好的老师，会尽力帮助大家做实验&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>教师2: 待补充
+&lt;ul>
+&lt;li>授课风格：待补充&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
-&lt;a href="#%e5%85%b3%e4%ba%8e%e8%80%83%e8%af%95" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>考试难度：&lt;/li>
-&lt;/ul>
 &lt;h2>Tips&lt;span class="absolute -mt-20" id="tips">&lt;/span>
-&lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;h2>课程建议&lt;span class="absolute -mt-20" id="课程建议">&lt;/span>
-&lt;a href="#%e8%af%be%e7%a8%8b%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
+&lt;a href="#tips" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>by &lt;a href="https://github.com/longlin10086" target="_blank" rel="noopener">@Longlin li&lt;/a>, 2023.12&lt;/p>
+&lt;/blockquote>
+&lt;p>同大物实验一样，大部分电路实验报告也是非常耗时的，只不过大物你可以通过选课避免掉一些难做的实验，而本实验不行。&lt;/p>
+&lt;p>本实验的难点主要有：&lt;strong>实验操作&lt;/strong>、&lt;strong>计算与绘图&lt;/strong> 两点。&lt;/p>
+&lt;ol>
+&lt;li>实验操作：本人实际体验下来，大部分仿真类实验都是比较好做的，只要照着指导书上的操作一步一步来即可。而实操的内容则往往存在很多同学当堂难以完成，需要另找时间课后补做。&lt;/li>
+&lt;li>计算与绘图：本学期电路实验会充斥大量计算绘图，因此掌握一门绘图工具库是比较好的选择，这在之后的实验中也会经常使用到。&lt;/li>
+&lt;/ol>
+&lt;p>这里提供我个人整理好的电路实验IB仓库以供参考：&lt;a href="https://github.com/longlin10086/HITSZ-CircLab" target="_blank" rel="noopener">Longlin 的电路实验IB仓库&lt;/a>&lt;/p>
+&lt;h2>课程建议&lt;span class="absolute -mt-20" id="课程建议">&lt;/span>
+&lt;a href="#%e8%af%be%e7%a8%8b%e5%bb%ba%e8%ae%ae" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
+&lt;p>by &lt;a href="https://github.com/longlin10086" target="_blank" rel="noopener">@Longlin li&lt;/a>, 2023.12&lt;/p>
+&lt;/blockquote>
+&lt;p>尽管每学期的助教不一样，但总体来说助教检查会比老师更好说话。当实验报告某处出现错误时，老师往往会让你重做一遍，而助教则可能会告诉你正确结果范围，让你课后再修改。
 &lt;br>
 &lt;br>
+&lt;br>&lt;/p>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
 &lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
 &lt;h2>支持我们&lt;span class="absolute -mt-20" id="支持我们">&lt;/span>
