@@ -517,17 +517,11 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;/div>
 &lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
 &lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>教师 1：Zhang Hongwei
-&lt;ul>
-&lt;li>授课风格：&lt;/li>
-&lt;li>听课建议：&lt;/li>
-&lt;/ul>
+&lt;li>
+&lt;p>教师 1：张宏伟&lt;/p>
 &lt;/li>
-&lt;li>教师 2：Zhang Ying
-&lt;ul>
-&lt;li>授课风格：&lt;/li>
-&lt;li>听课建议：&lt;/li>
-&lt;/ul>
+&lt;li>
+&lt;p>教师 2：张颖&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2>关于考试&lt;span class="absolute -mt-20" id="关于考试">&lt;/span>
