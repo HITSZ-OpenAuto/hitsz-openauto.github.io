@@ -44,7 +44,7 @@
 &lt;p>已获得作者本人许可&lt;/p>
 &lt;/blockquote></description></item><item><title>新人指南：不使用第三方工具访问 GitHub</title><link>https://hoa.moe/blog/access-github/</link><pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate><guid>https://hoa.moe/blog/access-github/</guid><description>
 &lt;blockquote>
-&lt;p>已经会魔法的 / 能够稳定访问 GitHub 的朋友，这篇文章对你来说帮助不大了，本文面向刚开始接触 GitHub 的新朋友。&lt;/p>
+&lt;p>已经会魔法的 / 能够稳定访问 GitHub 的朋友，这篇文章对你来说帮助不大，本文面向刚开始接触 GitHub 的新朋友。&lt;/p>
 &lt;p>本人不精通计算机网络知识，用语难免不严谨。本文只是分享一些自己的经验，如果有错误，欢迎指正。&lt;/p>
 &lt;/blockquote>
 &lt;h2>1. Introduction&lt;span class="absolute -mt-20" id="1-introduction">&lt;/span>
@@ -69,9 +69,9 @@
 &lt;li>&lt;a href="https://steampp.net/" target="_blank" rel="noopener">Watt Toolkit&lt;/a>：原名 Steam++，一个开源跨平台的多功能 Steam 工具箱，并且可以加速 GitHub 的访问。
 目前已支持 Windows、macOS、Linux 和 Android，属于开箱即用的软件。&lt;/li>
 &lt;/ul>
-&lt;p>如果需要下载\克隆 GitHub 上的文件，可以使用本站提供的代理服务。&lt;/p>
+&lt;p>如果需要下载/克隆 GitHub 上的文件，可以使用本站提供的代理服务：&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://gh.hoa.moe/" target="_blank" rel="noopener">HOA&amp;rsquo;s Github Proxy&lt;/a>:&lt;/li>
+&lt;li>&lt;a href="https://gh.hoa.moe/" target="_blank" rel="noopener">HOA&amp;rsquo;s Github Proxy&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2>3. 通过修改 hosts 文件访问 GitHub&lt;span class="absolute -mt-20" id="3-通过修改-hosts-文件访问-github">&lt;/span>
 &lt;a href="#3-%e9%80%9a%e8%bf%87%e4%bf%ae%e6%94%b9-hosts-%e6%96%87%e4%bb%b6%e8%ae%bf%e9%97%ae-github" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>上面所述的使用软件，本质上还是使用别人帮我们设置好的代理上网，速度有时并不理想；
@@ -91,7 +91,7 @@
 如果你的 ping 返回的是 &lt;code>Request timed out&lt;/code>，那么说明你所处的网络环境有问题，这个不是本文能够解决的，因此不深入讨论。&lt;/p>
 &lt;p>下一步，查询 GitHub 的 IP 地址。
 提供 IP 查询的网站很多，这里给大家介绍 &lt;a href="https://www.ipaddress.com/" target="_blank" rel="noopener">IP Address&lt;/a>。&lt;/p>
-&lt;p>进入网站，选择其中的 &lt;code>IP Address Lookup&lt;/code> 功能（或直接进入链接： &lt;a href="https://www.ipaddress.com/ip-lookup%ef%bc%89%e3%80%82" target="_blank" rel="noopener">https://www.ipaddress.com/ip-lookup）。&lt;/a>&lt;/p>
+&lt;p>进入网站，选择其中的 &lt;code>IP Address Lookup&lt;/code> 功能（或直接点击这个链接：&lt;a href="https://www.ipaddress.com/ip-lookup" target="_blank" rel="noopener">https://www.ipaddress.com/ip-lookup&lt;/a>）。&lt;/p>
 &lt;p>&lt;img src="ip-address-lookup.png" alt="ip address lookup" loading="lazy" />&lt;/p>
 &lt;p>在搜索框中输入 &lt;code>github.com&lt;/code>，点击 &lt;code>Lookup&lt;/code> 就可以在结果中看到 GitHub 的 IP 地址了。&lt;/p>
 &lt;p>我们查询这 4 个网站的 IP 地址，把它们记下来：&lt;/p>
@@ -101,7 +101,7 @@
 &lt;li>github.global.ssl.fastly.net&lt;/li>
 &lt;li>codeload.Github.com&lt;/li>
 &lt;/ul>
-&lt;p>这 4 个网站足够我们访问 GitHub、推送到 GitHub 仓库、使用 GitHub 的 API 了。&lt;/p>
+&lt;p>这 4 个网站足够我们访问 GitHub、推送/拉取 GitHub 仓库、使用 GitHub 的 API（包括 GitHub Copilot）了。&lt;/p>
 &lt;h3>3.3 修改 hosts 文件&lt;span class="absolute -mt-20" id="33-修改-hosts-文件">&lt;/span>
 &lt;a href="#33-%e4%bf%ae%e6%94%b9-hosts-%e6%96%87%e4%bb%b6" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>hosts 文件是一个没有扩展名的文本文件，用于将 IP 地址映射到域名。&lt;/p>
 &lt;p>Windows 中，hosts 文件位于 &lt;code>C:\Windows\System32\drivers\etc&lt;/code> 目录下。&lt;/p>
