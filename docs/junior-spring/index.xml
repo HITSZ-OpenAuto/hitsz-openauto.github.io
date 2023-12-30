@@ -50,11 +50,11 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/assignments/2023%E5%B9%B4%E6%98%A5/1/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第一次作业.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/assignments/2023%E5%B9%B4%E6%98%A5/1/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第一次作业.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/assignments/2023%E5%B9%B4%E6%98%A5/1/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf" class="ml-1">自动控制原理B第一次作业答案.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/assignments/2023%E5%B9%B4%E6%98%A5/1/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf" class="ml-1">自动控制原理B第一次作业答案.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -67,11 +67,11 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/assignments/2023%E5%B9%B4%E6%98%A5/2/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第二次作业.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/assignments/2023%E5%B9%B4%E6%98%A5/2/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第二次作业.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/assignments/2023%E5%B9%B4%E6%98%A5/2/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf" class="ml-1">自动控制原理B第二次作业答案.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/assignments/2023%E5%B9%B4%E6%98%A5/2/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf" class="ml-1">自动控制原理B第二次作业答案.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -84,11 +84,11 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/assignments/2023%E5%B9%B4%E6%98%A5/3/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第三次作业.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/assignments/2023%E5%B9%B4%E6%98%A5/3/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第三次作业.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/assignments/2023%E5%B9%B4%E6%98%A5/3/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf" class="ml-1">自动控制原理B第三次作业答案.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/assignments/2023%E5%B9%B4%E6%98%A5/3/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf" class="ml-1">自动控制原理B第三次作业答案.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -101,7 +101,7 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/assignments/2023%E5%B9%B4%E6%98%A5/4/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf" class="ml-1">自动控制原理B第四次作业答案.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/assignments/2023%E5%B9%B4%E6%98%A5/4/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf" class="ml-1">自动控制原理B第四次作业答案.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -114,11 +114,11 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/assignments/2023%E5%B9%B4%E6%98%A5/5/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第五次作业.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/assignments/2023%E5%B9%B4%E6%98%A5/5/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第五次作业.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/assignments/2023%E5%B9%B4%E6%98%A5/5/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf" class="ml-1">自动控制原理B第五次作业答案.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/assignments/2023%E5%B9%B4%E6%98%A5/5/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf" class="ml-1">自动控制原理B第五次作业答案.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -131,11 +131,11 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/assignments/2023%E5%B9%B4%E6%98%A5/6/%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第六次作业.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/assignments/2023%E5%B9%B4%E6%98%A5/6/%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第六次作业.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/assignments/2023%E5%B9%B4%E6%98%A5/6/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf" class="ml-1">自动控制原理B第六次作业答案.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/assignments/2023%E5%B9%B4%E6%98%A5/6/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf" class="ml-1">自动控制原理B第六次作业答案.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -148,11 +148,11 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/assignments/2023%E5%B9%B4%E6%98%A5/7/%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第七次作业.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/assignments/2023%E5%B9%B4%E6%98%A5/7/%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第七次作业.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/assignments/2023%E5%B9%B4%E6%98%A5/7/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf" class="ml-1">自动控制原理B第七次作业答案.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/assignments/2023%E5%B9%B4%E6%98%A5/7/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf" class="ml-1">自动控制原理B第七次作业答案.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -165,11 +165,11 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/assignments/2023%E5%B9%B4%E6%98%A5/8/%E7%AC%AC%E5%85%AB%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第八次作业.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/assignments/2023%E5%B9%B4%E6%98%A5/8/%E7%AC%AC%E5%85%AB%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第八次作业.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/assignments/2023%E5%B9%B4%E6%98%A5/8/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B%E7%AC%AC%E5%85%AB%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf" class="ml-1">自动控制原理B第八次作业答案.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/assignments/2023%E5%B9%B4%E6%98%A5/8/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B%E7%AC%AC%E5%85%AB%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf" class="ml-1">自动控制原理B第八次作业答案.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -182,11 +182,11 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/assignments/2023%E5%B9%B4%E6%98%A5/9/%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第九次作业.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/assignments/2023%E5%B9%B4%E6%98%A5/9/%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第九次作业.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/assignments/2023%E5%B9%B4%E6%98%A5/9/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">自动控制原理B第九次作业.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/assignments/2023%E5%B9%B4%E6%98%A5/9/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">自动控制原理B第九次作业.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -203,19 +203,19 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/exams/%E8%87%AA%E6%8E%A7B-%E6%A0%A1%E6%AD%A3.pdf" class="ml-1">自控B-校正.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/exams/%E8%87%AA%E6%8E%A7B-%E6%A0%A1%E6%AD%A3.pdf" class="ml-1">自控B-校正.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/exams/%E8%87%AA%E6%8E%A7%E7%90%86%E8%AE%BAb%E8%80%83%E8%AF%95%E5%9B%9E%E5%BF%86.pdf" class="ml-1">自控理论b考试回忆.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/exams/%E8%87%AA%E6%8E%A7%E7%90%86%E8%AE%BAb%E8%80%83%E8%AF%95%E5%9B%9E%E5%BF%86.pdf" class="ml-1">自控理论b考试回忆.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/exams/%E8%A1%A5%E8%80%83%E5%89%8D%E5%A4%8D%E4%B9%A0%E9%A2%98-%E5%8F%82%E8%80%83%E8%A7%A3%E7%AD%94.pdf" class="ml-1">补考前复习题-参考解答.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/exams/%E8%A1%A5%E8%80%83%E5%89%8D%E5%A4%8D%E4%B9%A0%E9%A2%98-%E5%8F%82%E8%80%83%E8%A7%A3%E7%AD%94.pdf" class="ml-1">补考前复习题-参考解答.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/exams/%E8%A1%A5%E8%80%83%E5%89%8D%E5%A4%8D%E4%B9%A0%E9%A2%98.pdf" class="ml-1">补考前复习题.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/exams/%E8%A1%A5%E8%80%83%E5%89%8D%E5%A4%8D%E4%B9%A0%E9%A2%98.pdf" class="ml-1">补考前复习题.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -235,29 +235,29 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/labs/FWI_Version/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B-%E4%B8%8A%E6%9C%BA2.pdf" class="ml-1">自动控制原理B-上机2.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/labs/FWI_Version/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B-%E4%B8%8A%E6%9C%BA2.pdf" class="ml-1">自动控制原理B-上机2.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/labs/FWI_Version/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AE%9E%E9%AA%8C.pdf" class="ml-1">自动控制原理B第一次实验.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/labs/FWI_Version/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86B%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AE%9E%E9%AA%8C.pdf" class="ml-1">自动控制原理B第一次实验.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/labs/%E4%B8%8A%E6%9C%BA1.pdf" class="ml-1">上机1.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/labs/%E4%B8%8A%E6%9C%BA1.pdf" class="ml-1">上机1.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/labs/%E4%B8%8A%E6%9C%BA2.pdf" class="ml-1">上机2.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/labs/%E4%B8%8A%E6%9C%BA2.pdf" class="ml-1">上机2.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/labs/%E5%AE%9E%E9%AA%8C1.pdf" class="ml-1">实验1.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/labs/%E5%AE%9E%E9%AA%8C1.pdf" class="ml-1">实验1.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/labs/%E5%AE%9E%E9%AA%8C2.pdf" class="ml-1">实验2.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/labs/%E5%AE%9E%E9%AA%8C2.pdf" class="ml-1">实验2.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -270,39 +270,39 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/slides/1-%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BAB%E7%BB%AA%E8%AE%BA.pdf" class="ml-1">1-自动控制理论B绪论.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/slides/1-%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BAB%E7%BB%AA%E8%AE%BA.pdf" class="ml-1">1-自动控制理论B绪论.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/slides/10-%E9%9D%9E%E7%BA%BF%E6%80%A7%E6%8E%A7%E5%88%B6%E5%88%86%E6%9E%90xj.pdf" class="ml-1">10-非线性控制分析xj.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/slides/10-%E9%9D%9E%E7%BA%BF%E6%80%A7%E6%8E%A7%E5%88%B6%E5%88%86%E6%9E%90xj.pdf" class="ml-1">10-非线性控制分析xj.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/slides/2-%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%80%A7%E8%83%BD%E6%8C%87%E6%A0%87.pdf" class="ml-1">2-控制系统的性能指标.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/slides/2-%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%80%A7%E8%83%BD%E6%8C%87%E6%A0%87.pdf" class="ml-1">2-控制系统的性能指标.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/slides/3-%E9%A2%91%E7%8E%87%E6%A0%A1%E6%AD%A3.pdf" class="ml-1">3-频率校正.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/slides/3-%E9%A2%91%E7%8E%87%E6%A0%A1%E6%AD%A3.pdf" class="ml-1">3-频率校正.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/slides/4-%E6%A0%B9%E8%BD%A8%E8%BF%B9%E6%A0%A1%E6%AD%A3.pdf" class="ml-1">4-根轨迹校正.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/slides/4-%E6%A0%B9%E8%BD%A8%E8%BF%B9%E6%A0%A1%E6%AD%A3.pdf" class="ml-1">4-根轨迹校正.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/slides/6-%E7%A6%BB%E6%95%A3%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%A0%A1%E6%AD%A3xj.pdf" class="ml-1">6-离散控制系统的校正xj.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/slides/6-%E7%A6%BB%E6%95%A3%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%A0%A1%E6%AD%A3xj.pdf" class="ml-1">6-离散控制系统的校正xj.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/slides/7-PID%E6%8E%A7%E5%88%B6%E5%99%A8-xj.pdf" class="ml-1">7-PID控制器-xj.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/slides/7-PID%E6%8E%A7%E5%88%B6%E5%99%A8-xj.pdf" class="ml-1">7-PID控制器-xj.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/slides/8-%E7%BA%BF%E6%80%A7%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%83%BD%E6%8E%A7%E6%80%A7%E4%B8%8E%E8%83%BD%E8%A7%82%E6%80%A7xj.pdf" class="ml-1">8-线性系统的能控性与能观性xj.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/slides/8-%E7%BA%BF%E6%80%A7%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%83%BD%E6%8E%A7%E6%80%A7%E4%B8%8E%E8%83%BD%E8%A7%82%E6%80%A7xj.pdf" class="ml-1">8-线性系统的能控性与能观性xj.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3001B/slides/9-%E7%8A%B6%E6%80%81%E7%A9%BA%E9%97%B4%E7%BB%BC%E5%90%88xj.pdf" class="ml-1">9-状态空间综合xj.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001B/raw/main/slides/9-%E7%8A%B6%E6%80%81%E7%A9%BA%E9%97%B4%E7%BB%BC%E5%90%88xj.pdf" class="ml-1">9-状态空间综合xj.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -362,23 +362,23 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/assignments/LL_Version/HW1.pdf" class="ml-1">HW1.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/assignments/LL_Version/HW1.pdf" class="ml-1">HW1.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/assignments/LL_Version/HW2.pdf" class="ml-1">HW2.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/assignments/LL_Version/HW2.pdf" class="ml-1">HW2.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/assignments/LL_Version/HW3.pdf" class="ml-1">HW3.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/assignments/LL_Version/HW3.pdf" class="ml-1">HW3.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/assignments/LL_Version/HW4.pdf" class="ml-1">HW4.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/assignments/LL_Version/HW4.pdf" class="ml-1">HW4.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/assignments/LL_Version/HW5.pdf" class="ml-1">HW5.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/assignments/LL_Version/HW5.pdf" class="ml-1">HW5.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -393,7 +393,7 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/books/%E3%80%8A%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E3%80%8B.pdf" class="ml-1">《控制系统设计》.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/books/%E3%80%8A%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E3%80%8B.pdf" class="ml-1">《控制系统设计》.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -406,15 +406,15 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/exams/%E2%98%86%E8%80%81%E5%B8%88%E5%AE%98%E6%96%B9%E7%89%88stm32%E9%A2%98%E5%BA%93%E2%98%85.pdf" class="ml-1">☆老师官方版stm32题库★.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/exams/%E2%98%86%E8%80%81%E5%B8%88%E5%AE%98%E6%96%B9%E7%89%88stm32%E9%A2%98%E5%BA%93%E2%98%85.pdf" class="ml-1">☆老师官方版stm32题库★.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/exams/%E3%80%8A%E9%BB%84%E7%91%9E%E5%AE%81%E6%BC%8F%E5%87%BA%E3%80%8B.pdf" class="ml-1">《黄瑞宁漏出》.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/exams/%E3%80%8A%E9%BB%84%E7%91%9E%E5%AE%81%E6%BC%8F%E5%87%BA%E3%80%8B.pdf" class="ml-1">《黄瑞宁漏出》.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/exams/%E6%9C%AC%E9%83%A82020%E7%AD%94%E6%A1%88.pdf" class="ml-1">本部2020答案.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/exams/%E6%9C%AC%E9%83%A82020%E7%AD%94%E6%A1%88.pdf" class="ml-1">本部2020答案.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -434,7 +434,7 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/experiment/%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C/%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E4%BB%BB%E5%8A%A1%E4%B9%A6.pdf" class="ml-1">综合实验任务书.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/experiment/%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C/%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E4%BB%BB%E5%8A%A1%E4%B9%A6.pdf" class="ml-1">综合实验任务书.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -449,7 +449,7 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/notes/Revision%20of%20Auto-Practical.pdf" class="ml-1">Revision of Auto-Practical.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/notes/Revision%20of%20Auto-Practical.pdf" class="ml-1">Revision of Auto-Practical.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -462,75 +462,75 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/slides/STM32_Class_1%262%263%264%265....pdf" class="ml-1">STM32_Class_1&amp;amp;2&amp;amp;3&amp;amp;4&amp;amp;5&amp;hellip;.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/STM32_Class_1%262%263%264%265....pdf" class="ml-1">STM32_Class_1&amp;amp;2&amp;amp;3&amp;amp;4&amp;amp;5&amp;hellip;.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/slides/%E7%AC%AC1%E7%AB%A0%EF%BC%8C%E7%BB%AA%E8%AE%BA.pdf" class="ml-1">第1章，绪论.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/%E7%AC%AC1%E7%AB%A0%EF%BC%8C%E7%BB%AA%E8%AE%BA.pdf" class="ml-1">第1章，绪论.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/slides/%E7%AC%AC2%E7%AB%A0%EF%BC%8C%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%B5%81%E7%A8%8B-1.pdf" class="ml-1">第2章，控制系统的设计流程-1.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/%E7%AC%AC2%E7%AB%A0%EF%BC%8C%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%B5%81%E7%A8%8B-1.pdf" class="ml-1">第2章，控制系统的设计流程-1.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/slides/%E7%AC%AC2%E7%AB%A0%EF%BC%8C%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%B5%81%E7%A8%8B-2.pdf" class="ml-1">第2章，控制系统的设计流程-2.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/%E7%AC%AC2%E7%AB%A0%EF%BC%8C%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%B5%81%E7%A8%8B-2.pdf" class="ml-1">第2章，控制系统的设计流程-2.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/slides/%E7%AC%AC3%E7%AB%A0%EF%BC%8C%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%BE%93%E5%85%A5%E6%9D%A1%E4%BB%B6%E5%88%86%E6%9E%90-1.pdf" class="ml-1">第3章，控制系统的输入条件分析-1.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/%E7%AC%AC3%E7%AB%A0%EF%BC%8C%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%BE%93%E5%85%A5%E6%9D%A1%E4%BB%B6%E5%88%86%E6%9E%90-1.pdf" class="ml-1">第3章，控制系统的输入条件分析-1.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/slides/%E7%AC%AC3%E7%AB%A0%EF%BC%8C%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%BE%93%E5%85%A5%E6%9D%A1%E4%BB%B6%E5%88%86%E6%9E%90-2.pdf" class="ml-1">第3章，控制系统的输入条件分析-2.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/%E7%AC%AC3%E7%AB%A0%EF%BC%8C%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%BE%93%E5%85%A5%E6%9D%A1%E4%BB%B6%E5%88%86%E6%9E%90-2.pdf" class="ml-1">第3章，控制系统的输入条件分析-2.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/slides/%E7%AC%AC3%E7%AB%A0%EF%BC%8C%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%BE%93%E5%85%A5%E6%9D%A1%E4%BB%B6%E5%88%86%E6%9E%90-4.pdf" class="ml-1">第3章，控制系统的输入条件分析-4.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/%E7%AC%AC3%E7%AB%A0%EF%BC%8C%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%BE%93%E5%85%A5%E6%9D%A1%E4%BB%B6%E5%88%86%E6%9E%90-4.pdf" class="ml-1">第3章，控制系统的输入条件分析-4.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/slides/%E7%AC%AC3%E7%AB%A0%EF%BC%8C%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%BE%93%E5%85%A5%E6%9D%A1%E4%BB%B6%E5%88%86%E6%9E%90-5.pdf" class="ml-1">第3章，控制系统的输入条件分析-5.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/%E7%AC%AC3%E7%AB%A0%EF%BC%8C%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%BE%93%E5%85%A5%E6%9D%A1%E4%BB%B6%E5%88%86%E6%9E%90-5.pdf" class="ml-1">第3章，控制系统的输入条件分析-5.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/slides/%E7%AC%AC4%E7%AB%A0%EF%BC%8C%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1%E7%BA%A6%E6%9D%9F-1.pdf" class="ml-1">第4章，控制系统的设计约束-1.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/%E7%AC%AC4%E7%AB%A0%EF%BC%8C%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1%E7%BA%A6%E6%9D%9F-1.pdf" class="ml-1">第4章，控制系统的设计约束-1.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/slides/%E7%AC%AC4%E7%AB%A0%EF%BC%8C%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1%E7%BA%A6%E6%9D%9F-2.pdf" class="ml-1">第4章，控制系统的设计约束-2.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/%E7%AC%AC4%E7%AB%A0%EF%BC%8C%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1%E7%BA%A6%E6%9D%9F-2.pdf" class="ml-1">第4章，控制系统的设计约束-2.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/slides/%E7%AC%AC5%E7%AB%A0%EF%BC%8CAnti-Windup%E8%AE%BE%E8%AE%A1-1.pdf" class="ml-1">第5章，Anti-Windup设计-1.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/%E7%AC%AC5%E7%AB%A0%EF%BC%8CAnti-Windup%E8%AE%BE%E8%AE%A1-1.pdf" class="ml-1">第5章，Anti-Windup设计-1.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/slides/%E7%AC%AC5%E7%AB%A0%EF%BC%8CAnti-Windup%E8%AE%BE%E8%AE%A1-2.pdf" class="ml-1">第5章，Anti-Windup设计-2.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/%E7%AC%AC5%E7%AB%A0%EF%BC%8CAnti-Windup%E8%AE%BE%E8%AE%A1-2.pdf" class="ml-1">第5章，Anti-Windup设计-2.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/slides/%E7%AC%AC6%E7%AB%A0%EF%BC%8C%E4%BC%BA%E6%9C%8D%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1-1.pdf" class="ml-1">第6章，伺服系统的设计-1.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/%E7%AC%AC6%E7%AB%A0%EF%BC%8C%E4%BC%BA%E6%9C%8D%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1-1.pdf" class="ml-1">第6章，伺服系统的设计-1.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/slides/%E7%AC%AC6%E7%AB%A0%EF%BC%8C%E4%BC%BA%E6%9C%8D%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1-2.pdf" class="ml-1">第6章，伺服系统的设计-2.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/%E7%AC%AC6%E7%AB%A0%EF%BC%8C%E4%BC%BA%E6%9C%8D%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1-2.pdf" class="ml-1">第6章，伺服系统的设计-2.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/slides/%E7%AC%AC7%E7%AB%A0%EF%BC%8C%E8%B0%83%E8%8A%82%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1-1.pdf" class="ml-1">第7章，调节系统的设计-1.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/%E7%AC%AC7%E7%AB%A0%EF%BC%8C%E8%B0%83%E8%8A%82%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1-1.pdf" class="ml-1">第7章，调节系统的设计-1.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/slides/%E7%AC%AC7%E7%AB%A0%EF%BC%8C%E8%B0%83%E8%8A%82%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1-2.pdf" class="ml-1">第7章，调节系统的设计-2.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/%E7%AC%AC7%E7%AB%A0%EF%BC%8C%E8%B0%83%E8%8A%82%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1-2.pdf" class="ml-1">第7章，调节系统的设计-2.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/slides/%E7%AC%AC8%E7%AB%A0%EF%BC%8C%E5%A4%9A%E5%9B%9E%E8%B7%AF%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1.pdf" class="ml-1">第8章，多回路系统的设计.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/%E7%AC%AC8%E7%AB%A0%EF%BC%8C%E5%A4%9A%E5%9B%9E%E8%B7%AF%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1.pdf" class="ml-1">第8章，多回路系统的设计.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3002B/slides/%E7%AC%AC9%E7%AB%A0%EF%BC%8C%E8%AF%BE%E7%A8%8B%E6%80%BB%E7%BB%93.pdf" class="ml-1">第9章，课程总结.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3002B/raw/main/slides/%E7%AC%AC9%E7%AB%A0%EF%BC%8C%E8%AF%BE%E7%A8%8B%E6%80%BB%E7%BB%93.pdf" class="ml-1">第9章，课程总结.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -601,11 +601,11 @@
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/assignments/AYB_Verison/%E8%89%BE%E7%85%9C%E5%8D%9A-190320301-%E8%87%AA%E5%8A%A8%E5%8C%963%E7%8F%AD-0329.pdf" class="ml-1">艾煜博-190320301-自动化3班-0329.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/assignments/AYB_Verison/%E8%89%BE%E7%85%9C%E5%8D%9A-190320301-%E8%87%AA%E5%8A%A8%E5%8C%963%E7%8F%AD-0329.pdf" class="ml-1">艾煜博-190320301-自动化3班-0329.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/assignments/AYB_Verison/%E8%89%BE%E7%85%9C%E5%8D%9A-190320301-%E8%87%AA%E5%8A%A8%E5%8C%963%E7%8F%AD-0407.pdf" class="ml-1">艾煜博-190320301-自动化3班-0407.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/assignments/AYB_Verison/%E8%89%BE%E7%85%9C%E5%8D%9A-190320301-%E8%87%AA%E5%8A%A8%E5%8C%963%E7%8F%AD-0407.pdf" class="ml-1">艾煜博-190320301-自动化3班-0407.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -620,7 +620,7 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/books/%E8%BF%87%E7%A8%8B%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E4%B8%8E%E4%BB%AA%E8%A1%A8%20%EF%BC%88%E6%95%99%E6%9D%90%EF%BC%89.pdf" class="ml-1">过程控制系统与仪表 （教材）.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/books/%E8%BF%87%E7%A8%8B%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E4%B8%8E%E4%BB%AA%E8%A1%A8%20%EF%BC%88%E6%95%99%E6%9D%90%EF%BC%89.pdf" class="ml-1">过程控制系统与仪表 （教材）.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -633,7 +633,7 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/exams/%E8%BF%87%E6%8E%A7%E8%80%83%E7%82%B9%EF%BC%88%E8%8B%97%E5%AD%90%E5%8D%9A%E5%A4%8D%E4%B9%A0%EF%BC%89.pdf" class="ml-1">过控考点（苗子博复习）.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/exams/%E8%BF%87%E6%8E%A7%E8%80%83%E7%82%B9%EF%BC%88%E8%8B%97%E5%AD%90%E5%8D%9A%E5%A4%8D%E4%B9%A0%EF%BC%89.pdf" class="ml-1">过控考点（苗子博复习）.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
@@ -641,7 +641,7 @@
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/exams/%E8%BF%87%E7%A8%8B%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F2023%E5%B9%B4%E8%80%83%E9%A2%98%E8%A6%81%E7%82%B9.pdf" class="ml-1">过程控制系统2023年考题要点.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/exams/%E8%BF%87%E7%A8%8B%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F2023%E5%B9%B4%E8%80%83%E9%A2%98%E8%A6%81%E7%82%B9.pdf" class="ml-1">过程控制系统2023年考题要点.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -661,15 +661,15 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/labs/AYB_Version/%E5%AE%9E%E9%AA%8C%E4%B8%80-%E8%89%BE%E7%85%9C%E5%8D%9A-190320301-%E8%87%AA%E5%8A%A8%E5%8C%963%E7%8F%AD.pdf" class="ml-1">实验一-艾煜博-190320301-自动化3班.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/labs/AYB_Version/%E5%AE%9E%E9%AA%8C%E4%B8%80-%E8%89%BE%E7%85%9C%E5%8D%9A-190320301-%E8%87%AA%E5%8A%A8%E5%8C%963%E7%8F%AD.pdf" class="ml-1">实验一-艾煜博-190320301-自动化3班.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/labs/AYB_Version/%E5%AE%9E%E9%AA%8C%E4%BA%8C-%E8%89%BE%E7%85%9C%E5%8D%9A-190320301-%E8%87%AA%E5%8A%A8%E5%8C%963%E7%8F%AD.pdf" class="ml-1">实验二-艾煜博-190320301-自动化3班.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/labs/AYB_Version/%E5%AE%9E%E9%AA%8C%E4%BA%8C-%E8%89%BE%E7%85%9C%E5%8D%9A-190320301-%E8%87%AA%E5%8A%A8%E5%8C%963%E7%8F%AD.pdf" class="ml-1">实验二-艾煜博-190320301-自动化3班.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/labs/AYB_Version/%E5%AE%9E%E9%AA%8C%E5%85%AD-%E8%89%BE%E7%85%9C%E5%8D%9A-190320301-%E8%87%AA%E5%8A%A8%E5%8C%963%E7%8F%AD.pdf" class="ml-1">实验六-艾煜博-190320301-自动化3班.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/labs/AYB_Version/%E5%AE%9E%E9%AA%8C%E5%85%AD-%E8%89%BE%E7%85%9C%E5%8D%9A-190320301-%E8%87%AA%E5%8A%A8%E5%8C%963%E7%8F%AD.pdf" class="ml-1">实验六-艾煜博-190320301-自动化3班.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
@@ -701,11 +701,11 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/notes/%E8%BF%87%E7%A8%8B%E6%8E%A7%E5%88%B6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf" class="ml-1">过程控制复习笔记.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/notes/%E8%BF%87%E7%A8%8B%E6%8E%A7%E5%88%B6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf" class="ml-1">过程控制复习笔记.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/notes/%E8%BF%87%E7%A8%8B%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%BB%BC%E5%90%88%E7%AC%94%E8%AE%B0.pdf" class="ml-1">过程控制系统综合笔记.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/notes/%E8%BF%87%E7%A8%8B%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E7%BB%BC%E5%90%88%E7%AC%94%E8%AE%B0.pdf" class="ml-1">过程控制系统综合笔记.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -725,75 +725,75 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC10%E6%AC%A1%E8%AF%BE-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第10次课-苗子博.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC10%E6%AC%A1%E8%AF%BE-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第10次课-苗子博.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC11%E6%AC%A1%E8%AF%BE-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第11次课-苗子博.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC11%E6%AC%A1%E8%AF%BE-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第11次课-苗子博.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC12%E6%AC%A1%E8%AF%BE-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第12次课-苗子博.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC12%E6%AC%A1%E8%AF%BE-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第12次课-苗子博.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC13%E6%AC%A1%E8%AF%BE-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第13次课-苗子博.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC13%E6%AC%A1%E8%AF%BE-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第13次课-苗子博.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC14%E6%AC%A1%E8%AF%BE-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第14次课-苗子博.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC14%E6%AC%A1%E8%AF%BE-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第14次课-苗子博.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC15%E6%AC%A1%E8%AF%BE-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第15次课-苗子博.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC15%E6%AC%A1%E8%AF%BE-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第15次课-苗子博.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC16%E6%AC%A1%E8%AF%BE-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第16次课-苗子博.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC16%E6%AC%A1%E8%AF%BE-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第16次课-苗子博.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC17%E6%AC%A1%E8%AF%BEppt-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第17次课ppt-苗子博.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC17%E6%AC%A1%E8%AF%BEppt-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第17次课ppt-苗子博.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC18%E6%AC%A1%E8%AF%BEppt-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第18次课ppt-苗子博.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC18%E6%AC%A1%E8%AF%BEppt-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第18次课ppt-苗子博.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC1%E6%AC%A1%E8%AF%BEppt-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第1次课ppt-苗子博.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC1%E6%AC%A1%E8%AF%BEppt-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第1次课ppt-苗子博.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC2%E6%AC%A1%E8%AF%BEppt-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第2次课ppt-苗子博.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC2%E6%AC%A1%E8%AF%BEppt-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第2次课ppt-苗子博.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC3%E6%AC%A1%E8%AF%BEppt-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第3次课ppt-苗子博.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC3%E6%AC%A1%E8%AF%BEppt-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第3次课ppt-苗子博.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC4%E6%AC%A1%E8%AF%BEppt-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第4次课ppt-苗子博.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC4%E6%AC%A1%E8%AF%BEppt-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第4次课ppt-苗子博.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC5%E6%AC%A1%E8%AF%BEppt-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第5次课ppt-苗子博.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC5%E6%AC%A1%E8%AF%BEppt-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第5次课ppt-苗子博.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC6%E6%AC%A1%E8%AF%BEppt-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第6次课ppt-苗子博.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC6%E6%AC%A1%E8%AF%BEppt-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第6次课ppt-苗子博.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC7%E6%AC%A1%E8%AF%BEppt-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第7次课ppt-苗子博.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC7%E6%AC%A1%E8%AF%BEppt-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第7次课ppt-苗子博.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC8%E6%AC%A1%E8%AF%BE-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第8次课-苗子博.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC8%E6%AC%A1%E8%AF%BE-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第8次课-苗子博.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3007/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC9%E6%AC%A1%E8%AF%BE-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第9次课-苗子博.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3007/raw/main/slides/2022%E6%98%A5%E8%AF%BE%E4%BB%B6/%E7%AC%AC9%E6%AC%A1%E8%AF%BE-%E8%8B%97%E5%AD%90%E5%8D%9A.pdf" class="ml-1">第9次课-苗子博.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -895,19 +895,19 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3005/books/John%20J.Craig%20-%20Introduction%20to%20Robotics%20Mechanics.pdf" class="ml-1">John J.Craig - Introduction to Robotics Mechanics.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3005/raw/main/books/John%20J.Craig%20-%20Introduction%20to%20Robotics%20Mechanics.pdf" class="ml-1">John J.Craig - Introduction to Robotics Mechanics.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3005/books/mls94-complete%201994.pdf" class="ml-1">mls94-complete 1994.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3005/raw/main/books/mls94-complete%201994.pdf" class="ml-1">mls94-complete 1994.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3005/books/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6-%E7%86%8A%E6%9C%89%E4%BC%A6.pdf" class="ml-1">机器人学-熊有伦.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3005/raw/main/books/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6-%E7%86%8A%E6%9C%89%E4%BC%A6.pdf" class="ml-1">机器人学-熊有伦.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3005/books/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6%E5%AF%BC%E8%AE%BA%E7%AC%AC%E4%B8%89%E7%89%88-Craig%E4%B8%AD%E6%96%87%E7%89%88.pdf" class="ml-1">机器人学导论第三版-Craig中文版.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3005/raw/main/books/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6%E5%AF%BC%E8%AE%BA%E7%AC%AC%E4%B8%89%E7%89%88-Craig%E4%B8%AD%E6%96%87%E7%89%88.pdf" class="ml-1">机器人学导论第三版-Craig中文版.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -920,7 +920,7 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3005/exams/%E8%80%83%E8%AF%95A4%E7%BA%B8.pdf" class="ml-1">考试A4纸.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3005/raw/main/exams/%E8%80%83%E8%AF%95A4%E7%BA%B8.pdf" class="ml-1">考试A4纸.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -933,19 +933,19 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3005/slides/--1--Rev-Robot-History-July-2012%5Bhandout%5D.pdf" class="ml-1">&amp;ndash;1&amp;ndash;Rev-Robot-History-July-2012[handout].pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3005/raw/main/slides/--1--Rev-Robot-History-July-2012%5Bhandout%5D.pdf" class="ml-1">&amp;ndash;1&amp;ndash;Rev-Robot-History-July-2012[handout].pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3005/slides/--2--Rev-Rigid-Body-Kinematics-July-2012%5Bhandout%5D.pdf" class="ml-1">&amp;ndash;2&amp;ndash;Rev-Rigid-Body-Kinematics-July-2012[handout].pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3005/raw/main/slides/--2--Rev-Rigid-Body-Kinematics-July-2012%5Bhandout%5D.pdf" class="ml-1">&amp;ndash;2&amp;ndash;Rev-Rigid-Body-Kinematics-July-2012[handout].pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3005/slides/--3--Rev-Manipulator-Kinematics-July-2012%5Bhandout.pdf" class="ml-1">&amp;ndash;3&amp;ndash;Rev-Manipulator-Kinematics-July-2012[handout.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3005/raw/main/slides/--3--Rev-Manipulator-Kinematics-July-2012%5Bhandout.pdf" class="ml-1">&amp;ndash;3&amp;ndash;Rev-Manipulator-Kinematics-July-2012[handout.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3005/slides/--4--Rev-Dynamics-July-2012%5Bhandout%5D.pdf" class="ml-1">&amp;ndash;4&amp;ndash;Rev-Dynamics-July-2012[handout].pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3005/raw/main/slides/--4--Rev-Dynamics-July-2012%5Bhandout%5D.pdf" class="ml-1">&amp;ndash;4&amp;ndash;Rev-Dynamics-July-2012[handout].pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -1045,77 +1045,77 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE3005/slides/1.%20DSP%E7%9A%84%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8%EF%BC%88%E6%A6%82%E8%BF%B0%EF%BC%89.pdf" class="ml-1">&lt;ol>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE3005/raw/main/slides/1.%20DSP%E7%9A%84%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8%EF%BC%88%E6%A6%82%E8%BF%B0%EF%BC%89.pdf" class="ml-1">&lt;ol>
 &lt;li>DSP的原理与应用（概述）.pdf&lt;/li>
 &lt;/ol>
 &lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE3005/slides/10%E3%80%81%E5%A2%9E%E5%BC%BA%E5%9E%8B%E6%AD%A3%E4%BA%A4%E7%BC%96%E7%A0%81%E6%A8%A1%E5%9D%97eQEP.pdf" class="ml-1">10、增强型正交编码模块eQEP.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE3005/raw/main/slides/10%E3%80%81%E5%A2%9E%E5%BC%BA%E5%9E%8B%E6%AD%A3%E4%BA%A4%E7%BC%96%E7%A0%81%E6%A8%A1%E5%9D%97eQEP.pdf" class="ml-1">10、增强型正交编码模块eQEP.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE3005/slides/11.DMA.pdf" class="ml-1">11.DMA.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE3005/raw/main/slides/11.DMA.pdf" class="ml-1">11.DMA.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE3005/slides/12.%20SCI.pdf" class="ml-1">&lt;ol start="12">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE3005/raw/main/slides/12.%20SCI.pdf" class="ml-1">&lt;ol start="12">
 &lt;li>SCI.pdf&lt;/li>
 &lt;/ol>
 &lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE3005/slides/13.%20SPI.pdf" class="ml-1">&lt;ol start="13">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE3005/raw/main/slides/13.%20SPI.pdf" class="ml-1">&lt;ol start="13">
 &lt;li>SPI.pdf&lt;/li>
 &lt;/ol>
 &lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE3005/slides/14.%20I2C.pdf" class="ml-1">&lt;ol start="14">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE3005/raw/main/slides/14.%20I2C.pdf" class="ml-1">&lt;ol start="14">
 &lt;li>I2C.pdf&lt;/li>
 &lt;/ol>
 &lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE3005/slides/2.%20CCS%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0%E4%B8%8E%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95.pdf" class="ml-1">&lt;ol start="2">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE3005/raw/main/slides/2.%20CCS%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0%E4%B8%8E%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95.pdf" class="ml-1">&lt;ol start="2">
 &lt;li>CCS软件开发平台与编程方法.pdf&lt;/li>
 &lt;/ol>
 &lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE3005/slides/3.%20%E6%95%B0%E5%80%BC%E7%9A%84%E5%A4%84%E7%90%86.pdf" class="ml-1">&lt;ol start="3">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE3005/raw/main/slides/3.%20%E6%95%B0%E5%80%BC%E7%9A%84%E5%A4%84%E7%90%86.pdf" class="ml-1">&lt;ol start="3">
 &lt;li>数值的处理.pdf&lt;/li>
 &lt;/ol>
 &lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE3005/slides/4%E3%80%81%E7%B3%BB%E7%BB%9F%E6%97%B6%E9%92%9F.pdf" class="ml-1">4、系统时钟.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE3005/raw/main/slides/4%E3%80%81%E7%B3%BB%E7%BB%9F%E6%97%B6%E9%92%9F.pdf" class="ml-1">4、系统时钟.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE3005/slides/5.%E7%B3%BB%E7%BB%9F%E4%B8%AD%E6%96%AD.pdf" class="ml-1">5.系统中断.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE3005/raw/main/slides/5.%E7%B3%BB%E7%BB%9F%E4%B8%AD%E6%96%AD.pdf" class="ml-1">5.系统中断.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE3005/slides/6.GPIO.pdf" class="ml-1">6.GPIO.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE3005/raw/main/slides/6.GPIO.pdf" class="ml-1">6.GPIO.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE3005/slides/7%E3%80%81ADC%E8%BD%AC%E6%8D%A2%E5%8D%95%E5%85%83.pdf" class="ml-1">7、ADC转换单元.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE3005/raw/main/slides/7%E3%80%81ADC%E8%BD%AC%E6%8D%A2%E5%8D%95%E5%85%83.pdf" class="ml-1">7、ADC转换单元.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE3005/slides/8%E3%80%81%E5%A2%9E%E5%BC%BA%E5%9E%8B%E8%84%89%E5%AE%BD%E8%B0%83%E5%88%B6%E6%A8%A1%E5%9D%97ePWM.pdf" class="ml-1">8、增强型脉宽调制模块ePWM.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE3005/raw/main/slides/8%E3%80%81%E5%A2%9E%E5%BC%BA%E5%9E%8B%E8%84%89%E5%AE%BD%E8%B0%83%E5%88%B6%E6%A8%A1%E5%9D%97ePWM.pdf" class="ml-1">8、增强型脉宽调制模块ePWM.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE3005/slides/9%E3%80%81%E5%A2%9E%E5%BC%BA%E5%9E%8B%E8%84%89%E5%86%B2%E6%8D%95%E8%8E%B7%E6%A8%A1%E5%9D%97eCAP.pdf" class="ml-1">9、增强型脉冲捕获模块eCAP.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE3005/raw/main/slides/9%E3%80%81%E5%A2%9E%E5%BC%BA%E5%9E%8B%E8%84%89%E5%86%B2%E6%8D%95%E8%8E%B7%E6%A8%A1%E5%9D%97eCAP.pdf" class="ml-1">9、增强型脉冲捕获模块eCAP.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -1223,7 +1223,7 @@
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/assignments/AYB_Veision/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">机器视觉第六次作业.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/assignments/AYB_Veision/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">机器视觉第六次作业.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -1236,15 +1236,15 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/assignments/LL_Version/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第三次作业.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/assignments/LL_Version/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第三次作业.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/assignments/LL_Version/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第二次作业.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/assignments/LL_Version/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第二次作业.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/assignments/LL_Version/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第四次作业.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/assignments/LL_Version/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">第四次作业.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -1268,7 +1268,7 @@
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/assignments/WFD_Version/01/%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf" class="ml-1">调研报告.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/assignments/WFD_Version/01/%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf" class="ml-1">调研报告.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -1281,11 +1281,11 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/assignments/WFD_Version/02/Handbook%20of%20Machine%20Vision.pdf" class="ml-1">Handbook of Machine Vision.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/assignments/WFD_Version/02/Handbook%20of%20Machine%20Vision.pdf" class="ml-1">Handbook of Machine Vision.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/assignments/WFD_Version/02/%E7%BF%BB%E8%AF%91-%E7%AE%A1%E9%81%93%E6%A3%80%E6%B5%8B.pdf" class="ml-1">翻译-管道检测.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/assignments/WFD_Version/02/%E7%BF%BB%E8%AF%91-%E7%AE%A1%E9%81%93%E6%A3%80%E6%B5%8B.pdf" class="ml-1">翻译-管道检测.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -1311,7 +1311,7 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/assignments/WFD_Version/04/04.pdf" class="ml-1">04.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/assignments/WFD_Version/04/04.pdf" class="ml-1">04.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -1324,7 +1324,7 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/assignments/WFD_Version/05/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%20-%20%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">机器视觉 - 第五次作业.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/assignments/WFD_Version/05/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%20-%20%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">机器视觉 - 第五次作业.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -1337,7 +1337,7 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/assignments/WFD_Version/06/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%20-%20%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">机器视觉 - 第六次作业.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/assignments/WFD_Version/06/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%20-%20%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">机器视觉 - 第六次作业.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
@@ -1354,7 +1354,7 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/assignments/WFD_Version/07/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%20-%20%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">机器视觉 - 第七次作业.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/assignments/WFD_Version/07/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%20-%20%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">机器视觉 - 第七次作业.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -1367,7 +1367,7 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/assignments/WFD_Version/08/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89-%E7%AC%AC%E5%85%AB%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">机器视觉-第八次作业.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/assignments/WFD_Version/08/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89-%E7%AC%AC%E5%85%AB%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">机器视觉-第八次作业.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -1405,7 +1405,7 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/assignments/WFD_Version/not_released/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">机器视觉第五次作业.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/assignments/WFD_Version/not_released/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf" class="ml-1">机器视觉第五次作业.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -1422,7 +1422,7 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/course_design/2023_MV_project.pdf" class="ml-1">2023_MV_project.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/course_design/2023_MV_project.pdf" class="ml-1">2023_MV_project.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="group flex list-none flex-col">
@@ -1433,7 +1433,7 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/course_design/%E6%8A%A5%E5%91%8A%26%E7%AD%94%E8%BE%A9/project_6%20.pdf" class="ml-1">project_6 .pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/course_design/%E6%8A%A5%E5%91%8A%26%E7%AD%94%E8%BE%A9/project_6%20.pdf" class="ml-1">project_6 .pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
@@ -1443,7 +1443,7 @@
 &lt;/ul>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/course_design/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1.pdf" class="ml-1">课程设计.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/course_design/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1.pdf" class="ml-1">课程设计.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -1456,7 +1456,7 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/exams/Machine%20Vision%20Revision.pdf" class="ml-1">Machine Vision Revision.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/exams/Machine%20Vision%20Revision.pdf" class="ml-1">Machine Vision Revision.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
@@ -1480,7 +1480,7 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/labs/%E5%AE%9E%E9%AA%8C%E4%B8%80/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89-%E5%AE%9E%E9%AA%8C%E4%B8%80%EF%BC%882023%29.pdf" class="ml-1">机器视觉-实验一（2023).pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/labs/%E5%AE%9E%E9%AA%8C%E4%B8%80/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89-%E5%AE%9E%E9%AA%8C%E4%B8%80%EF%BC%882023%29.pdf" class="ml-1">机器视觉-实验一（2023).pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -1493,7 +1493,7 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/labs/%E5%AE%9E%E9%AA%8C%E4%B8%89/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89-%E5%AE%9E%E9%AA%8C%E4%B8%89%EF%BC%882023%EF%BC%89.pdf" class="ml-1">机器视觉-实验三（2023）.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/labs/%E5%AE%9E%E9%AA%8C%E4%B8%89/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89-%E5%AE%9E%E9%AA%8C%E4%B8%89%EF%BC%882023%EF%BC%89.pdf" class="ml-1">机器视觉-实验三（2023）.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -1506,7 +1506,7 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/labs/%E5%AE%9E%E9%AA%8C%E4%BA%8C/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89-%E5%AE%9E%E9%AA%8C%E4%BA%8C%EF%BC%882023%EF%BC%89.pdf" class="ml-1">机器视觉-实验二（2023）.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/labs/%E5%AE%9E%E9%AA%8C%E4%BA%8C/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89-%E5%AE%9E%E9%AA%8C%E4%BA%8C%EF%BC%882023%EF%BC%89.pdf" class="ml-1">机器视觉-实验二（2023）.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -1519,7 +1519,7 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/labs/%E5%AE%9E%E9%AA%8C%E5%9B%9B/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89-%E5%AE%9E%E9%AA%8C%E5%9B%9B%EF%BC%882023%EF%BC%89.pdf" class="ml-1">机器视觉-实验四（2023）.pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/labs/%E5%AE%9E%E9%AA%8C%E5%9B%9B/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89-%E5%AE%9E%E9%AA%8C%E5%9B%9B%EF%BC%882023%EF%BC%89.pdf" class="ml-1">机器视觉-实验四（2023）.pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
@@ -1534,15 +1534,15 @@
 &lt;/button>
 &lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/notes/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2%28%E4%B8%8B%29.pdf" class="ml-1">机器视觉复习提纲(下).pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/notes/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2%28%E4%B8%8B%29.pdf" class="ml-1">机器视觉复习提纲(下).pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/notes/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2%28%E4%B8%AD%29.pdf" class="ml-1">机器视觉复习提纲(中).pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/notes/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2%28%E4%B8%AD%29.pdf" class="ml-1">机器视觉复习提纲(中).pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;li class="flex list-none">
-&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO3006/notes/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2%28%E6%80%BB%29.pdf" class="ml-1">机器视觉复习提纲(总).pdf&lt;/a>
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3006/raw/main/notes/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2%28%E6%80%BB%29.pdf" class="ml-1">机器视觉复习提纲(总).pdf&lt;/a>
 &lt;/span>
 &lt;/li>
 &lt;/ul>
