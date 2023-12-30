@@ -6647,11 +6647,7 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;/ul>
 &lt;h2>授课教师&lt;span class="absolute -mt-20" id="授课教师">&lt;/span>
 &lt;a href="#%e6%8e%88%e8%af%be%e6%95%99%e5%b8%88" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>Wu Xiaojun
-&lt;ul>
-&lt;li>本课程与教师基本无关。&lt;/li>
-&lt;/ul>
-&lt;/li>
+&lt;li>本课程与教师基本无关。结题答辩时的老师也是任意分配的。&lt;/li>
 &lt;/ul>
 &lt;h2>攻略&lt;span class="absolute -mt-20" id="攻略">&lt;/span>
 &lt;a href="#%e6%94%bb%e7%95%a5" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;blockquote>
@@ -6659,8 +6655,14 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;/blockquote>
 &lt;p>这应该是自动化学生为数不多的参与软件开发的机会。&lt;/p>
 &lt;h3>选题&lt;span class="absolute -mt-20" id="选题">&lt;/span>
-&lt;a href="#%e9%80%89%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>图省事的话推荐贪吃蛇，借助 AI 不到 1 天就能速通。&lt;/p>
+&lt;a href="#%e9%80%89%e9%a2%98" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>图省事的话推荐贪吃蛇之类的小游戏，借助 AI 不到 1 天就能速通，但是你需要想想答辩的时候能说些什么。&lt;/p>
 &lt;p>如果想多积累一点敲代码经验，可以选择客户端类型的软件（信息管理系统、售票系统），体验一下前、后端的开发思想，尤其是 GUI 该怎么设计才能中看又中用。&lt;/p>
+&lt;p>我选择的是「模拟地铁售票系统」，仓库👉 &lt;a href="https://github.com/MaxwellJay256/MetroTicketingSystem" target="_blank" rel="noopener">MetroTicketingSystem&lt;/a>。&lt;/p>
+&lt;blockquote>
+&lt;p>by &lt;a href="https://github.com/longlin10086" target="_blank" rel="noopener">@Longlin li&lt;/a>, 2023.12&lt;/p>
+&lt;/blockquote>
+&lt;p>选择「 三国杀 」的同学可以参考👉 &lt;a href="https://github.com/chenxijun/KingdomCard" target="_blank" rel="noopener">KingdomCard&lt;/a>&lt;/p>
+&lt;p>项目整体采用 C/S 架构，能实现局域网内联机。前端使用 QT6 作为 UI 框架，后端采用 Modern C++ 进行编写。&lt;/p>
 &lt;h3>组队&lt;span class="absolute -mt-20" id="组队">&lt;/span>
 &lt;a href="#%e7%bb%84%e9%98%9f" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>课程要求 1-2 人一个小组。&lt;/p>
 &lt;p>如果选择组队，并且不摆烂的话，那么你和队友就必须启用 git 这种版本控制系统。
@@ -6668,7 +6670,7 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;p>如果对团队协作没有信心，或者对你的队友没有信心，一个人组队会轻松很多。&lt;/p>
 &lt;h3>挑选一个开发框架&lt;span class="absolute -mt-20" id="挑选一个开发框架">&lt;/span>
 &lt;a href="#%e6%8c%91%e9%80%89%e4%b8%80%e4%b8%aa%e5%bc%80%e5%8f%91%e6%a1%86%e6%9e%b6" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h3>&lt;p>&lt;strong>课程要求项目必须使用 &lt;code>C/C++&lt;/code>&lt;/strong>。
-然而 &lt;code>C/C++&lt;/code> 本身是没有办法制作 GUI 的，因此我们需要使用第三方库。&lt;/p>
+然而 &lt;code>C/C++&lt;/code> 本身是没有办法制作 GUI 的 &lt;del>（你一定要用控制台？&lt;a href="https://zhuanlan.zhihu.com/p/282776001" target="_blank" rel="noopener">TUI&lt;/a> 了解一下）&lt;/del> ，因此我们需要使用第三方库。&lt;/p>
 &lt;p>现代的桌面应用程序已经几乎不使用 &lt;code>C/C++&lt;/code> 开发，但是为了降低学习成本，&lt;code>C/C++&lt;/code> 仍是多数学生的唯一选择。&lt;/p>
 &lt;p>好在目前有不少基于 &lt;code>C/C++&lt;/code> 的 GUI 开发框架可供选择，学习起来也不困难。
 以下是教学大纲中提到的 4 个。&lt;/p>
