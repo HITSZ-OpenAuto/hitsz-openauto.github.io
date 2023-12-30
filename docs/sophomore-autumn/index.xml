@@ -128,64 +128,261 @@
 &lt;br>
 &lt;br>&lt;/p>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
-&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp01/%E7%94%A8%E7%A4%BA%E6%B3%A2%E5%99%A8%E8%A7%82%E5%AF%9F%E7%A3%81%E6%BB%9E%E5%9B%9E%E7%BA%BF-MaxwellJay/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E5%90%8E%E5%8D%8A%E9%83%A8%E5%88%86.pdf">Exp01/用示波器观察磁滞回线-MaxwellJay/实验报告后半部分.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp01/%E7%94%A8%E7%A4%BA%E6%B3%A2%E5%99%A8%E8%A7%82%E6%B5%8B%E7%A3%81%E6%BB%9E%E5%9B%9E%E7%BA%BF%2820%E7%BA%A7%20LiuYuming%29.pdf">Exp01/用示波器观测磁滞回线(20级 LiuYuming).pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp01/%E7%94%A8%E7%A4%BA%E6%B3%A2%E5%99%A8%E8%A7%82%E6%B5%8B%E7%A3%81%E6%BB%9E%E5%9B%9E%E7%BA%BF%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx">Exp01/用示波器观测磁滞回线实验报告模板.docx&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp02/%E6%8B%89%E4%BC%B8%E6%B3%95%E6%B5%8B%E6%9D%A8%E6%B0%8F%E5%BC%B9%E6%80%A7%E6%A8%A1%E9%87%8F%2820%E7%BA%A7%20LiuYuming%29.pdf">Exp02/拉伸法测杨氏弹性模量(20级 LiuYuming).pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp02/%E6%8B%89%E4%BC%B8%E6%B3%95%E6%B5%8B%E6%9D%A8%E6%B0%8F%E5%BC%B9%E6%80%A7%E6%A8%A1%E9%87%8F%2822%E7%BA%A7%20Maxwell%20Jay%29.pdf">Exp02/拉伸法测杨氏弹性模量(22级 Maxwell Jay).pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp02/%E6%8B%89%E4%BC%B8%E6%B3%95%E6%B5%8B%E6%9D%A8%E6%B0%8F%E5%BC%B9%E6%80%A7%E6%A8%A1%E9%87%8F%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx">Exp02/拉伸法测杨氏弹性模量实验报告模板.docx&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp03/%E6%B6%B2%E4%BD%93%E9%BB%8F%E5%BA%A6%E6%B5%8B%E5%AE%9A%2820%E7%BA%A7%20LiuYuming%29.pdf">Exp03/液体黏度测定(20级 LiuYuming).pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp03/%E6%B6%B2%E4%BD%93%E9%BB%8F%E5%BA%A6%E7%9A%84%E6%B5%8B%E5%AE%9A%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx">Exp03/液体黏度的测定实验报告模板.docx&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp04/%E8%96%84%E9%80%8F%E9%95%9C%E7%84%A6%E8%B7%9D%E6%B5%8B%E5%AE%9A%2820%E7%BA%A7%20LiuYuming%29.pdf">Exp04/薄透镜焦距测定(20级 LiuYuming).pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp04/%E8%96%84%E9%80%8F%E9%95%9C%E7%84%A6%E8%B7%9D%E7%9A%84%E6%B5%8B%E5%AE%9A%2822%E7%BA%A7%20Maxwell%20Jay%29.pdf">Exp04/薄透镜焦距的测定(22级 Maxwell Jay).pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp04/%E8%96%84%E9%80%8F%E9%95%9C%E7%84%A6%E8%B7%9D%E7%9A%84%E6%B5%8B%E5%AE%9A%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx">Exp04/薄透镜焦距的测定实验报告模板.docx&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp05/%E6%83%A0%E6%96%AF%E9%80%9A%E7%94%B5%E6%A1%A5%E4%B8%8E%E4%BC%8F%E5%AE%89%E7%89%B9%E6%80%A7%2820%E7%BA%A7%20LiuYuming%29.pdf">Exp05/惠斯通电桥与伏安特性(20级 LiuYuming).pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp05/%E7%94%A8%E6%83%A0%E6%96%AF%E9%80%9A%E7%94%B5%E6%A1%A5%E6%B5%8B%E7%94%B5%E9%98%BB%2822%E7%BA%A7%20Maxwell%20Jay%29.pdf">Exp05/用惠斯通电桥测电阻(22级 Maxwell Jay).pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp05/%E7%94%A8%E6%83%A0%E6%96%AF%E9%80%9A%E7%94%B5%E6%A1%A5%E6%B5%8B%E7%94%B5%E9%98%BB%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx">Exp05/用惠斯通电桥测电阻实验报告模板.docx&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp06/DIY%E5%AE%9E%E9%AA%8C%E2%80%94%E2%80%94%E7%A3%81%E8%80%A6%E5%90%88%E8%B0%90%E6%8C%AF%E5%BC%8F%E6%97%A0%E7%BA%BF%E7%94%B5%E5%8A%9B%E4%BC%A0%E8%BE%93%E5%AE%9E%E9%AA%8C%E7%A0%94%E7%A9%B6%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx">Exp06/DIY实验——磁耦合谐振式无线电力传输实验研究实验报告模板.docx&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp06/%E7%A3%81%E8%80%A6%E5%90%88%E5%85%B1%E6%8C%AF%E5%BC%8F%E6%97%A0%E7%BA%BF%E7%94%B5%E5%8A%9B%E4%BC%A0%E8%BE%93%E5%AE%9E%E9%AA%8C%2822%E7%BA%A7%20Maxwell%20Jay%29.pdf">Exp06/磁耦合共振式无线电力传输实验(22级 Maxwell Jay).pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp07/%E5%A3%B0%E9%80%9F%E7%9A%84%E6%B5%8B%E9%87%8F%2822%E7%BA%A7%20Maxwell%20Jay%29.pdf">Exp07/声速的测量(22级 Maxwell Jay).pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp07/%E5%A3%B0%E9%80%9F%E7%9A%84%E6%B5%8B%E9%87%8F%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx">Exp07/声速的测量实验报告模板.docx&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp07/%E7%A9%BA%E6%B0%94%E4%B8%AD%E5%A3%B0%E9%80%9F%E7%9A%84%E6%B5%8B%E9%87%8F%2820%E7%BA%A7%20LiuYuming%29.pdf">Exp07/空气中声速的测量(20级 LiuYuming).pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp08/%E8%BF%88%E5%85%8B%E5%B0%94%E9%80%8A%E5%B9%B2%E6%B6%89%E4%BB%AA%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx">Exp08/迈克尔逊干涉仪实验报告模板.docx&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp09/%E7%94%B5%E5%AD%90%E7%94%B5%E8%8D%B7%E6%B5%8B%E5%AE%9A%E2%80%94%E2%80%94%E5%AF%86%E7%AB%8B%E6%A0%B9%E6%B2%B9%E6%BB%B4%E6%B3%95%2820%E7%BA%A7%20LiuYuming%29.pdf">Exp09/电子电荷测定——密立根油滴法(20级 LiuYuming).pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp09/%E7%94%B5%E5%AD%90%E7%94%B5%E8%8D%B7%E7%9A%84%E6%B5%8B%E5%AE%9A%E2%80%94%E2%80%94%E5%AF%86%E7%AB%8B%E6%A0%B9%E6%B2%B9%E6%BB%B4%E6%B3%95%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx">Exp09/电子电荷的测定——密立根油滴法实验报告模板.docx&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp10/Hall_Effect-MaxwellJay/%E9%9C%8D%E5%B0%94%E6%95%88%E5%BA%94%E4%BC%A0%E6%84%9F%E5%99%A8%E5%92%8C%E5%90%84%E5%90%91%E5%BC%82%E6%80%A7%E7%A3%81%E7%94%B5%E9%98%BB%E4%BC%A0%E6%84%9F%E5%99%A8%2822%E7%BA%A7%20MaxwellJay%29.pdf">Exp10/Hall_Effect-MaxwellJay/霍尔效应传感器和各向异性磁电阻传感器(22级 MaxwellJay).pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp10/%E9%9C%8D%E5%B0%94%E6%95%88%E5%BA%94%2820%E7%BA%A7%20LiuYuming%29.pdf">Exp10/霍尔效应(20级 LiuYuming).pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp10/%E9%9C%8D%E5%B0%94%E6%95%88%E5%BA%94%E4%BC%A0%E6%84%9F%E5%99%A8%E5%92%8C%E5%90%84%E5%90%91%E5%BC%82%E6%80%A7%E7%A3%81%E7%94%B5%E9%98%BB%E4%BC%A0%E6%84%9F%E5%99%A8%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx">Exp10/霍尔效应传感器和各向异性磁电阻传感器实验报告模板.docx&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp11/7_%E5%A4%AA%E9%98%B3%E8%83%BD%E7%94%B5%E6%B1%A0.pdf">Exp11/7_太阳能电池.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp11/%E5%A4%AA%E9%98%B3%E8%83%BD%E7%94%B5%E6%B1%A0%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%89%B9%E6%80%A7%E7%A0%94%E7%A9%B6%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx">Exp11/太阳能电池的基本特性研究实验报告模板.docx&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp12/Surface_tension-MaxwellJay/Report-MaxwellJay.pdf">Exp12/Surface_tension-MaxwellJay/Report-MaxwellJay.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/raw/main/Exp12/%E6%B6%B2%E4%BD%93%E8%A1%A8%E9%9D%A2%E5%BC%A0%E5%8A%9B%E7%B3%BB%E6%95%B0%E6%B5%8B%E9%87%8F%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx">Exp12/液体表面张力系数测量实验报告模板.docx&lt;/a>
-&lt;br>
+&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;div class="hextra-filetree mt-6 select-none text-sm text-gray-800 dark:text-gray-300 not-prose">
+&lt;div class="inline-block rounded-lg border px-4 py-2 dark:border-neutral-800">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Exp01&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">用示波器观察磁滞回线-MaxwellJay&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1002A/Exp01/%E7%94%A8%E7%A4%BA%E6%B3%A2%E5%99%A8%E8%A7%82%E5%AF%9F%E7%A3%81%E6%BB%9E%E5%9B%9E%E7%BA%BF-MaxwellJay/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E5%90%8E%E5%8D%8A%E9%83%A8%E5%88%86.pdf" class="ml-1">实验报告后半部分.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1002A/Exp01/%E7%94%A8%E7%A4%BA%E6%B3%A2%E5%99%A8%E8%A7%82%E6%B5%8B%E7%A3%81%E6%BB%9E%E5%9B%9E%E7%BA%BF%2820%E7%BA%A7%20LiuYuming%29.pdf" class="ml-1">用示波器观测磁滞回线(20级 LiuYuming).pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/Exp01/%E7%94%A8%E7%A4%BA%E6%B3%A2%E5%99%A8%E8%A7%82%E6%B5%8B%E7%A3%81%E6%BB%9E%E5%9B%9E%E7%BA%BF%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx" class="ml-1">用示波器观测磁滞回线实验报告模板.docx&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Exp02&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1002A/Exp02/%E6%8B%89%E4%BC%B8%E6%B3%95%E6%B5%8B%E6%9D%A8%E6%B0%8F%E5%BC%B9%E6%80%A7%E6%A8%A1%E9%87%8F%2820%E7%BA%A7%20LiuYuming%29.pdf" class="ml-1">拉伸法测杨氏弹性模量(20级 LiuYuming).pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1002A/Exp02/%E6%8B%89%E4%BC%B8%E6%B3%95%E6%B5%8B%E6%9D%A8%E6%B0%8F%E5%BC%B9%E6%80%A7%E6%A8%A1%E9%87%8F%2822%E7%BA%A7%20Maxwell%20Jay%29.pdf" class="ml-1">拉伸法测杨氏弹性模量(22级 Maxwell Jay).pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/Exp02/%E6%8B%89%E4%BC%B8%E6%B3%95%E6%B5%8B%E6%9D%A8%E6%B0%8F%E5%BC%B9%E6%80%A7%E6%A8%A1%E9%87%8F%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx" class="ml-1">拉伸法测杨氏弹性模量实验报告模板.docx&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Exp03&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1002A/Exp03/%E6%B6%B2%E4%BD%93%E9%BB%8F%E5%BA%A6%E6%B5%8B%E5%AE%9A%2820%E7%BA%A7%20LiuYuming%29.pdf" class="ml-1">液体黏度测定(20级 LiuYuming).pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/Exp03/%E6%B6%B2%E4%BD%93%E9%BB%8F%E5%BA%A6%E7%9A%84%E6%B5%8B%E5%AE%9A%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx" class="ml-1">液体黏度的测定实验报告模板.docx&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Exp04&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1002A/Exp04/%E8%96%84%E9%80%8F%E9%95%9C%E7%84%A6%E8%B7%9D%E6%B5%8B%E5%AE%9A%2820%E7%BA%A7%20LiuYuming%29.pdf" class="ml-1">薄透镜焦距测定(20级 LiuYuming).pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1002A/Exp04/%E8%96%84%E9%80%8F%E9%95%9C%E7%84%A6%E8%B7%9D%E7%9A%84%E6%B5%8B%E5%AE%9A%2822%E7%BA%A7%20Maxwell%20Jay%29.pdf" class="ml-1">薄透镜焦距的测定(22级 Maxwell Jay).pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/Exp04/%E8%96%84%E9%80%8F%E9%95%9C%E7%84%A6%E8%B7%9D%E7%9A%84%E6%B5%8B%E5%AE%9A%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx" class="ml-1">薄透镜焦距的测定实验报告模板.docx&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Exp05&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1002A/Exp05/%E6%83%A0%E6%96%AF%E9%80%9A%E7%94%B5%E6%A1%A5%E4%B8%8E%E4%BC%8F%E5%AE%89%E7%89%B9%E6%80%A7%2820%E7%BA%A7%20LiuYuming%29.pdf" class="ml-1">惠斯通电桥与伏安特性(20级 LiuYuming).pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1002A/Exp05/%E7%94%A8%E6%83%A0%E6%96%AF%E9%80%9A%E7%94%B5%E6%A1%A5%E6%B5%8B%E7%94%B5%E9%98%BB%2822%E7%BA%A7%20Maxwell%20Jay%29.pdf" class="ml-1">用惠斯通电桥测电阻(22级 Maxwell Jay).pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/Exp05/%E7%94%A8%E6%83%A0%E6%96%AF%E9%80%9A%E7%94%B5%E6%A1%A5%E6%B5%8B%E7%94%B5%E9%98%BB%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx" class="ml-1">用惠斯通电桥测电阻实验报告模板.docx&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Exp06&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/Exp06/DIY%E5%AE%9E%E9%AA%8C%E2%80%94%E2%80%94%E7%A3%81%E8%80%A6%E5%90%88%E8%B0%90%E6%8C%AF%E5%BC%8F%E6%97%A0%E7%BA%BF%E7%94%B5%E5%8A%9B%E4%BC%A0%E8%BE%93%E5%AE%9E%E9%AA%8C%E7%A0%94%E7%A9%B6%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx" class="ml-1">DIY实验——磁耦合谐振式无线电力传输实验研究实验报告模板.docx&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1002A/Exp06/%E7%A3%81%E8%80%A6%E5%90%88%E5%85%B1%E6%8C%AF%E5%BC%8F%E6%97%A0%E7%BA%BF%E7%94%B5%E5%8A%9B%E4%BC%A0%E8%BE%93%E5%AE%9E%E9%AA%8C%2822%E7%BA%A7%20Maxwell%20Jay%29.pdf" class="ml-1">磁耦合共振式无线电力传输实验(22级 Maxwell Jay).pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Exp07&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1002A/Exp07/%E5%A3%B0%E9%80%9F%E7%9A%84%E6%B5%8B%E9%87%8F%2822%E7%BA%A7%20Maxwell%20Jay%29.pdf" class="ml-1">声速的测量(22级 Maxwell Jay).pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/Exp07/%E5%A3%B0%E9%80%9F%E7%9A%84%E6%B5%8B%E9%87%8F%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx" class="ml-1">声速的测量实验报告模板.docx&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1002A/Exp07/%E7%A9%BA%E6%B0%94%E4%B8%AD%E5%A3%B0%E9%80%9F%E7%9A%84%E6%B5%8B%E9%87%8F%2820%E7%BA%A7%20LiuYuming%29.pdf" class="ml-1">空气中声速的测量(20级 LiuYuming).pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Exp08&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/Exp08/%E8%BF%88%E5%85%8B%E5%B0%94%E9%80%8A%E5%B9%B2%E6%B6%89%E4%BB%AA%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx" class="ml-1">迈克尔逊干涉仪实验报告模板.docx&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Exp09&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1002A/Exp09/%E7%94%B5%E5%AD%90%E7%94%B5%E8%8D%B7%E6%B5%8B%E5%AE%9A%E2%80%94%E2%80%94%E5%AF%86%E7%AB%8B%E6%A0%B9%E6%B2%B9%E6%BB%B4%E6%B3%95%2820%E7%BA%A7%20LiuYuming%29.pdf" class="ml-1">电子电荷测定——密立根油滴法(20级 LiuYuming).pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/Exp09/%E7%94%B5%E5%AD%90%E7%94%B5%E8%8D%B7%E7%9A%84%E6%B5%8B%E5%AE%9A%E2%80%94%E2%80%94%E5%AF%86%E7%AB%8B%E6%A0%B9%E6%B2%B9%E6%BB%B4%E6%B3%95%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx" class="ml-1">电子电荷的测定——密立根油滴法实验报告模板.docx&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Exp10&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Hall_Effect-MaxwellJay&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1002A/Exp10/Hall_Effect-MaxwellJay/%E9%9C%8D%E5%B0%94%E6%95%88%E5%BA%94%E4%BC%A0%E6%84%9F%E5%99%A8%E5%92%8C%E5%90%84%E5%90%91%E5%BC%82%E6%80%A7%E7%A3%81%E7%94%B5%E9%98%BB%E4%BC%A0%E6%84%9F%E5%99%A8%2822%E7%BA%A7%20MaxwellJay%29.pdf" class="ml-1">霍尔效应传感器和各向异性磁电阻传感器(22级 MaxwellJay).pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1002A/Exp10/%E9%9C%8D%E5%B0%94%E6%95%88%E5%BA%94%2820%E7%BA%A7%20LiuYuming%29.pdf" class="ml-1">霍尔效应(20级 LiuYuming).pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/Exp10/%E9%9C%8D%E5%B0%94%E6%95%88%E5%BA%94%E4%BC%A0%E6%84%9F%E5%99%A8%E5%92%8C%E5%90%84%E5%90%91%E5%BC%82%E6%80%A7%E7%A3%81%E7%94%B5%E9%98%BB%E4%BC%A0%E6%84%9F%E5%99%A8%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx" class="ml-1">霍尔效应传感器和各向异性磁电阻传感器实验报告模板.docx&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Exp11&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1002A/Exp11/7_%E5%A4%AA%E9%98%B3%E8%83%BD%E7%94%B5%E6%B1%A0.pdf" class="ml-1">7_太阳能电池.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/Exp11/%E5%A4%AA%E9%98%B3%E8%83%BD%E7%94%B5%E6%B1%A0%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%89%B9%E6%80%A7%E7%A0%94%E7%A9%B6%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx" class="ml-1">太阳能电池的基本特性研究实验报告模板.docx&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Exp12&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">Surface_tension-MaxwellJay&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1002A/Exp12/Surface_tension-MaxwellJay/Report-MaxwellJay.pdf" class="ml-1">Report-MaxwellJay.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1002A/Exp12/%E6%B6%B2%E4%BD%93%E8%A1%A8%E9%9D%A2%E5%BC%A0%E5%8A%9B%E7%B3%BB%E6%95%B0%E6%B5%8B%E9%87%8F%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.docx" class="ml-1">液体表面张力系数测量实验报告模板.docx&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/div>
+&lt;/div>
 &lt;br>&lt;/p>
 &lt;h2>支持我们&lt;span class="absolute -mt-20" id="支持我们">&lt;/span>
 &lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%ac" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果你喜欢 HITSZ 自动化课程攻略共享计划，想支持我们，以下是几种支持我们的方式:&lt;/p>
@@ -258,88 +455,210 @@
 &lt;br>&lt;/li>
 &lt;/ol>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
-&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Homewor-2021Fall-01A.pdf">assignments/2021秋作业+答案/Homewor-2021Fall-01A.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Homework-2021Fall-01A.pdf">assignments/2021秋作业+答案/Homework-2021Fall-01A.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Homework-2021Fall-01B.pdf">assignments/2021秋作业+答案/Homework-2021Fall-01B.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Homework-2021Fall-03.pdf">assignments/2021秋作业+答案/Homework-2021Fall-03.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Homework02-2021Fall-A.pdf">assignments/2021秋作业+答案/Homework02-2021Fall-A.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Homework02-2021Fall-B.pdf">assignments/2021秋作业+答案/Homework02-2021Fall-B.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Solution-2021Fall-01A.pdf">assignments/2021秋作业+答案/Solution-2021Fall-01A.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Solution-2021Fall-01B.pdf">assignments/2021秋作业+答案/Solution-2021Fall-01B.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Solution-2021Fall-02A.pdf">assignments/2021秋作业+答案/Solution-2021Fall-02A.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Solution-2021Fall-02B.pdf">assignments/2021秋作业+答案/Solution-2021Fall-02B.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Solution-2021Fall-03.pdf">assignments/2021秋作业+答案/Solution-2021Fall-03.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/%E4%B9%A0%E9%A2%987%E9%83%A8%E5%88%86%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf">assignments/习题7部分题参考答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/%E4%B9%A0%E9%A2%988%E9%83%A8%E5%88%86%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf">assignments/习题8部分题参考答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/%E5%93%88%E5%B7%A5%E5%A4%A7%E4%B9%A0%E9%A2%98%E5%86%8C%E5%A4%8D%E5%8F%98%E4%BD%9C%E4%B8%9A-1.pdf">assignments/哈工大习题册复变作业-1.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/%E5%93%88%E5%B7%A5%E5%A4%A7%E4%B9%A0%E9%A2%98%E5%86%8C%E5%A4%8D%E5%8F%98%E4%BD%9C%E4%B8%9A-2.pdf">assignments/哈工大习题册复变作业-2.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/%E5%93%88%E5%B7%A5%E5%A4%A7%E4%B9%A0%E9%A2%98%E5%86%8C%E5%A4%8D%E5%8F%98%E4%BD%9C%E4%B8%9A-3.pdf">assignments/哈工大习题册复变作业-3.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/%E5%93%88%E5%B7%A5%E5%A4%A7%E4%B9%A0%E9%A2%98%E5%86%8C%E5%A4%8D%E5%8F%98%E4%BD%9C%E4%B8%9A-4.pdf">assignments/哈工大习题册复变作业-4.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/%E5%93%88%E5%B7%A5%E5%A4%A7%E4%B9%A0%E9%A2%98%E5%86%8C%E5%A4%8D%E5%8F%98%E4%BD%9C%E4%B8%9A-5.pdf">assignments/哈工大习题册复变作业-5.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E5%90%8C%E6%AD%A5%E8%AE%AD%E7%BB%83%E4%B9%A0%E9%A2%981%E7%AD%94%E6%A1%88.pdf">assignments/复变函数与积分变换同步训练习题1答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E5%90%8C%E6%AD%A5%E8%AE%AD%E7%BB%83%E4%B9%A0%E9%A2%982%E7%AD%94%E6%A1%88.pdf">assignments/复变函数与积分变换同步训练习题2答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E5%90%8C%E6%AD%A5%E8%AE%AD%E7%BB%83%E4%B9%A0%E9%A2%983%E7%AD%94%E6%A1%88.pdf">assignments/复变函数与积分变换同步训练习题3答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E5%90%8C%E6%AD%A5%E8%AE%AD%E7%BB%83%E4%B9%A0%E9%A2%984%E7%AD%94%E6%A1%88.pdf">assignments/复变函数与积分变换同步训练习题4答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E5%90%8C%E6%AD%A5%E8%AE%AD%E7%BB%83%E4%B9%A0%E9%A2%985%E7%AD%94%E6%A1%88.pdf">assignments/复变函数与积分变换同步训练习题5答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E5%90%8C%E6%AD%A5%E8%AE%AD%E7%BB%83%E4%B9%A0%E9%A2%986%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88.pdf">assignments/复变函数与积分变换同步训练习题6部分答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/assignments/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E5%90%8C%E6%AD%A5%E8%AE%AD%E7%BB%83%E4%B9%A0%E9%A2%987%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88.pdf">assignments/复变函数与积分变换同步训练习题7部分答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/exams/2018%E7%A7%8B%E5%AD%A3%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf">exams/2018秋季复变函数与积分变换期末试题答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/exams/2019%E7%A7%8B%E5%AD%A3%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf">exams/2019秋季复变函数与积分变换期末试题.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/exams/2019%E7%A7%8B%E5%AD%A3%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf">exams/2019秋季复变函数与积分变换期末试题答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/exams/2020%E7%A7%8B%E5%AD%A3%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf">exams/2020秋季复变函数与积分变换期末试题.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/exams/2020%E7%A7%8B%E5%AD%A3%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf">exams/2020秋季复变函数与积分变换期末试题答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/exams/2021%E7%A7%8B%E5%AD%A3%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf">exams/2021秋季复变函数与积分变换期末试题.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/exams/2021%E7%A7%8B%E5%AD%A3%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf">exams/2021秋季复变函数与积分变换期末试题答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/exams/2022%E5%A4%8D%E5%8F%98%E6%A8%A1%E6%8B%9F%E9%A2%98.pdf">exams/2022复变模拟题.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/exams/2022%E5%A4%8D%E5%8F%98%E6%A8%A1%E6%8B%9F%E9%A2%98%E7%AD%94%E6%A1%88.pdf">exams/2022复变模拟题答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/exams/2022%E7%A7%8B%E5%AD%A3%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf">exams/2022秋季复变函数与积分变换期末试题答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/exams/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E7%BB%BC%E5%90%88%E8%AF%95%E9%A2%98.pdf">exams/复变函数与积分变换综合试题.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/exams/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E7%BB%BC%E5%90%88%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf">exams/复变函数与积分变换综合试题答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/materials/SteinandShakarchiComplexAnalysis.pdf">materials/SteinandShakarchiComplexAnalysis.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/materials/%E5%8F%B2%E6%B5%8E%E6%80%80%20-%20%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0.pdf">materials/史济怀 - 复变函数.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/materials/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B%E7%9A%84%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.pdf">materials/复变函数简明教程的简明教程.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1005/raw/main/materials/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E8%AE%B2%E4%B9%89-Hye-20231210.pdf">materials/复变函数讲义-Hye-20231210.pdf&lt;/a>
-&lt;br>
+&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;div class="hextra-filetree mt-6 select-none text-sm text-gray-800 dark:text-gray-300 not-prose">
+&lt;div class="inline-block rounded-lg border px-4 py-2 dark:border-neutral-800">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">assignments&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">2021秋作业&amp;#43;答案&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Homewor-2021Fall-01A.pdf" class="ml-1">Homewor-2021Fall-01A.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Homework-2021Fall-01A.pdf" class="ml-1">Homework-2021Fall-01A.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Homework-2021Fall-01B.pdf" class="ml-1">Homework-2021Fall-01B.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Homework-2021Fall-03.pdf" class="ml-1">Homework-2021Fall-03.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Homework02-2021Fall-A.pdf" class="ml-1">Homework02-2021Fall-A.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Homework02-2021Fall-B.pdf" class="ml-1">Homework02-2021Fall-B.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Solution-2021Fall-01A.pdf" class="ml-1">Solution-2021Fall-01A.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Solution-2021Fall-01B.pdf" class="ml-1">Solution-2021Fall-01B.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Solution-2021Fall-02A.pdf" class="ml-1">Solution-2021Fall-02A.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Solution-2021Fall-02B.pdf" class="ml-1">Solution-2021Fall-02B.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/2021%E7%A7%8B%E4%BD%9C%E4%B8%9A%2B%E7%AD%94%E6%A1%88/Solution-2021Fall-03.pdf" class="ml-1">Solution-2021Fall-03.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/%E4%B9%A0%E9%A2%987%E9%83%A8%E5%88%86%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" class="ml-1">习题7部分题参考答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/%E4%B9%A0%E9%A2%988%E9%83%A8%E5%88%86%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf" class="ml-1">习题8部分题参考答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/%E5%93%88%E5%B7%A5%E5%A4%A7%E4%B9%A0%E9%A2%98%E5%86%8C%E5%A4%8D%E5%8F%98%E4%BD%9C%E4%B8%9A-1.pdf" class="ml-1">哈工大习题册复变作业-1.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/%E5%93%88%E5%B7%A5%E5%A4%A7%E4%B9%A0%E9%A2%98%E5%86%8C%E5%A4%8D%E5%8F%98%E4%BD%9C%E4%B8%9A-2.pdf" class="ml-1">哈工大习题册复变作业-2.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/%E5%93%88%E5%B7%A5%E5%A4%A7%E4%B9%A0%E9%A2%98%E5%86%8C%E5%A4%8D%E5%8F%98%E4%BD%9C%E4%B8%9A-3.pdf" class="ml-1">哈工大习题册复变作业-3.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/%E5%93%88%E5%B7%A5%E5%A4%A7%E4%B9%A0%E9%A2%98%E5%86%8C%E5%A4%8D%E5%8F%98%E4%BD%9C%E4%B8%9A-4.pdf" class="ml-1">哈工大习题册复变作业-4.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/%E5%93%88%E5%B7%A5%E5%A4%A7%E4%B9%A0%E9%A2%98%E5%86%8C%E5%A4%8D%E5%8F%98%E4%BD%9C%E4%B8%9A-5.pdf" class="ml-1">哈工大习题册复变作业-5.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E5%90%8C%E6%AD%A5%E8%AE%AD%E7%BB%83%E4%B9%A0%E9%A2%981%E7%AD%94%E6%A1%88.pdf" class="ml-1">复变函数与积分变换同步训练习题1答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E5%90%8C%E6%AD%A5%E8%AE%AD%E7%BB%83%E4%B9%A0%E9%A2%982%E7%AD%94%E6%A1%88.pdf" class="ml-1">复变函数与积分变换同步训练习题2答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E5%90%8C%E6%AD%A5%E8%AE%AD%E7%BB%83%E4%B9%A0%E9%A2%983%E7%AD%94%E6%A1%88.pdf" class="ml-1">复变函数与积分变换同步训练习题3答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E5%90%8C%E6%AD%A5%E8%AE%AD%E7%BB%83%E4%B9%A0%E9%A2%984%E7%AD%94%E6%A1%88.pdf" class="ml-1">复变函数与积分变换同步训练习题4答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E5%90%8C%E6%AD%A5%E8%AE%AD%E7%BB%83%E4%B9%A0%E9%A2%985%E7%AD%94%E6%A1%88.pdf" class="ml-1">复变函数与积分变换同步训练习题5答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E5%90%8C%E6%AD%A5%E8%AE%AD%E7%BB%83%E4%B9%A0%E9%A2%986%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88.pdf" class="ml-1">复变函数与积分变换同步训练习题6部分答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/assignments/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E5%90%8C%E6%AD%A5%E8%AE%AD%E7%BB%83%E4%B9%A0%E9%A2%987%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88.pdf" class="ml-1">复变函数与积分变换同步训练习题7部分答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">exams&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/exams/2018%E7%A7%8B%E5%AD%A3%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf" class="ml-1">2018秋季复变函数与积分变换期末试题答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/exams/2019%E7%A7%8B%E5%AD%A3%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf" class="ml-1">2019秋季复变函数与积分变换期末试题.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/exams/2019%E7%A7%8B%E5%AD%A3%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf" class="ml-1">2019秋季复变函数与积分变换期末试题答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/exams/2020%E7%A7%8B%E5%AD%A3%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf" class="ml-1">2020秋季复变函数与积分变换期末试题.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/exams/2020%E7%A7%8B%E5%AD%A3%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf" class="ml-1">2020秋季复变函数与积分变换期末试题答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/exams/2021%E7%A7%8B%E5%AD%A3%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf" class="ml-1">2021秋季复变函数与积分变换期末试题.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/exams/2021%E7%A7%8B%E5%AD%A3%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf" class="ml-1">2021秋季复变函数与积分变换期末试题答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/exams/2022%E5%A4%8D%E5%8F%98%E6%A8%A1%E6%8B%9F%E9%A2%98.pdf" class="ml-1">2022复变模拟题.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/exams/2022%E5%A4%8D%E5%8F%98%E6%A8%A1%E6%8B%9F%E9%A2%98%E7%AD%94%E6%A1%88.pdf" class="ml-1">2022复变模拟题答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/exams/2022%E7%A7%8B%E5%AD%A3%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf" class="ml-1">2022秋季复变函数与积分变换期末试题答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/exams/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E7%BB%BC%E5%90%88%E8%AF%95%E9%A2%98.pdf" class="ml-1">复变函数与积分变换综合试题.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/exams/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E7%BB%BC%E5%90%88%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf" class="ml-1">复变函数与积分变换综合试题答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">materials&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/materials/SteinandShakarchiComplexAnalysis.pdf" class="ml-1">SteinandShakarchiComplexAnalysis.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/materials/%E5%8F%B2%E6%B5%8E%E6%80%80%20-%20%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0.pdf" class="ml-1">史济怀 - 复变函数.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/materials/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B%E7%9A%84%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.pdf" class="ml-1">复变函数简明教程的简明教程.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1005/materials/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E8%AE%B2%E4%B9%89-Hye-20231210.pdf" class="ml-1">复变函数讲义-Hye-20231210.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/div>
+&lt;/div>
 &lt;br>&lt;/p>
 &lt;h2>支持我们&lt;span class="absolute -mt-20" id="支持我们">&lt;/span>
 &lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%ac" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果你喜欢 HITSZ 自动化课程攻略共享计划，想支持我们，以下是几种支持我们的方式:&lt;/p>
@@ -377,56 +696,146 @@
 &lt;br>
 &lt;br>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
-&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/assignments/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%90%8C%E6%AD%A5%E8%AE%AD%E7%BB%83.pdf">assignments/概率论与数理统计同步训练.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/2017%E7%A7%8B%E6%B7%B1%E5%9C%B3%E6%A6%82%E7%8E%87%E8%AE%BA%E6%9C%9F%E6%9C%AB_%E7%AD%94%E6%A1%88.pdf">exams/2017秋深圳概率论期末_答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/2017%E7%A7%8B%E6%B7%B1%E5%9C%B3%E6%A6%82%E7%8E%87%E8%AE%BA%E6%9C%9F%E6%9C%AB_%E8%AF%95%E5%8D%B7.pdf">exams/2017秋深圳概率论期末_试卷.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/2019_Probability-2.pdf">exams/2019_Probability-2.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/2019%E6%A6%82%E7%8E%87%E8%AE%BA%E8%AF%95%E5%8D%B7.pdf">exams/2019概率论试卷.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/2021%E5%B9%B4%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E8%AF%95%E9%A2%98A%E5%8D%B7%EF%BC%882021.11.15%EF%BC%89.pdf">exams/2021年概率统计试题A卷（2021.11.15）.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/2022%E6%A6%82%E7%BB%9F%E6%A8%A1%E6%8B%9F%E9%A2%98A4.pdf">exams/2022概统模拟题A4.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/2022%E6%A6%82%E7%BB%9F%E6%A8%A1%E6%8B%9F%E9%A2%98%E7%AD%94%E6%A1%88.docx">exams/2022概统模拟题答案.docx&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/%5BHIT%E6%95%99%E6%9D%90%5D%E6%A6%82%E7%8E%87%E8%AE%BA%E7%BB%BC%E5%90%88%E8%AE%AD%E7%BB%83.pdf">exams/[HIT教材]概率论综合训练.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf">exams/模拟试题/概率论与数理统计模拟试题答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E4%B8%80%EF%BC%89.pdf">exams/模拟试题/概率论与数理统计模拟试题（一）.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E4%B8%83%EF%BC%89.pdf">exams/模拟试题/概率论与数理统计模拟试题（七）.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E4%B8%89%EF%BC%89.pdf">exams/模拟试题/概率论与数理统计模拟试题（三）.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E4%B9%9D%EF%BC%89.pdf">exams/模拟试题/概率论与数理统计模拟试题（九）.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E4%BA%8C%EF%BC%89.pdf">exams/模拟试题/概率论与数理统计模拟试题（二）.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E4%BA%94%EF%BC%89.pdf">exams/模拟试题/概率论与数理统计模拟试题（五）.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E5%85%AB%EF%BC%89.pdf">exams/模拟试题/概率论与数理统计模拟试题（八）.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E5%85%AD%EF%BC%89.pdf">exams/模拟试题/概率论与数理统计模拟试题（六）.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E5%8D%81%E4%B8%80%EF%BC%89.pdf">exams/模拟试题/概率论与数理统计模拟试题（十一）.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E5%8D%81%E4%B8%89%EF%BC%89%E6%A0%A1%E8%AE%A2.pdf">exams/模拟试题/概率论与数理统计模拟试题（十三）校订.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E5%8D%81%E4%BA%8C%EF%BC%89.pdf">exams/模拟试题/概率论与数理统计模拟试题（十二）.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E5%8D%81%E5%9B%9B%EF%BC%89.pdf">exams/模拟试题/概率论与数理统计模拟试题（十四）.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E5%8D%81%EF%BC%89.pdf">exams/模拟试题/概率论与数理统计模拟试题（十）.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E5%9B%9B%EF%BC%89.pdf">exams/模拟试题/概率论与数理统计模拟试题（四）.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/raw/main/materials/Probability-1.pdf">materials/Probability-1.pdf&lt;/a>
-&lt;br>
+&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;div class="hextra-filetree mt-6 select-none text-sm text-gray-800 dark:text-gray-300 not-prose">
+&lt;div class="inline-block rounded-lg border px-4 py-2 dark:border-neutral-800">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">assignments&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/assignments/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%90%8C%E6%AD%A5%E8%AE%AD%E7%BB%83.pdf" class="ml-1">概率论与数理统计同步训练.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">exams&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/2017%E7%A7%8B%E6%B7%B1%E5%9C%B3%E6%A6%82%E7%8E%87%E8%AE%BA%E6%9C%9F%E6%9C%AB_%E7%AD%94%E6%A1%88.pdf" class="ml-1">2017秋深圳概率论期末_答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/2017%E7%A7%8B%E6%B7%B1%E5%9C%B3%E6%A6%82%E7%8E%87%E8%AE%BA%E6%9C%9F%E6%9C%AB_%E8%AF%95%E5%8D%B7.pdf" class="ml-1">2017秋深圳概率论期末_试卷.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/2019_Probability-2.pdf" class="ml-1">2019_Probability-2.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/2019%E6%A6%82%E7%8E%87%E8%AE%BA%E8%AF%95%E5%8D%B7.pdf" class="ml-1">2019概率论试卷.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/2021%E5%B9%B4%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E8%AF%95%E9%A2%98A%E5%8D%B7%EF%BC%882021.11.15%EF%BC%89.pdf" class="ml-1">2021年概率统计试题A卷（2021.11.15）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/2022%E6%A6%82%E7%BB%9F%E6%A8%A1%E6%8B%9F%E9%A2%98A4.pdf" class="ml-1">2022概统模拟题A4.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/MATH1004/exams/2022%E6%A6%82%E7%BB%9F%E6%A8%A1%E6%8B%9F%E9%A2%98%E7%AD%94%E6%A1%88.docx" class="ml-1">2022概统模拟题答案.docx&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/%5BHIT%E6%95%99%E6%9D%90%5D%E6%A6%82%E7%8E%87%E8%AE%BA%E7%BB%BC%E5%90%88%E8%AE%AD%E7%BB%83.pdf" class="ml-1">[HIT教材]概率论综合训练.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">模拟试题&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pdf" class="ml-1">概率论与数理统计模拟试题答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E4%B8%80%EF%BC%89.pdf" class="ml-1">概率论与数理统计模拟试题（一）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E4%B8%83%EF%BC%89.pdf" class="ml-1">概率论与数理统计模拟试题（七）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E4%B8%89%EF%BC%89.pdf" class="ml-1">概率论与数理统计模拟试题（三）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E4%B9%9D%EF%BC%89.pdf" class="ml-1">概率论与数理统计模拟试题（九）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E4%BA%8C%EF%BC%89.pdf" class="ml-1">概率论与数理统计模拟试题（二）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E4%BA%94%EF%BC%89.pdf" class="ml-1">概率论与数理统计模拟试题（五）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E5%85%AB%EF%BC%89.pdf" class="ml-1">概率论与数理统计模拟试题（八）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E5%85%AD%EF%BC%89.pdf" class="ml-1">概率论与数理统计模拟试题（六）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E5%8D%81%E4%B8%80%EF%BC%89.pdf" class="ml-1">概率论与数理统计模拟试题（十一）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E5%8D%81%E4%B8%89%EF%BC%89%E6%A0%A1%E8%AE%A2.pdf" class="ml-1">概率论与数理统计模拟试题（十三）校订.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E5%8D%81%E4%BA%8C%EF%BC%89.pdf" class="ml-1">概率论与数理统计模拟试题（十二）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E5%8D%81%E5%9B%9B%EF%BC%89.pdf" class="ml-1">概率论与数理统计模拟试题（十四）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E5%8D%81%EF%BC%89.pdf" class="ml-1">概率论与数理统计模拟试题（十）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/exams/%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%A8%A1%E6%8B%9F%E8%AF%95%E9%A2%98%EF%BC%88%E5%9B%9B%EF%BC%89.pdf" class="ml-1">概率论与数理统计模拟试题（四）.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">materials&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/MATH1004/materials/Probability-1.pdf" class="ml-1">Probability-1.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/div>
+&lt;/div>
 &lt;br>&lt;/p>
 &lt;h2>支持我们&lt;span class="absolute -mt-20" id="支持我们">&lt;/span>
 &lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%ac" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果你喜欢 HITSZ 自动化课程攻略共享计划，想支持我们，以下是几种支持我们的方式:&lt;/p>
@@ -498,40 +907,105 @@
 &lt;br>&lt;/li>
 &lt;/ul>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
-&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/ch10_%E4%BA%8C%E7%AB%AF%E5%8F%A3%E7%BD%91%E7%BB%9C.pdf">assignments/ch10_二端口网络.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/ch11_%E7%BD%91%E7%BB%9C%E5%9B%BE%E8%AE%BA%E4%B8%8E%E7%BD%91%E7%BB%9C%E6%96%B9%E7%A8%8B.pdf">assignments/ch11_网络图论与网络方程.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/ch12_%E9%9D%9E%E7%BA%BF%E6%80%A7%E7%94%B5%E9%98%BB%E7%94%B5%E8%B7%AF.pdf">assignments/ch12_非线性电阻电路.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/ch13_%E5%9D%87%E5%8C%80%E4%BC%A0%E8%BE%93%E7%BA%BF.pdf">assignments/ch13_均匀传输线.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/%E7%94%B5%E8%B7%AF%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf">assignments/电路习题解答.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/assignments/%E9%99%84%E5%BD%95A_%E7%A3%81%E8%B7%AF.pdf">assignments/附录A_磁路.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/exams/2022%E7%94%B5%E8%B7%AFIB%E6%9C%9F%E6%9C%AB.pdf">exams/2022电路IB期末.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/exams/2022%E7%94%B5%E8%B7%AFIB%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88.pdf">exams/2022电路IB期末答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/exams/%E7%94%B5%E8%B7%AFIB%E5%A4%8D%E4%B9%A0%E6%A3%80%E6%B5%8B.pdf">exams/电路IB复习检测.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/exams/%E7%94%B5%E8%B7%AFIB%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%20V3.pdf">exams/电路IB期末复习参考答案 V3.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/exams/%E7%94%B5%E8%B7%AFIB%E8%A1%A5%E5%85%85%E9%A2%98%205-9%E7%AD%94%E6%A1%88.pdf">exams/电路IB补充题 5-9答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/exams/%E7%94%B5%E8%B7%AFIB%E8%A1%A5%E5%85%85%E9%A2%98.pdf">exams/电路IB补充题.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/slides/10%E7%AB%A0%20%E4%BA%8C%E7%AB%AF%E5%8F%A3%E7%BD%91%E7%BB%9C.rar">slides/10章 二端口网络.rar&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/slides/11%E7%AB%A0%20%E7%BD%91%E7%BB%9C%E5%9B%BE%E8%AE%BA%E4%B8%8E%E7%BD%91%E7%BB%9C%E6%96%B9%E7%A8%8B.rar">slides/11章 网络图论与网络方程.rar&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/slides/12%E7%AB%A0%20%E9%9D%9E%E7%BA%BF%E6%80%A7%E7%94%B5%E9%98%BB%E7%94%B5%E8%B7%AF.rar">slides/12章 非线性电阻电路.rar&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/slides/13%E7%AB%A0%20%E5%9D%87%E5%8C%80%E4%BC%A0%E8%BE%93%E7%BA%BF.rar">slides/13章 均匀传输线.rar&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/raw/main/slides/%E9%99%84%E5%BD%95A%20%E7%A3%81%E8%B7%AF.rar">slides/附录A 磁路.rar&lt;/a>
-&lt;br>
+&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;div class="hextra-filetree mt-6 select-none text-sm text-gray-800 dark:text-gray-300 not-prose">
+&lt;div class="inline-block rounded-lg border px-4 py-2 dark:border-neutral-800">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">assignments&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE1011B/assignments/ch10_%E4%BA%8C%E7%AB%AF%E5%8F%A3%E7%BD%91%E7%BB%9C.pdf" class="ml-1">ch10_二端口网络.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE1011B/assignments/ch11_%E7%BD%91%E7%BB%9C%E5%9B%BE%E8%AE%BA%E4%B8%8E%E7%BD%91%E7%BB%9C%E6%96%B9%E7%A8%8B.pdf" class="ml-1">ch11_网络图论与网络方程.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE1011B/assignments/ch12_%E9%9D%9E%E7%BA%BF%E6%80%A7%E7%94%B5%E9%98%BB%E7%94%B5%E8%B7%AF.pdf" class="ml-1">ch12_非线性电阻电路.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE1011B/assignments/ch13_%E5%9D%87%E5%8C%80%E4%BC%A0%E8%BE%93%E7%BA%BF.pdf" class="ml-1">ch13_均匀传输线.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE1011B/assignments/%E7%94%B5%E8%B7%AF%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf" class="ml-1">电路习题解答.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE1011B/assignments/%E9%99%84%E5%BD%95A_%E7%A3%81%E8%B7%AF.pdf" class="ml-1">附录A_磁路.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">exams&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE1011B/exams/2022%E7%94%B5%E8%B7%AFIB%E6%9C%9F%E6%9C%AB.pdf" class="ml-1">2022电路IB期末.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE1011B/exams/2022%E7%94%B5%E8%B7%AFIB%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88.pdf" class="ml-1">2022电路IB期末答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE1011B/exams/%E7%94%B5%E8%B7%AFIB%E5%A4%8D%E4%B9%A0%E6%A3%80%E6%B5%8B.pdf" class="ml-1">电路IB复习检测.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE1011B/exams/%E7%94%B5%E8%B7%AFIB%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%20V3.pdf" class="ml-1">电路IB期末复习参考答案 V3.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE1011B/exams/%E7%94%B5%E8%B7%AFIB%E8%A1%A5%E5%85%85%E9%A2%98%205-9%E7%AD%94%E6%A1%88.pdf" class="ml-1">电路IB补充题 5-9答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/EE1011B/exams/%E7%94%B5%E8%B7%AFIB%E8%A1%A5%E5%85%85%E9%A2%98.pdf" class="ml-1">电路IB补充题.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">slides&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/slides/10%E7%AB%A0%20%E4%BA%8C%E7%AB%AF%E5%8F%A3%E7%BD%91%E7%BB%9C.rar" class="ml-1">10章 二端口网络.rar&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/slides/11%E7%AB%A0%20%E7%BD%91%E7%BB%9C%E5%9B%BE%E8%AE%BA%E4%B8%8E%E7%BD%91%E7%BB%9C%E6%96%B9%E7%A8%8B.rar" class="ml-1">11章 网络图论与网络方程.rar&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/slides/12%E7%AB%A0%20%E9%9D%9E%E7%BA%BF%E6%80%A7%E7%94%B5%E9%98%BB%E7%94%B5%E8%B7%AF.rar" class="ml-1">12章 非线性电阻电路.rar&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/slides/13%E7%AB%A0%20%E5%9D%87%E5%8C%80%E4%BC%A0%E8%BE%93%E7%BA%BF.rar" class="ml-1">13章 均匀传输线.rar&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/EE1011B/slides/%E9%99%84%E5%BD%95A%20%E7%A3%81%E8%B7%AF.rar" class="ml-1">附录A 磁路.rar&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/div>
+&lt;/div>
 &lt;br>&lt;/p>
 &lt;h2>支持我们&lt;span class="absolute -mt-20" id="支持我们">&lt;/span>
 &lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%ac" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果你喜欢 HITSZ 自动化课程攻略共享计划，想支持我们，以下是几种支持我们的方式:&lt;/p>
@@ -611,12 +1085,40 @@
 &lt;br>&lt;/p>
 &lt;/blockquote>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
-&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO1001/raw/main/exams/2021%E5%93%88%E5%B7%A5%E5%A4%A7%EF%BC%88%E6%B7%B1%E5%9C%B3%EF%BC%89%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%93%E4%B8%9A%E5%AF%BC%E8%AE%BA%E8%AF%95%E9%A2%98A.pdf">exams/2021哈工大（深圳）自动化专业导论试题A.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO1001/raw/main/materials/%E5%B7%A5%E7%A8%8B%E5%88%B6%E5%9B%BE%E5%9F%BA%E7%A1%80.pdf.zip">materials/工程制图基础.pdf.zip&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO1001/raw/main/materials/%E5%B7%A5%E7%A8%8B%E5%88%B6%E5%9B%BE%E5%9F%BA%E7%A1%80%E4%B9%A0%E9%A2%98%E9%9B%86.pdf.pdf">materials/工程制图基础习题集.pdf.pdf&lt;/a>
-&lt;br>
+&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;div class="hextra-filetree mt-6 select-none text-sm text-gray-800 dark:text-gray-300 not-prose">
+&lt;div class="inline-block rounded-lg border px-4 py-2 dark:border-neutral-800">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">exams&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO1001/exams/2021%E5%93%88%E5%B7%A5%E5%A4%A7%EF%BC%88%E6%B7%B1%E5%9C%B3%EF%BC%89%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%93%E4%B8%9A%E5%AF%BC%E8%AE%BA%E8%AF%95%E9%A2%98A.pdf" class="ml-1">2021哈工大（深圳）自动化专业导论试题A.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">materials&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO1001/materials/%E5%B7%A5%E7%A8%8B%E5%88%B6%E5%9B%BE%E5%9F%BA%E7%A1%80.pdf.zip" class="ml-1">工程制图基础.pdf.zip&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/AUTO1001/materials/%E5%B7%A5%E7%A8%8B%E5%88%B6%E5%9B%BE%E5%9F%BA%E7%A1%80%E4%B9%A0%E9%A2%98%E9%9B%86.pdf.pdf" class="ml-1">工程制图基础习题集.pdf.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/div>
+&lt;/div>
 &lt;br>&lt;/p>
 &lt;h2>支持我们&lt;span class="absolute -mt-20" id="支持我们">&lt;/span>
 &lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%ac" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果你喜欢 HITSZ 自动化课程攻略共享计划，想支持我们，以下是几种支持我们的方式:&lt;/p>
@@ -665,24 +1167,64 @@
 &lt;br>
 &lt;br>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
-&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001B/raw/main/exams/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%20%E5%85%89%E5%AD%A6%E7%BB%83%E4%B9%A0.pdf">exams/大学物理IB 光学练习.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001B/raw/main/exams/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%20%E6%9C%BA%E6%A2%B0%E6%8C%AF%E5%8A%A8%E7%BB%83%E4%B9%A0.pdf">exams/大学物理IB 机械振动练习.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001B/raw/main/exams/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%20%E6%9C%BA%E6%A2%B0%E6%B3%A2%E7%BB%83%E4%B9%A0.pdf">exams/大学物理IB 机械波练习.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001B/raw/main/exams/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%20%E7%83%AD%E5%AD%A6%E7%BB%83%E4%B9%A0.pdf">exams/大学物理IB 热学练习.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001B/raw/main/exams/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%E5%BE%80%E5%B9%B4%E9%A2%981.pdf">exams/大学物理IB往年题1.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001B/raw/main/exams/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%E5%BE%80%E5%B9%B4%E9%A2%982.pdf">exams/大学物理IB往年题2.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001B/raw/main/exams/%E5%A4%A7%E7%89%A9IB%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E8%AF%95%E9%A2%98.pdf">exams/大物IB期末复习试题.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001B/raw/main/exams/%E5%A4%A7%E7%89%A9IB%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E8%AF%95%E9%A2%98%E8%A7%A3%E6%9E%90202303%E4%BF%AE.pdf">exams/大物IB期末复习试题解析202303修.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/PHYS1001B/raw/main/materials/%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC%E5%85%AD%E7%89%88%E4%B9%A0%E9%A2%98%E5%88%86%E6%9E%90%E4%B8%8E%E8%A7%A3%E7%AD%94.pdf">materials/物理学第六版习题分析与解答.pdf&lt;/a>
-&lt;br>
+&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;div class="hextra-filetree mt-6 select-none text-sm text-gray-800 dark:text-gray-300 not-prose">
+&lt;div class="inline-block rounded-lg border px-4 py-2 dark:border-neutral-800">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">exams&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1001B/exams/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%20%E5%85%89%E5%AD%A6%E7%BB%83%E4%B9%A0.pdf" class="ml-1">大学物理IB 光学练习.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1001B/exams/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%20%E6%9C%BA%E6%A2%B0%E6%8C%AF%E5%8A%A8%E7%BB%83%E4%B9%A0.pdf" class="ml-1">大学物理IB 机械振动练习.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1001B/exams/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%20%E6%9C%BA%E6%A2%B0%E6%B3%A2%E7%BB%83%E4%B9%A0.pdf" class="ml-1">大学物理IB 机械波练习.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1001B/exams/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%20%E7%83%AD%E5%AD%A6%E7%BB%83%E4%B9%A0.pdf" class="ml-1">大学物理IB 热学练习.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1001B/exams/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%E5%BE%80%E5%B9%B4%E9%A2%981.pdf" class="ml-1">大学物理IB往年题1.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1001B/exams/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86IB%E5%BE%80%E5%B9%B4%E9%A2%982.pdf" class="ml-1">大学物理IB往年题2.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1001B/exams/%E5%A4%A7%E7%89%A9IB%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E8%AF%95%E9%A2%98.pdf" class="ml-1">大物IB期末复习试题.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1001B/exams/%E5%A4%A7%E7%89%A9IB%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E8%AF%95%E9%A2%98%E8%A7%A3%E6%9E%90202303%E4%BF%AE.pdf" class="ml-1">大物IB期末复习试题解析202303修.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">materials&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/PHYS1001B/materials/%E7%89%A9%E7%90%86%E5%AD%A6%E7%AC%AC%E5%85%AD%E7%89%88%E4%B9%A0%E9%A2%98%E5%88%86%E6%9E%90%E4%B8%8E%E8%A7%A3%E7%AD%94.pdf" class="ml-1">物理学第六版习题分析与解答.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/div>
+&lt;/div>
 &lt;br>&lt;/p>
 &lt;h2>支持我们&lt;span class="absolute -mt-20" id="支持我们">&lt;/span>
 &lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%ac" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果你喜欢 HITSZ 自动化课程攻略共享计划，想支持我们，以下是几种支持我们的方式:&lt;/p>
@@ -749,7 +1291,11 @@
 &lt;br>
 &lt;br>&lt;/p>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
-&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;br>
+&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;div class="hextra-filetree mt-6 select-none text-sm text-gray-800 dark:text-gray-300 not-prose">
+&lt;div class="inline-block rounded-lg border px-4 py-2 dark:border-neutral-800">
+&lt;/div>
+&lt;/div>
+&lt;br>&lt;/p>
 &lt;h2>支持我们&lt;span class="absolute -mt-20" id="支持我们">&lt;/span>
 &lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%ac" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果你喜欢 HITSZ 自动化课程攻略共享计划，想支持我们，以下是几种支持我们的方式:&lt;/p>
 &lt;ul>
@@ -798,16 +1344,48 @@
 &lt;br>
 &lt;br>&lt;/p>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
-&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/GEIP1011/raw/main/exams/2021%E7%BA%A7%E9%A9%AC%E5%8E%9F%E4%B8%BB%E8%A7%82%E9%A2%98_Tintin.pdf">exams/2021级马原主观题_Tintin.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/GEIP1011/raw/main/exams/2022%E9%A9%AC%E5%8E%9F%E7%90%86%E8%AF%95%E9%A2%98%E5%9B%9E%E5%BF%86.pdf">exams/2022马原理试题回忆.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/GEIP1011/raw/main/exams/2023%E5%B9%B4%E7%A7%8B%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%9B%9E%E5%BF%86%E7%89%88%E8%AF%95%E9%A2%98.pdf">exams/2023年秋马克思主义基本原理期末考试回忆版试题.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/GEIP1011/raw/main/exams/2023%E7%A7%8B%E9%A9%AC%E5%8E%9F%E7%90%86%E6%9C%9F%E6%9C%AB%E5%9B%9E%E5%BF%86%E7%89%88%E7%AD%94%E6%A1%88.pdf">exams/2023秋马原理期末回忆版答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/GEIP1011/raw/main/notes/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E4%B8%B2%E8%AE%B2%E8%AF%BE%E6%95%B4%E7%90%862022.pdf">notes/马克思主义基本原理串讲课整理2022.pdf&lt;/a>
-&lt;br>
+&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;div class="hextra-filetree mt-6 select-none text-sm text-gray-800 dark:text-gray-300 not-prose">
+&lt;div class="inline-block rounded-lg border px-4 py-2 dark:border-neutral-800">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">exams&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/GEIP1011/exams/2021%E7%BA%A7%E9%A9%AC%E5%8E%9F%E4%B8%BB%E8%A7%82%E9%A2%98_Tintin.pdf" class="ml-1">2021级马原主观题_Tintin.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/GEIP1011/exams/2022%E9%A9%AC%E5%8E%9F%E7%90%86%E8%AF%95%E9%A2%98%E5%9B%9E%E5%BF%86.pdf" class="ml-1">2022马原理试题回忆.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/GEIP1011/exams/2023%E5%B9%B4%E7%A7%8B%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%9B%9E%E5%BF%86%E7%89%88%E8%AF%95%E9%A2%98.pdf" class="ml-1">2023年秋马克思主义基本原理期末考试回忆版试题.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/GEIP1011/exams/2023%E7%A7%8B%E9%A9%AC%E5%8E%9F%E7%90%86%E6%9C%9F%E6%9C%AB%E5%9B%9E%E5%BF%86%E7%89%88%E7%AD%94%E6%A1%88.pdf" class="ml-1">2023秋马原理期末回忆版答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">notes&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/GEIP1011/notes/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E4%B8%B2%E8%AE%B2%E8%AF%BE%E6%95%B4%E7%90%862022.pdf" class="ml-1">马克思主义基本原理串讲课整理2022.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/div>
+&lt;/div>
 &lt;br>&lt;/p>
 &lt;h2>支持我们&lt;span class="absolute -mt-20" id="支持我们">&lt;/span>
 &lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%ac" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果你喜欢 HITSZ 自动化课程攻略共享计划，想支持我们，以下是几种支持我们的方式:&lt;/p>
@@ -910,32 +1488,89 @@
 &lt;br>
 &lt;br>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
-&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/COMP2014/raw/main/assignments/2023%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9FC%2B%2B%E4%BD%9C%E4%B8%9A/C%2B%2B2023%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E4%BD%9C%E4%B8%9A1.pdf">assignments/2023秋季学期C++作业/C++2023秋季学期作业1.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/COMP2014/raw/main/assignments/2023%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9FC%2B%2B%E4%BD%9C%E4%B8%9A/C%2B%2B2023%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E4%BD%9C%E4%B8%9A2.pdf">assignments/2023秋季学期C++作业/C++2023秋季学期作业2.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/COMP2014/raw/main/assignments/2023%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9FC%2B%2B%E4%BD%9C%E4%B8%9A/C%2B%2B2023%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E4%BD%9C%E4%B8%9A3.pdf">assignments/2023秋季学期C++作业/C++2023秋季学期作业3.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/COMP2014/raw/main/assignments/2023%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9FC%2B%2B%E4%BD%9C%E4%B8%9A/C%2B%2B2023%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E4%BD%9C%E4%B8%9A4.pdf">assignments/2023秋季学期C++作业/C++2023秋季学期作业4.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/COMP2014/raw/main/slides/0%E7%BB%AA%E8%AE%BA.pdf">slides/0绪论.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/COMP2014/raw/main/slides/1C%2B%2B%E6%96%B0%E7%89%B9%E5%BE%81.pdf">slides/1C++新特征.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/COMP2014/raw/main/slides/2%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1.pdf">slides/2类和对象.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/COMP2014/raw/main/slides/3%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1%E7%9A%84%E4%BD%BF%E7%94%A8.pdf">slides/3类和对象的使用.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/COMP2014/raw/main/slides/4%E8%BF%90%E7%AE%97%E7%AC%A6%E9%87%8D%E8%BD%BD.pdf">slides/4运算符重载.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/COMP2014/raw/main/slides/5%E7%B1%BB%E7%9A%84%E7%BB%A7%E6%89%BF.pdf">slides/5类的继承.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/COMP2014/raw/main/slides/6C%2B%2B%E7%9A%84%E5%A4%9A%E6%80%81%E6%80%A7.pdf">slides/6C++的多态性.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/COMP2014/raw/main/slides/7%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E6%B5%81.pdf">slides/7输入输出流.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/COMP2014/raw/main/slides/8%E7%BC%96%E7%A8%8B%E8%A7%84%E8%8C%83.pdf">slides/8编程规范.pdf&lt;/a>
-&lt;br>
+&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;div class="hextra-filetree mt-6 select-none text-sm text-gray-800 dark:text-gray-300 not-prose">
+&lt;div class="inline-block rounded-lg border px-4 py-2 dark:border-neutral-800">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">assignments&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">2023秋季学期C&amp;#43;&amp;#43;作业&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/COMP2014/assignments/2023%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9FC%2B%2B%E4%BD%9C%E4%B8%9A/C%2B%2B2023%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E4%BD%9C%E4%B8%9A1.pdf" class="ml-1">C++2023秋季学期作业1.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/COMP2014/assignments/2023%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9FC%2B%2B%E4%BD%9C%E4%B8%9A/C%2B%2B2023%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E4%BD%9C%E4%B8%9A2.pdf" class="ml-1">C++2023秋季学期作业2.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/COMP2014/assignments/2023%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9FC%2B%2B%E4%BD%9C%E4%B8%9A/C%2B%2B2023%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E4%BD%9C%E4%B8%9A3.pdf" class="ml-1">C++2023秋季学期作业3.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/COMP2014/assignments/2023%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9FC%2B%2B%E4%BD%9C%E4%B8%9A/C%2B%2B2023%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E4%BD%9C%E4%B8%9A4.pdf" class="ml-1">C++2023秋季学期作业4.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">slides&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/COMP2014/slides/0%E7%BB%AA%E8%AE%BA.pdf" class="ml-1">0绪论.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/COMP2014/slides/1C%2B%2B%E6%96%B0%E7%89%B9%E5%BE%81.pdf" class="ml-1">1C++新特征.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/COMP2014/slides/2%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1.pdf" class="ml-1">2类和对象.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/COMP2014/slides/3%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1%E7%9A%84%E4%BD%BF%E7%94%A8.pdf" class="ml-1">3类和对象的使用.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/COMP2014/slides/4%E8%BF%90%E7%AE%97%E7%AC%A6%E9%87%8D%E8%BD%BD.pdf" class="ml-1">4运算符重载.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/COMP2014/slides/5%E7%B1%BB%E7%9A%84%E7%BB%A7%E6%89%BF.pdf" class="ml-1">5类的继承.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/COMP2014/slides/6C%2B%2B%E7%9A%84%E5%A4%9A%E6%80%81%E6%80%A7.pdf" class="ml-1">6C++的多态性.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/COMP2014/slides/7%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E6%B5%81.pdf" class="ml-1">7输入输出流.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/COMP2014/slides/8%E7%BC%96%E7%A8%8B%E8%A7%84%E8%8C%83.pdf" class="ml-1">8编程规范.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/div>
+&lt;/div>
 &lt;br>&lt;/p>
 &lt;h2>支持我们&lt;span class="absolute -mt-20" id="支持我们">&lt;/span>
 &lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%ac" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果你喜欢 HITSZ 自动化课程攻略共享计划，想支持我们，以下是几种支持我们的方式:&lt;/p>
@@ -974,28 +1609,81 @@
 &lt;br>
 &lt;br>
 &lt;h2>资料下载&lt;span class="absolute -mt-20" id="资料下载">&lt;/span>
-&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/CHEM1012/raw/main/materials/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6-%20%E5%82%85%E7%8C%AE%E5%BD%A9%E7%AC%AC%E4%BA%94%E7%89%88%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf">materials/物理化学- 傅献彩第五版课后习题及答案.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/CHEM1012/raw/main/materials/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%EF%BC%8D%E5%82%85%E7%8C%AE%E5%BD%A9%2B%E4%B8%8A%E5%86%8C.pdf">materials/物理化学－傅献彩+上册.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/CHEM1012/raw/main/materials/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%EF%BC%8D%E5%82%85%E7%8C%AE%E5%BD%A9%2B%E4%B8%8B%E5%86%8C.pdf">materials/物理化学－傅献彩+下册.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/CHEM1012/raw/main/slides/2023%E5%B9%B4%E8%AF%BE%E4%BB%B6/0-%E7%BB%AA%E8%AE%BA.pdf">slides/2023年课件/0-绪论.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/CHEM1012/raw/main/slides/2023%E5%B9%B4%E8%AF%BE%E4%BB%B6/1_%E5%8C%96%E5%AD%A6%E5%8F%8D%E5%BA%94%E7%83%AD2.pdf">slides/2023年课件/1_化学反应热2.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/CHEM1012/raw/main/slides/2023%E5%B9%B4%E8%AF%BE%E4%BB%B6/2_%E5%8C%96%E5%AD%A6%E5%8F%8D%E5%BA%94%E7%9A%84%E6%96%B9%E5%90%91%E5%92%8C%E9%99%90%E5%BA%A62.5.pdf">slides/2023年课件/2_化学反应的方向和限度2.5.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/CHEM1012/raw/main/slides/2023%E5%B9%B4%E8%AF%BE%E4%BB%B6/3_%E5%8C%96%E5%AD%A6%E5%8F%8D%E5%BA%94%E7%9A%84%E9%80%9F%E7%8E%872.5.pdf">slides/2023年课件/3_化学反应的速率2.5.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/CHEM1012/raw/main/slides/2023%E5%B9%B4%E8%AF%BE%E4%BB%B6/4_%E6%BA%B6%E6%B6%B2%E5%8F%8A%E6%BA%B6%E6%B6%B2%E4%B8%AD%E7%9A%84%E7%A6%BB%E5%AD%90%E5%B9%B3%E8%A1%A14.pdf">slides/2023年课件/4_溶液及溶液中的离子平衡4.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/CHEM1012/raw/main/slides/2023%E5%B9%B4%E8%AF%BE%E4%BB%B6/5_%E6%B0%A7%E5%8C%96%E8%BF%98%E5%8E%9F%E5%8F%8D%E5%BA%94%E4%B8%8E%E7%94%B5%E5%8C%96%E5%AD%A64.pdf">slides/2023年课件/5_氧化还原反应与电化学4.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/CHEM1012/raw/main/slides/2023%E5%B9%B4%E8%AF%BE%E4%BB%B6/7_%E5%88%86%E5%AD%90%E7%BB%93%E6%9E%84%E4%B8%8E%E6%99%B6%E4%BD%93%E7%BB%93%E6%9E%848.pdf">slides/2023年课件/7_分子结构与晶体结构8.pdf&lt;/a>
-&lt;br>
-&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/CHEM1012/raw/main/slides/2023%E5%B9%B4%E8%AF%BE%E4%BB%B6/8_%E8%A1%A8%E9%9D%A2%E5%8C%96%E5%AD%A62.pdf">slides/2023年课件/8_表面化学2.pdf&lt;/a>
-&lt;br>
+&lt;a href="#%e8%b5%84%e6%96%99%e4%b8%8b%e8%bd%bd" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;div class="hextra-filetree mt-6 select-none text-sm text-gray-800 dark:text-gray-300 not-prose">
+&lt;div class="inline-block rounded-lg border px-4 py-2 dark:border-neutral-800">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">materials&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/CHEM1012/materials/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6-%20%E5%82%85%E7%8C%AE%E5%BD%A9%E7%AC%AC%E4%BA%94%E7%89%88%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf" class="ml-1">物理化学- 傅献彩第五版课后习题及答案.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/CHEM1012/materials/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%EF%BC%8D%E5%82%85%E7%8C%AE%E5%BD%A9%2B%E4%B8%8A%E5%86%8C.pdf" class="ml-1">物理化学－傅献彩+上册.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/CHEM1012/materials/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%EF%BC%8D%E5%82%85%E7%8C%AE%E5%BD%A9%2B%E4%B8%8B%E5%86%8C.pdf" class="ml-1">物理化学－傅献彩+下册.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">slides&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">2023年课件&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/CHEM1012/slides/2023%E5%B9%B4%E8%AF%BE%E4%BB%B6/0-%E7%BB%AA%E8%AE%BA.pdf" class="ml-1">0-绪论.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/CHEM1012/slides/2023%E5%B9%B4%E8%AF%BE%E4%BB%B6/1_%E5%8C%96%E5%AD%A6%E5%8F%8D%E5%BA%94%E7%83%AD2.pdf" class="ml-1">1_化学反应热2.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/CHEM1012/slides/2023%E5%B9%B4%E8%AF%BE%E4%BB%B6/2_%E5%8C%96%E5%AD%A6%E5%8F%8D%E5%BA%94%E7%9A%84%E6%96%B9%E5%90%91%E5%92%8C%E9%99%90%E5%BA%A62.5.pdf" class="ml-1">2_化学反应的方向和限度2.5.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/CHEM1012/slides/2023%E5%B9%B4%E8%AF%BE%E4%BB%B6/3_%E5%8C%96%E5%AD%A6%E5%8F%8D%E5%BA%94%E7%9A%84%E9%80%9F%E7%8E%872.5.pdf" class="ml-1">3_化学反应的速率2.5.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/CHEM1012/slides/2023%E5%B9%B4%E8%AF%BE%E4%BB%B6/4_%E6%BA%B6%E6%B6%B2%E5%8F%8A%E6%BA%B6%E6%B6%B2%E4%B8%AD%E7%9A%84%E7%A6%BB%E5%AD%90%E5%B9%B3%E8%A1%A14.pdf" class="ml-1">4_溶液及溶液中的离子平衡4.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/CHEM1012/slides/2023%E5%B9%B4%E8%AF%BE%E4%BB%B6/5_%E6%B0%A7%E5%8C%96%E8%BF%98%E5%8E%9F%E5%8F%8D%E5%BA%94%E4%B8%8E%E7%94%B5%E5%8C%96%E5%AD%A64.pdf" class="ml-1">5_氧化还原反应与电化学4.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/CHEM1012/slides/2023%E5%B9%B4%E8%AF%BE%E4%BB%B6/7_%E5%88%86%E5%AD%90%E7%BB%93%E6%9E%84%E4%B8%8E%E6%99%B6%E4%BD%93%E7%BB%93%E6%9E%848.pdf" class="ml-1">7_分子结构与晶体结构8.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://cdn.jsdelivr.net/gh/HITSZ-OpenAuto/CHEM1012/slides/2023%E5%B9%B4%E8%AF%BE%E4%BB%B6/8_%E8%A1%A8%E9%9D%A2%E5%8C%96%E5%AD%A62.pdf" class="ml-1">8_表面化学2.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/div>
+&lt;/div>
 &lt;br>&lt;/p>
 &lt;h2>支持我们&lt;span class="absolute -mt-20" id="支持我们">&lt;/span>
 &lt;a href="#%e6%94%af%e6%8c%81%e6%88%91%e4%bb%ac" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>如果你喜欢 HITSZ 自动化课程攻略共享计划，想支持我们，以下是几种支持我们的方式:&lt;/p>
