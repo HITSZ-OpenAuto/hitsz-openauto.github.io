@@ -1306,6 +1306,27 @@ cellspacing——单元格之间的间隔，单位像素
 &lt;/li>
 &lt;/ul>
 &lt;/li>
+&lt;li class="group flex list-none flex-col">
+&lt;button class="hextra-filetree-folder inline-flex cursor-pointer items-center py-1 hover:opacity-60">
+&lt;span data-state="closed" class="data-[state=open]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span data-state="closed" class="data-[state=closed]:hidden">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z"/>&lt;/svg>&lt;/span>
+&lt;span class="ml-1">slides&lt;/span>
+&lt;/button>
+&lt;ul data-state="closed" class="pl-5 data-[state=closed]:hidden">
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001A/raw/main/slides/2021%E8%AF%BE%E4%BB%B6%E5%90%88%E8%AE%A2%E6%9C%AC.pdf" class="ml-1">2021课件合订本.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001A/raw/main/slides/2022%E8%AF%BE%E4%BB%B6%E5%90%88%E8%AE%A2%E6%9C%AC.pdf" class="ml-1">2022课件合订本.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;li class="flex list-none">
+&lt;span class="inline-flex cursor-default items-center py-1">&lt;svg width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">&lt;path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>&lt;/svg>&lt;a href="https://gh.hoa.moe/github.com/HITSZ-OpenAuto/AUTO3001A/raw/main/slides/2023%E8%AF%BE%E4%BB%B6%E5%90%88%E8%AE%A2%E6%9C%AC.pdf" class="ml-1">2023课件合订本.pdf&lt;/a>
+&lt;/span>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/div>
 &lt;/div>
 &lt;br>&lt;/p>
